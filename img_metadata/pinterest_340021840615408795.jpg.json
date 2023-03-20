@@ -1,0 +1,964 @@
+{
+    "access": [],
+    "ad_match_reason": 0,
+    "additional_hide_reasons": [],
+    "aggregated_pin_data": {
+        "aggregated_stats": {
+            "done": 0,
+            "saves": 19
+        },
+        "creator_analytics": null,
+        "did_it_data": {
+            "details_count": 0,
+            "images_count": 0,
+            "rating": -1,
+            "recommend_scores": [
+                {
+                    "count": 0,
+                    "score": 1
+                },
+                {
+                    "count": 0,
+                    "score": 0.5
+                },
+                {
+                    "count": 0,
+                    "score": 0
+                }
+            ],
+            "recommended_count": 0,
+            "responses_count": 0,
+            "tags": [],
+            "type": "aggregateddiditdata",
+            "user_count": 0,
+            "videos_count": 0
+        },
+        "has_xy_tags": false,
+        "id": "4912757291752636344",
+        "is_shop_the_look": false
+    },
+    "alt_text": null,
+    "attribution": null,
+    "board": {
+        "access": [],
+        "allow_homefeed_recommendations": true,
+        "archived_by_me_at": null,
+        "blocking_actions": [],
+        "board_order_modified_at": "Thu, 14 Jul 2022 03:39:33 +0000",
+        "category": "other",
+        "collab_board_email": false,
+        "collaborated_by_me": false,
+        "collaborator_count": 0,
+        "collaborator_invites_enabled": false,
+        "collaborator_permissions": [
+            1,
+            6,
+            7,
+            9,
+            8,
+            11,
+            3,
+            15
+        ],
+        "collaborator_permissions_setting": 1,
+        "collaborator_requests_enabled": false,
+        "cover_pin": {
+            "image_signature": "6b99475aed453a7e6ec7283e4cdfd542",
+            "pin_id": "340021840599132999",
+            "timestamp": 1468202875
+        },
+        "description": "",
+        "event_date": null,
+        "event_start_date": null,
+        "followed_by_me": false,
+        "follower_count": 283,
+        "id": "340021909305902045",
+        "image_cover_url": "https://i.pinimg.com/200x150/6b/99/47/6b99475aed453a7e6ec7283e4cdfd542.jpg",
+        "images": {
+            "474x": [
+                {
+                    "dominant_color": "#47494A",
+                    "height": 711,
+                    "url": "https://i.pinimg.com/474x/f1/d5/b2/f1d5b2eda98301ffef970830bf5f7cf8.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#7C784A",
+                    "height": 316,
+                    "url": "https://i.pinimg.com/474x/db/58/7a/db587acb47d6117413aebff246cf5106.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#95969A",
+                    "height": 600,
+                    "url": "https://i.pinimg.com/474x/ad/7f/66/ad7f668c9760841ab6b312079790e13d.jpg",
+                    "width": 400
+                },
+                {
+                    "dominant_color": "#8C6B3E",
+                    "height": 416,
+                    "url": "https://i.pinimg.com/474x/ab/91/6e/ab916ecf0d298148aa912adf084178bc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B5914C",
+                    "height": 187,
+                    "url": "https://i.pinimg.com/474x/4a/ab/c5/4aabc5aaa95939f1b26eeb4a9affff69.jpg",
+                    "width": 236
+                },
+                {
+                    "dominant_color": "#B5A06E",
+                    "height": 424,
+                    "url": "https://i.pinimg.com/474x/2a/64/85/2a64850251968c5c46d2fc51055f223e.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#527B2A",
+                    "height": 355,
+                    "url": "https://i.pinimg.com/474x/b2/74/a4/b274a4c0c0af82b0357b40fa9fa4fffc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A78543",
+                    "height": 324,
+                    "url": "https://i.pinimg.com/474x/db/44/4e/db444e72ed4fd6867bc61e8d1919e9cf.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A28660",
+                    "height": 418,
+                    "url": "https://i.pinimg.com/474x/4c/af/4c/4caf4cc04ac7c77d0188136d2a1e2dde.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B69267",
+                    "height": 313,
+                    "url": "https://i.pinimg.com/474x/34/d7/97/34d797b3c8cb0694a6858d717cf84fbd.jpg",
+                    "width": 474
+                }
+            ]
+        },
+        "is_ads_only": false,
+        "is_collaborative": false,
+        "layout": "default",
+        "map_id": "pinterest.ijz1714i",
+        "name": "crop circles",
+        "owner": {
+            "ads_only_profile_site": null,
+            "blocked_by_me": false,
+            "domain_url": null,
+            "first_name": "kim",
+            "full_name": "kim hinkle",
+            "id": "340021978025015150",
+            "image_medium_url": "https://s.pinimg.com/images/user/default_75.png",
+            "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+            "image_xlarge_url": "https://s.pinimg.com/images/user/default_280.png",
+            "indexed": true,
+            "is_ads_only_profile": false,
+            "is_partner": false,
+            "is_tastemaker": false,
+            "last_name": "",
+            "locale": "en-US",
+            "type": "user",
+            "username": "kandchinkle"
+        },
+        "pin_count": 4972,
+        "privacy": "public",
+        "section_count": 0,
+        "sectionless_pin_count": 4972,
+        "seo_canonical_domain": "www.pinterest.com",
+        "seo_description": "Jul 14, 2022 - Explore kim hinkle's board \"crop circles\", followed by 283 people on Pinterest. See more ideas about crop circles, cropped, circle.",
+        "seo_noindex_reason": null,
+        "seo_related_interests": [
+            {
+                "image": {
+                    "1200x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/1200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 170,
+                        "url": "https://i.pinimg.com/170x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 192,
+                        "url": "https://i.pinimg.com/192x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 200,
+                        "url": "https://i.pinimg.com/200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 222,
+                        "url": "https://i.pinimg.com/222x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 236,
+                        "url": "https://i.pinimg.com/236x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 237,
+                        "url": "https://i.pinimg.com/237x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 290,
+                        "url": "https://i.pinimg.com/290x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 345,
+                        "url": "https://i.pinimg.com/345x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 400,
+                        "url": "https://i.pinimg.com/400x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 474,
+                        "url": "https://i.pinimg.com/474x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 550,
+                        "url": "https://i.pinimg.com/550x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 564,
+                        "url": "https://i.pinimg.com/564x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 600,
+                        "url": "https://i.pinimg.com/600x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/640x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/736x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "750x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/750x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/originals/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    }
+                },
+                "name": "Sacred Geometry",
+                "url": "/ideas/sacred-geometry/901152072692/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/1200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 238,
+                        "url": "https://i.pinimg.com/170x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 269,
+                        "url": "https://i.pinimg.com/192x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 280,
+                        "url": "https://i.pinimg.com/200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 311,
+                        "url": "https://i.pinimg.com/222x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 330,
+                        "url": "https://i.pinimg.com/236x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 332,
+                        "url": "https://i.pinimg.com/237x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 406,
+                        "url": "https://i.pinimg.com/290x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 483,
+                        "url": "https://i.pinimg.com/345x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 560,
+                        "url": "https://i.pinimg.com/400x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 664,
+                        "url": "https://i.pinimg.com/474x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 770,
+                        "url": "https://i.pinimg.com/550x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 790,
+                        "url": "https://i.pinimg.com/564x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 840,
+                        "url": "https://i.pinimg.com/600x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 896,
+                        "url": "https://i.pinimg.com/640x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 98,
+                        "url": "https://i.pinimg.com/70x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 1031,
+                        "url": "https://i.pinimg.com/736x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 1050,
+                        "url": "https://i.pinimg.com/750x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/originals/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    }
+                },
+                "name": "Geometry",
+                "url": "/ideas/geometry/926306432669/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/1200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 212,
+                        "url": "https://i.pinimg.com/170x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 240,
+                        "url": "https://i.pinimg.com/192x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 250,
+                        "url": "https://i.pinimg.com/200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 277,
+                        "url": "https://i.pinimg.com/222x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 295,
+                        "url": "https://i.pinimg.com/236x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 296,
+                        "url": "https://i.pinimg.com/237x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 362,
+                        "url": "https://i.pinimg.com/290x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 431,
+                        "url": "https://i.pinimg.com/345x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 500,
+                        "url": "https://i.pinimg.com/400x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/474x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "550x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/550x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "564x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/564x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "600x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/600x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/640x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "70x": {
+                        "height": 87,
+                        "url": "https://i.pinimg.com/70x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/736x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "750x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/750x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/originals/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    }
+                },
+                "name": "Land Art",
+                "url": "/ideas/land-art/952166851654/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/1200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 113,
+                        "url": "https://i.pinimg.com/170x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 127,
+                        "url": "https://i.pinimg.com/192x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 133,
+                        "url": "https://i.pinimg.com/200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 147,
+                        "url": "https://i.pinimg.com/222x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/236x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/237x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 193,
+                        "url": "https://i.pinimg.com/290x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 229,
+                        "url": "https://i.pinimg.com/345x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 266,
+                        "url": "https://i.pinimg.com/400x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 315,
+                        "url": "https://i.pinimg.com/474x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 366,
+                        "url": "https://i.pinimg.com/550x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 375,
+                        "url": "https://i.pinimg.com/564x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 399,
+                        "url": "https://i.pinimg.com/600x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 426,
+                        "url": "https://i.pinimg.com/640x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 46,
+                        "url": "https://i.pinimg.com/70x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 490,
+                        "url": "https://i.pinimg.com/736x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 499,
+                        "url": "https://i.pinimg.com/750x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/originals/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    }
+                },
+                "name": "Crop Circles Photography",
+                "url": "/ideas/crop-circles-photography/924199160619/"
+            }
+        ],
+        "seo_title": "900+ Crop circles ideas | crop circles, cropped, circle",
+        "should_show_more_ideas": true,
+        "should_show_shop_feed": false,
+        "topic": null,
+        "type": "board",
+        "url": "/kandchinkle/crop-circles/",
+        "viewer_collaborator_join_requested": false,
+        "viewer_contact_request": null
+    },
+    "carousel_data": null,
+    "category": "pinterest",
+    "comment_count": 0,
+    "comments": {
+        "bookmark": null,
+        "data": [],
+        "uri": "/v3/pins/340021840615408795/comments/"
+    },
+    "created_at": "Sat, 09 Mar 2019 02:30:06 +0000",
+    "creator_analytics": null,
+    "debug_info_html": null,
+    "description": "Nueva Consciencia: El mensaje de LOS CÍRCULOS DE LAS COSECHAS",
+    "description_html": "Nueva Consciencia: El mensaje de LOS CÍRCULOS DE LAS COSECHAS",
+    "domain": "nueva-gaia.blogspot.com.es",
+    "dominant_color": "#465914",
+    "done_by_me": false,
+    "embed": null,
+    "extension": "jpg",
+    "favorite_user_count": 0,
+    "favorited_by_me": false,
+    "filename": "b5911e6e6c966704faa3f7c65bd58660",
+    "grid_description": "Nueva Consciencia: El mensaje de LOS CÍRCULOS DE LAS COSECHAS",
+    "grid_title": "El mensaje de LOS CÍRCULOS DE LAS COSECHAS",
+    "has_required_attribution_provider": false,
+    "height": 309,
+    "id": "340021840615408795",
+    "image_crop": {
+        "max_y": 1,
+        "min_y": 0
+    },
+    "image_signature": "b5911e6e6c966704faa3f7c65bd58660",
+    "images": {
+        "136x136": {
+            "height": 136,
+            "url": "https://i.pinimg.com/136x136/b5/91/1e/b5911e6e6c966704faa3f7c65bd58660.jpg",
+            "width": 136
+        },
+        "170x": {
+            "height": 131,
+            "url": "https://i.pinimg.com/170x/b5/91/1e/b5911e6e6c966704faa3f7c65bd58660.jpg",
+            "width": 170
+        },
+        "236x": {
+            "height": 182,
+            "url": "https://i.pinimg.com/236x/b5/91/1e/b5911e6e6c966704faa3f7c65bd58660.jpg",
+            "width": 236
+        },
+        "474x": {
+            "height": 309,
+            "url": "https://i.pinimg.com/474x/b5/91/1e/b5911e6e6c966704faa3f7c65bd58660.jpg",
+            "width": 400
+        },
+        "736x": {
+            "height": 309,
+            "url": "https://i.pinimg.com/736x/b5/91/1e/b5911e6e6c966704faa3f7c65bd58660.jpg",
+            "width": 400
+        },
+        "orig": {
+            "height": 309,
+            "url": "https://i.pinimg.com/originals/b5/91/1e/b5911e6e6c966704faa3f7c65bd58660.jpg",
+            "width": 400
+        }
+    },
+    "is_downstream_promotion": false,
+    "is_eligible_for_pdp": false,
+    "is_eligible_for_related_products": false,
+    "is_eligible_for_web_closeup": false,
+    "is_native": false,
+    "is_oos_product": false,
+    "is_playable": false,
+    "is_promoted": false,
+    "is_quick_promotable": false,
+    "is_repin": true,
+    "is_stale_product": false,
+    "is_uploaded": false,
+    "is_video": false,
+    "is_whitelisted_for_tried_it": true,
+    "link": "http://nueva-gaia.blogspot.com.es/p/el-mensaje-de-las-estrellas.html",
+    "manual_interest_tags": null,
+    "media_id": "",
+    "method": "extension",
+    "native_creator": null,
+    "num": 0,
+    "pinner": {
+        "ads_only_profile_site": null,
+        "blocked_by_me": false,
+        "explicitly_followed_by_me": false,
+        "full_name": "kim hinkle",
+        "id": "340021978025015150",
+        "image_large_url": "https://s.pinimg.com/images/user/default_140.png",
+        "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+        "is_ads_only_profile": false,
+        "type": "user",
+        "username": "kandchinkle"
+    },
+    "price_currency": "USD",
+    "price_value": 0,
+    "privacy": "public",
+    "product_pin_data": null,
+    "promoted_is_lead_ad": false,
+    "promoted_is_removable": false,
+    "promoted_lead_form": null,
+    "promoter": null,
+    "reaction_counts": {},
+    "repin_count": 0,
+    "rich_summary": {
+        "actions": [],
+        "apple_touch_icon_images": null,
+        "apple_touch_icon_link": null,
+        "display_description": "Desde hace mucho tiempo, nuestros hermanos estelares, nos quieren advertir de muchas cosas con los mensajes en los círculos de las cosechas, es hora de hacerles caso. Simbología universal en los crop circles : transformacion: la mariposa Fecha: 16/7/2007; Cultivo de trigo; Diámetro: 311 m. Localización: Ashbury, Oxfordshire, Inglaterra. Aparecido de la noche a la mañana. En una sesión extraordinaria como la de aquel año, este diseño basado en parábolas que se cruzaban con circunferencias fue identificado inmediatamente como el crop circle que indicaba el cambio. Un cambio metafórico, una transformacion como la que vive un gusano convirtiéndose tras una oscura etapa en una mariposa, es uno de los principales motivos y temáticas de los crop circles a lo largo de toda su historia. Pero ¿un cambio de qué? ¿de conciencia? Este detalle del interior de la figura muestra un acabado realmente impresionante. Vamos a ver qué mas interpretaciones podemos sacar de este diseño. Una mariposa expresa un cambio, una transformación de una larva en algo mucho mas grande, bonito, y con mas capacidades, con mas posibilidades, y con mas vida. El mensaje no parece ser negativo ni mucho menos, al contrario, puede decirse que muestra una especial sensibilidad. Esa característica es importante para entender que el fenómeno no parece tener un trasfondo negativo de comunicación. Quizá alude a que los seres humanos estamos llegando a un punto de no retorno en nuestro planeta y que la única manera de avanzar, de volar, es cambiar nuestra perspectiva de la vida, cambiar nuestra concepción del universo, y a nivel de la conciencia, quizás porque se acerca la famosa fecha del 21/12/2012, donde se dice que todo el sistema solar, se introduce en el campo de fotones, donde no se puede entrar sin un cambio de conciencia? Nuevo crop circle sobre el sexto sol maya Compartir con TwittCompartir con FaceboAcerquémonos poco a poco a esta increible y fascinante temporada de los crop circles en Inglaterra. Este nuevo crop circle aparecido en Bluestone Heath Road, en Lincolnshire, el pasado 18 de Julio ha fascinado a los investigadores del fenómeno por su estrecha relación con el aparecido el dia 22 de Julio de 2003 en Windmill Hill. 2003 2011 Si nos fijamos en el diseño, las composición de las circunferencias perfectas es similar pero uno parece el espejo del otro. Donde unas circunferencias se ven oscuras en uno, en el otro, tenemos los colores invertidos. Quizás se estén refiriendo a que estamos en un mundo dual, el Ying y el Yang, la luz y la oscuridad. Otra característica básica de este diseño es que su borde está colindando con una de las calles de los campos de cultivo. Sera que esta llegando a su fin la dualidad? El uso de la inteligencia que está detrás de estos diseños de la propia morfología de los terrenos es santo y seña de los circulos de las cosechas desde hace unos años. La geometría del 5 y del 6 son protagonistas en estos dos crop circles mellizos con 8 años de diferencia en la aparición de cada uno de ellos. En el fenómeno, es asombroso recordar el gran contenido de las geometrías del 5 y del 6 en crop circles de sombología maya, que se refieren al cambio de era que se producira el 21 de Diciembre de 2012. EL uso el borde del campo colindando con el borde de la circunferencia externa es señal de que estamos bordeando, tocando, llegando a esa etapa, según los estudios de los científicos que siguen año a año el significado de estos crop circles. ¿EL ROSTRO DEL SANTO SUDARIO EN LOS CAMPOS INGLESES? En Inglaterra está suscitando gran estupor la aparición de dos círculos en el trigo, que parecen representar el rostro del Santo Sudario. La técnica utilizada es similar a la que se usaba para imprimir las fotos en blanco y negro de los periódicos, es decir la imagen se obtenía de la diferente cercanía de puntos negros sobre el fondo blanco. Una técnica ya utilizada desde siempre por los creadores (no humanos) de los círculos en el trigo, en el 2001 con el rostro que precediera la aparición de aquel increíble diagrama en código binario llamado “La respuesta de Arecibo”. Las figuras aparecieron el 30 de julio de 2010 a ambos lados de la Autopista M4 en Wickham Green, en Berkshire. Una se encuentra más al norte y la otra más hacia el Sur. Uno de los aspectos extraordinarios de estas dos figuras es que una es el negativo de la otra. Se ve con mayor claridad en los dos diagramas. Si superponemos los dos diagramas individualmente sobre el rostro del Santo Sudario obtenemos resultados interesantes: Superponiendo los dos diagramas y comparándolos con el rostro del Sudario obtenemos una primera comprobación de su similitud... Incluso la comparación de los dos gráficos unidos con el rostro del Sudario resulta ser muy impactante. Además aplicando una máscara de desenfoque y elaborando la imagen obtenemos otro resultado muy importante: En la última figura presentada vemos que con el desenfoque y la disminución de la imagen el rostro se vuelve mayormente visible. Pero las sorpresas no terminan aquí. Giorgio Bongiovanni recibe un mensaje de los seres de luz (el cual lleva adjunto este artículo) que explican el significado de este excepcional doble agrograma. Dejo a la sensibilidad y al discernimiento de cada uno de vosotros lo que comunican nuestros hermanos superiores. Serán después los hechos los que harán justicia plenamente a sus palabras. En tanto, las dos figuras suscitan el interés de una cantidad cada vez más numerosa de investigadores que se sumergen en numerosas pruebas y análisis, para obtener más datos de los dos círculos en el trigo. Tomando el diagrama del Crop Circle al Norte y eliminando el círculo de contorno con un programa de retoque fotográfico se obtiene este resultado: Haciendo lo mismo con el Círculo del Sur obtenemos esta imagen: . Ahora tomamos el Círculo “Sur” y lo invertimos: Ahora superponemos los dos diagramas del Círculo Norte y del Círculo Sur reflejado: …el resultado es verdaderamente impresionante, aparece el rostro de Cristo perfectamente idéntico a la elaboración que hizo la NASA justamente del rostro del Santo sudario. Aplicando algunos filtros y el resultado es aún más claro: Considero que todos los que se ocupan de desinformar, los escépticos y los incrédulos por naturaleza, tendrán mucho que hacer para demostrar que este excepcional círculo en el trigo sea obra de manos humanas. En fin, queda solo la prueba del nueve: tomemos el rostro reproducido por la NASA partiendo precisamente del sagrado sudario y superponemos el diagrama creado precedentemente: Yo diría que el resultado habla por sí solo. A la luz de estos hechos, el mensaje recibido por Giorgio Bongiovanni encuentra una confirmación increíble. Los seres de luz nos han dejado un extraordinario rompecabezas, un puzzle cósmico, para indicar a los más escépticos que las figuras aparecidas en los campos ingleses son obra de ellos, de evolucionadas y refinadas inteligencias que poseen tecnologías inimaginables para nosotros. También la elección de realizar dos Círculos en el Trigo a los lados de una transitadísima autopista pienso que haya sido al fin de disipar ulteriores argumentos a los escépticos empedernidos y de profesión. Quizás un muy equipado grupo de expertos habría podido realizar esta fascinante y compleja obra, pero habrían sido vistos por una gran cantidad de automovilistas de paso. Es decir asistiremos en los próximos años, a un ulterior fascinante espectáculo cósmico que nos está preparando a la segunda venida de aquel cuyo rostro ha sido admirablemente impreso por sus Angeles en los campos ingleses. Y creo que no vendrá en cuerpo físico, mas bien nos anuncia que llega a nuestro planeta la conciencia Cristica. El florecer de la semilla, que implanto en nuestros corazones, al dar la vida por toda la humanidad. Si te ha gustado el reportaje puedes pinchar en los enlaces de publicidad para apoyar a la página en sus próximos artículos. Gracias. ISMAEL.",
+        "display_name": "El mensaje de LOS CÍRCULOS DE LAS COSECHAS",
+        "favicon_images": {
+            "50x": "https://i.pinimg.com/favicons/50x/94a878839d18e0a36c862af52400d9b2b638b28f2b6622ea5c872ea2.png?59a0c7b6e4848ccdabcea0636efda02b",
+            "orig": "https://i.pinimg.com/favicons/94a878839d18e0a36c862af52400d9b2b638b28f2b6622ea5c872ea2.ico?59a0c7b6e4848ccdabcea0636efda02b"
+        },
+        "favicon_link": "https://i.pinimg.com/favicons/94a878839d18e0a36c862af52400d9b2b638b28f2b6622ea5c872ea2.ico?59a0c7b6e4848ccdabcea0636efda02b",
+        "id": "c1517f4905eeaf969fbc9a6cdfb60a64",
+        "products": [],
+        "site_name": "nueva-gaia.blogspot.com.es",
+        "type": "richpingriddata",
+        "type_name": "article",
+        "url": "http://nueva-gaia.blogspot.com.es/p/el-mensaje-de-las-estrellas.html"
+    },
+    "shopping_flags": [],
+    "sponsorship": null,
+    "story_pin_data": null,
+    "story_pin_data_id": null,
+    "subcategory": "board",
+    "title": "",
+    "tracking_params": "CwABAAAAEDE0MjIyMDQwMzA2Mzg5NDkGAAMAAQsABwAAAApuZ2FwaS9wcm9kAA",
+    "type": "pin",
+    "url": "https://i.pinimg.com/originals/b5/91/1e/b5911e6e6c966704faa3f7c65bd58660.jpg",
+    "video_status": null,
+    "video_status_message": null,
+    "videos": null,
+    "view_tags": [],
+    "width": 400
+}

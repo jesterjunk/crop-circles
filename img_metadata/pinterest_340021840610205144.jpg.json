@@ -1,0 +1,964 @@
+{
+    "access": [],
+    "ad_match_reason": 0,
+    "additional_hide_reasons": [],
+    "aggregated_pin_data": {
+        "aggregated_stats": {
+            "done": 0,
+            "saves": 225
+        },
+        "creator_analytics": null,
+        "did_it_data": {
+            "details_count": 0,
+            "images_count": 0,
+            "rating": -1,
+            "recommend_scores": [
+                {
+                    "count": 0,
+                    "score": 1
+                },
+                {
+                    "count": 0,
+                    "score": 0.5
+                },
+                {
+                    "count": 0,
+                    "score": 0
+                }
+            ],
+            "recommended_count": 0,
+            "responses_count": 0,
+            "tags": [],
+            "type": "aggregateddiditdata",
+            "user_count": 0,
+            "videos_count": 0
+        },
+        "has_xy_tags": false,
+        "id": "4794684673684932459",
+        "is_shop_the_look": false
+    },
+    "alt_text": null,
+    "attribution": null,
+    "board": {
+        "access": [],
+        "allow_homefeed_recommendations": true,
+        "archived_by_me_at": null,
+        "blocking_actions": [],
+        "board_order_modified_at": "Thu, 14 Jul 2022 03:39:33 +0000",
+        "category": "other",
+        "collab_board_email": false,
+        "collaborated_by_me": false,
+        "collaborator_count": 0,
+        "collaborator_invites_enabled": false,
+        "collaborator_permissions": [
+            1,
+            6,
+            7,
+            9,
+            8,
+            11,
+            3,
+            15
+        ],
+        "collaborator_permissions_setting": 1,
+        "collaborator_requests_enabled": false,
+        "cover_pin": {
+            "image_signature": "6b99475aed453a7e6ec7283e4cdfd542",
+            "pin_id": "340021840599132999",
+            "timestamp": 1468202875
+        },
+        "description": "",
+        "event_date": null,
+        "event_start_date": null,
+        "followed_by_me": false,
+        "follower_count": 283,
+        "id": "340021909305902045",
+        "image_cover_url": "https://i.pinimg.com/200x150/6b/99/47/6b99475aed453a7e6ec7283e4cdfd542.jpg",
+        "images": {
+            "474x": [
+                {
+                    "dominant_color": "#47494A",
+                    "height": 711,
+                    "url": "https://i.pinimg.com/474x/f1/d5/b2/f1d5b2eda98301ffef970830bf5f7cf8.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#7C784A",
+                    "height": 316,
+                    "url": "https://i.pinimg.com/474x/db/58/7a/db587acb47d6117413aebff246cf5106.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#95969A",
+                    "height": 600,
+                    "url": "https://i.pinimg.com/474x/ad/7f/66/ad7f668c9760841ab6b312079790e13d.jpg",
+                    "width": 400
+                },
+                {
+                    "dominant_color": "#8C6B3E",
+                    "height": 416,
+                    "url": "https://i.pinimg.com/474x/ab/91/6e/ab916ecf0d298148aa912adf084178bc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B5914C",
+                    "height": 187,
+                    "url": "https://i.pinimg.com/474x/4a/ab/c5/4aabc5aaa95939f1b26eeb4a9affff69.jpg",
+                    "width": 236
+                },
+                {
+                    "dominant_color": "#B5A06E",
+                    "height": 424,
+                    "url": "https://i.pinimg.com/474x/2a/64/85/2a64850251968c5c46d2fc51055f223e.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#527B2A",
+                    "height": 355,
+                    "url": "https://i.pinimg.com/474x/b2/74/a4/b274a4c0c0af82b0357b40fa9fa4fffc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A78543",
+                    "height": 324,
+                    "url": "https://i.pinimg.com/474x/db/44/4e/db444e72ed4fd6867bc61e8d1919e9cf.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A28660",
+                    "height": 418,
+                    "url": "https://i.pinimg.com/474x/4c/af/4c/4caf4cc04ac7c77d0188136d2a1e2dde.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B69267",
+                    "height": 313,
+                    "url": "https://i.pinimg.com/474x/34/d7/97/34d797b3c8cb0694a6858d717cf84fbd.jpg",
+                    "width": 474
+                }
+            ]
+        },
+        "is_ads_only": false,
+        "is_collaborative": false,
+        "layout": "default",
+        "map_id": "pinterest.ijz1714i",
+        "name": "crop circles",
+        "owner": {
+            "ads_only_profile_site": null,
+            "blocked_by_me": false,
+            "domain_url": null,
+            "first_name": "kim",
+            "full_name": "kim hinkle",
+            "id": "340021978025015150",
+            "image_medium_url": "https://s.pinimg.com/images/user/default_75.png",
+            "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+            "image_xlarge_url": "https://s.pinimg.com/images/user/default_280.png",
+            "indexed": true,
+            "is_ads_only_profile": false,
+            "is_partner": false,
+            "is_tastemaker": false,
+            "last_name": "",
+            "locale": "en-US",
+            "type": "user",
+            "username": "kandchinkle"
+        },
+        "pin_count": 4972,
+        "privacy": "public",
+        "section_count": 0,
+        "sectionless_pin_count": 4972,
+        "seo_canonical_domain": "www.pinterest.com",
+        "seo_description": "Jul 14, 2022 - Explore kim hinkle's board \"crop circles\", followed by 283 people on Pinterest. See more ideas about crop circles, cropped, circle.",
+        "seo_noindex_reason": null,
+        "seo_related_interests": [
+            {
+                "image": {
+                    "1200x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/1200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 170,
+                        "url": "https://i.pinimg.com/170x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 192,
+                        "url": "https://i.pinimg.com/192x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 200,
+                        "url": "https://i.pinimg.com/200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 222,
+                        "url": "https://i.pinimg.com/222x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 236,
+                        "url": "https://i.pinimg.com/236x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 237,
+                        "url": "https://i.pinimg.com/237x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 290,
+                        "url": "https://i.pinimg.com/290x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 345,
+                        "url": "https://i.pinimg.com/345x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 400,
+                        "url": "https://i.pinimg.com/400x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 474,
+                        "url": "https://i.pinimg.com/474x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 550,
+                        "url": "https://i.pinimg.com/550x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 564,
+                        "url": "https://i.pinimg.com/564x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 600,
+                        "url": "https://i.pinimg.com/600x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/640x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/736x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "750x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/750x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/originals/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    }
+                },
+                "name": "Sacred Geometry",
+                "url": "/ideas/sacred-geometry/901152072692/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/1200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 238,
+                        "url": "https://i.pinimg.com/170x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 269,
+                        "url": "https://i.pinimg.com/192x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 280,
+                        "url": "https://i.pinimg.com/200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 311,
+                        "url": "https://i.pinimg.com/222x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 330,
+                        "url": "https://i.pinimg.com/236x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 332,
+                        "url": "https://i.pinimg.com/237x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 406,
+                        "url": "https://i.pinimg.com/290x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 483,
+                        "url": "https://i.pinimg.com/345x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 560,
+                        "url": "https://i.pinimg.com/400x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 664,
+                        "url": "https://i.pinimg.com/474x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 770,
+                        "url": "https://i.pinimg.com/550x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 790,
+                        "url": "https://i.pinimg.com/564x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 840,
+                        "url": "https://i.pinimg.com/600x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 896,
+                        "url": "https://i.pinimg.com/640x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 98,
+                        "url": "https://i.pinimg.com/70x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 1031,
+                        "url": "https://i.pinimg.com/736x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 1050,
+                        "url": "https://i.pinimg.com/750x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/originals/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    }
+                },
+                "name": "Geometry",
+                "url": "/ideas/geometry/926306432669/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/1200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 212,
+                        "url": "https://i.pinimg.com/170x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 240,
+                        "url": "https://i.pinimg.com/192x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 250,
+                        "url": "https://i.pinimg.com/200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 277,
+                        "url": "https://i.pinimg.com/222x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 295,
+                        "url": "https://i.pinimg.com/236x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 296,
+                        "url": "https://i.pinimg.com/237x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 362,
+                        "url": "https://i.pinimg.com/290x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 431,
+                        "url": "https://i.pinimg.com/345x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 500,
+                        "url": "https://i.pinimg.com/400x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/474x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "550x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/550x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "564x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/564x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "600x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/600x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/640x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "70x": {
+                        "height": 87,
+                        "url": "https://i.pinimg.com/70x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/736x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "750x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/750x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/originals/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    }
+                },
+                "name": "Land Art",
+                "url": "/ideas/land-art/952166851654/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/1200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 113,
+                        "url": "https://i.pinimg.com/170x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 127,
+                        "url": "https://i.pinimg.com/192x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 133,
+                        "url": "https://i.pinimg.com/200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 147,
+                        "url": "https://i.pinimg.com/222x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/236x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/237x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 193,
+                        "url": "https://i.pinimg.com/290x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 229,
+                        "url": "https://i.pinimg.com/345x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 266,
+                        "url": "https://i.pinimg.com/400x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 315,
+                        "url": "https://i.pinimg.com/474x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 366,
+                        "url": "https://i.pinimg.com/550x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 375,
+                        "url": "https://i.pinimg.com/564x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 399,
+                        "url": "https://i.pinimg.com/600x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 426,
+                        "url": "https://i.pinimg.com/640x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 46,
+                        "url": "https://i.pinimg.com/70x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 490,
+                        "url": "https://i.pinimg.com/736x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 499,
+                        "url": "https://i.pinimg.com/750x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/originals/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    }
+                },
+                "name": "Crop Circles Photography",
+                "url": "/ideas/crop-circles-photography/924199160619/"
+            }
+        ],
+        "seo_title": "900+ Crop circles ideas | crop circles, cropped, circle",
+        "should_show_more_ideas": true,
+        "should_show_shop_feed": false,
+        "topic": null,
+        "type": "board",
+        "url": "/kandchinkle/crop-circles/",
+        "viewer_collaborator_join_requested": false,
+        "viewer_contact_request": null
+    },
+    "carousel_data": null,
+    "category": "pinterest",
+    "comment_count": 0,
+    "comments": {
+        "bookmark": null,
+        "data": [],
+        "uri": "/v3/pins/340021840610205144/comments/"
+    },
+    "created_at": "Wed, 21 Feb 2018 03:43:46 +0000",
+    "creator_analytics": null,
+    "debug_info_html": null,
+    "description": "elmensajedeotrosmundos: Los Crop Circles de Chilbolton y Winchester (England): La contestación al mensaje de Arecibo y una recomendación extraterrestre para los seres humanos.",
+    "description_html": "elmensajedeotrosmundos: Los Crop Circles de Chilbolton y Winchester (England): La contestación al mensaje de Arecibo y una recomendación extraterrestre para los seres humanos.",
+    "domain": "elmensajedeotrosmundos.blogspot.com",
+    "dominant_color": "#705a30",
+    "done_by_me": false,
+    "embed": null,
+    "extension": "jpg",
+    "favorite_user_count": 0,
+    "favorited_by_me": false,
+    "filename": "851ef313acef6b8f74b5c85bba5374fc",
+    "grid_description": "elmensajedeotrosmundos: Los Crop Circles de Chilbolton y Winchester (England): La contestación al mensaje de Arecibo y una recomendación extraterrestre para los seres humanos.",
+    "grid_title": "Los Crop Circles de Chilbolton y Winchester (England): La contestación al mensaje de Arecibo y una recomendación extraterrestre para los seres humanos.",
+    "has_required_attribution_provider": false,
+    "height": 439,
+    "id": "340021840610205144",
+    "image_crop": {
+        "max_y": 1,
+        "min_y": 0
+    },
+    "image_signature": "851ef313acef6b8f74b5c85bba5374fc",
+    "images": {
+        "136x136": {
+            "height": 136,
+            "url": "https://i.pinimg.com/136x136/85/1e/f3/851ef313acef6b8f74b5c85bba5374fc--circle-design-circle-art.jpg",
+            "width": 136
+        },
+        "170x": {
+            "height": 149,
+            "url": "https://i.pinimg.com/170x/85/1e/f3/851ef313acef6b8f74b5c85bba5374fc--circle-design-circle-art.jpg",
+            "width": 170
+        },
+        "236x": {
+            "height": 207,
+            "url": "https://i.pinimg.com/236x/85/1e/f3/851ef313acef6b8f74b5c85bba5374fc--circle-design-circle-art.jpg",
+            "width": 236
+        },
+        "474x": {
+            "height": 417,
+            "url": "https://i.pinimg.com/474x/85/1e/f3/851ef313acef6b8f74b5c85bba5374fc--circle-design-circle-art.jpg",
+            "width": 474
+        },
+        "736x": {
+            "height": 439,
+            "url": "https://i.pinimg.com/736x/85/1e/f3/851ef313acef6b8f74b5c85bba5374fc--circle-design-circle-art.jpg",
+            "width": 499
+        },
+        "orig": {
+            "height": 439,
+            "url": "https://i.pinimg.com/originals/85/1e/f3/851ef313acef6b8f74b5c85bba5374fc.jpg",
+            "width": 499
+        }
+    },
+    "is_downstream_promotion": false,
+    "is_eligible_for_pdp": false,
+    "is_eligible_for_related_products": false,
+    "is_eligible_for_web_closeup": false,
+    "is_native": false,
+    "is_oos_product": false,
+    "is_playable": false,
+    "is_promoted": false,
+    "is_quick_promotable": false,
+    "is_repin": true,
+    "is_stale_product": false,
+    "is_uploaded": false,
+    "is_video": false,
+    "is_whitelisted_for_tried_it": true,
+    "link": "http://elmensajedeotrosmundos.blogspot.com/2014/03/los-crop-circles-de-chilbolton-y.html",
+    "manual_interest_tags": null,
+    "media_id": "",
+    "method": "extension",
+    "native_creator": null,
+    "num": 0,
+    "pinner": {
+        "ads_only_profile_site": null,
+        "blocked_by_me": false,
+        "explicitly_followed_by_me": false,
+        "full_name": "kim hinkle",
+        "id": "340021978025015150",
+        "image_large_url": "https://s.pinimg.com/images/user/default_140.png",
+        "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+        "is_ads_only_profile": false,
+        "type": "user",
+        "username": "kandchinkle"
+    },
+    "price_currency": "USD",
+    "price_value": 0,
+    "privacy": "public",
+    "product_pin_data": null,
+    "promoted_is_lead_ad": false,
+    "promoted_is_removable": false,
+    "promoted_lead_form": null,
+    "promoter": null,
+    "reaction_counts": {},
+    "repin_count": 2,
+    "rich_summary": {
+        "actions": [],
+        "apple_touch_icon_images": null,
+        "apple_touch_icon_link": null,
+        "display_description": "Los Crop Circles de Chilbolton y Winchester (England): La contestación al mensaje de Arecibo y una recomendación extraterrestre para los seres humanos. En estos tiempos, podríamos reflexionar y preguntarnos ¿Pero que son realmente los crop circles (círculos en las cosechas)? Cualquiera con un mínimo de curiosidad, navegando por Internet, rápidamente llegara a la conclusión que esas representaciones realizadas en los campos de cultivo, esos dibujos de tamaño considerable y suma perfección, no han sido realizados por alguien con nuestra tecnología actual….Y entonces, ¿...quién los ha hecho?. Bajo mi punto de vista, los crop circles son dibujos realizados por civilizaciones extraterrestres que visitan e interactúan en diversos puntos de este planeta. Mensajes realizados, posiblemente, con el único fin de ir paulatinamente mentalizando al conjunto de los seres humanos sobre su presencia en la Tierra. Y no es casual que esa concienciacion pudiera estar llegando desde mucho tiempo atrás, si tenemos en cuenta el hecho de que en el año 1678 aparece un grabado de la época en el cual se representa al “diablo cortacésped” construyendo uno de esos círculos en un campo de cereales de Inglaterra. El \"diablo cortacesped\", representado en el año 1678, realizando un circulo en las cosechas Obviamente, la versión oficial de aquellos que niegan la realidad extraterrestre se mueve en otros derroteros, por ejemplo hay teorías de algunos meteorólogos donde nos dicen que esos complicadísimos dibujos se han construido “al azar mediante corrientes aleatorias de aire” y uno llega a pensar, que si antes de hablar estos “hombres de ciencia” no se habrán tomado excesivas copas se sherry… Poco tiempo después, en los años 90 , hicieron acto de presencia dos jubilados, Doug Dower y Dave Chorley, quienes se atribuyeron el haber elaborado esos miles de crops circles que ya entonces se habían realizado a lo largo y ancho de toda la Tierra. Los jubilados Doug Dower y Dave Chorley, atribuyéndose la realización de los crop circles. Estos “ingenuos personajes” hicieron varias representaciones frente a las cámaras de televisión utilizando sendas cuerdas y tablas, aplastando de una manera burda las espigas de algunos campos de trigo. Curiosamente, la prensa oficial alineada con la desinformación, dio por cierta esta versión, trasladando a la opinión pública la idea de que los círculos en las cosechas eran una creación de estos dos “simpáticos ancianos” deseosos de protagonismo y cámaras de televisión. Pero la realidad es tozuda y los crop circles fueron aumentando en complejidad, incluyendo mensajes que necesariamente se descifraban solo con ciertos conocimientos científicos. Crop circles en the milk hill Entonces, a los contaminadores de la realidad extraterrestre, deseosos de pasar página sobre este asunto, se les ocurrió otra genial idea: Hicieron algunos falsos círculos en las cosechas, \"mezclandolos\" en las informaciones de prensa y televisión con los crop circles verdaderos, es decir, crearon cierta confusión en la opinión pública de tal manera que el ciudadano normal “dudase” de unos respecto de los otros, y consecuentemente no prestase mayor atención a lo extraordinario del caso. Básicamente, es por muchos conocido que estos métodos se mueven dentro de la conocida como “teoría de la confusión” empleada masivamente cuando de avistamientos OVNIs se refiere. Personalmente opino, que dichos desinformadores estarían perdiendo el tiempo e intuyo que esos círculos en las cosechas seguirán apareciendo cuando los extraterrestres así lo decidan (hasta ahora ha sido imposible predecir el sitio y lugar donde aparecerán) llevándonos a intuir la existencia de algo así como un “programa de concienciación hacia los seres humanos”. Con todos mis respetos, pienso que aquellos empeñados en confundir a la población respecto a la presencia extraterrestre en este planeta estarían errando su camino por diferentes motivos; el primero y más importante, que las redes de comunicación serán en un futuro cercano exponencialmente más globales y accesibles a “una población mundialmente globalizada” ; pese a los intentos de ejercer “cierta censura” en algunos medios de Internet y la \"opacidad evidente de periódicos y televisiones oficiales en relación con la temática OVNI\". Debido a este hecho imparable, la verdad llegara a filtrarse lentamente hasta un punto donde esos mismos censores no tendran más opciones que revelar esa noticia; aquella que yo considero la más importante de la humanidad: Que no estamos solos en esta y otras galaxias y que tarde o temprano, los seres humanos tendremos que asumirlo y comportarnos como “educados vecinos cósmicos”. Podría uno entonces, imaginar la opinión que esos mismos seres de las estrellas tienen a este respecto, considerando a esos desinformadores, tal vez, como aquellos niños que se tapan los ojos si algo no quieren ver… porque a fin de cuentas, la realidad siempre seguirá ahí presente, mas allá de sus \"infantiles ojos cerrados\". Del igual modo que la lógica me lleva a pensar que “los seres humanos deberíamos hacer antes los deberes respecto a ciertos principios universales” y presentarnos frente a esas civilizaciones extraterrestres como seres pacíficos, aunque habiendo en primer lugar, resuelto nuestras \"disputas de patio de colegio”, confrontaciones ya superadas con éxito por esas mismas civilizaciones miles de años mas evolucionadas que los habitantes de este planeta. Cumulo Globular M13(Cumulo de Hercules) situado a 25.000 años luz del Sistema Solar Radiotelescopio de Arecibo, Puerto Rico, en el año 1974 se envió una señal al cumulo globular M13 Mensaje enviado desde el Radiotelescopio de Arecido Carl Sagan (izquierda) y Frank Drake, Presidente emerito del Proyecto SETI (derecha), quienes diseñaron el mensaje enviado al Cumulo Globular M13 A modo de ampliación de información, respecto al Proyecto SETI (Search for ExtraTerrestrial Intelligence), Carl Sagan y Frank Drake, también fueron colaboradores de este proyecto encaminado a la búsqueda de vida inteligente extraterrestre, y basado en la escucha de señales inteligentes provenientes de espacio exterior ó bien, enviando mensajes que alguien fuera de la Tierra pudiera recogerlos e interpretarlos. Ampliando la información sobre búsqueda de vida inteligente, placa enviada al espacio exterior dentro del Piooner 10, año 1972, y que fue diseñada también por Carl Sagan y Frank Drake. En esta placa se describen las características de la raza humana y su ubicación, en un intento \"oficial\" de cara a la opinion publica por establecer contacto con razas extraterrestres, aunque viendo como los gobiernos mundiales sistemáticamente ocultan la presencia extraterrestre desde por lo menos el año 1947 (estrellamiento de un OVNI en Roswell, Nuevo Mexico), estos intentos oficiales no dejan de ser una pura pantomima. Como indicaba en el titulo de esta nueva entrada, quisiera hacer hincapié en dos crop circles concretamente: Los aparecidos en las proximidades del observatorio de Chilbolton y en Winchester. Como introducción decir que el 16 de Noviembre de 1974 se envió, desde el radiotelescopio de Arecibo, un mensaje codificado hacia el cumulo globular M13, situado a 25.000 años-luz de distancia. Los diseñadores de este mensaje fueron Carl Sagan (astrónomo, astrofísico, cosmólogo y divulgador científico) y Frank Drake (astrónomo y Presidente emérito del Proyecto SETI, también conocido por haber diseñado esa famosa ecuación por la cual se calcula el número de civilizaciones evolucionadas en esta galaxia). El motivo de enviar esa señal de radio hacia un lugar tan alejado del cosmos, lo era porque se quería conmemorar la remodelación del radiotelescopio de Arecibo, esa gigantesca antena que mira y escrudiña las vecindades siderales. En el mensaje se incluían determinados datos respecto a los seres humanos tales como el sistema de numeración empleado, los componentes básicos que lo conforman, los nucleótidos del ADN así como su estructura, altura y forma antropomórfica; el sistema solar y planeta donde vivimos; la población de la Tierra y finalmente las dimensiones de la antena desde donde se emitía esa señal. Por el momento, hasta ahí quedo la cosa aunque lo mejor de todo vino años después en forma de un crop circles: Aproximadamente 28 años después, el 14 de Agosto del 2001 apareció en las cercanías del radiotelescopio de Chilbolton la contestación precisa a ese mensaje. Básicamente, los extraterrestres habian utilizado el mismo formato que el empleado por los seres humanos desde Arecibo, es decir, un rectángulo leído de arriba hacia abajo y en el cual nos explicaban como era su raza (seres de pequeña estatura, macrocéfalos, los cuales tendrían un ADN manipulado y donde se incorporaba el silicio en su composición; se encontraban habitando tres mundos de su sistema estelar y su población se componía de 21.000 millones de habitantes), especificando de igual modo cual era el tipo de antena utilizada para transmitir dicho mensaje. Y curiosamente, esa antena del crop circle del año 2001 era igual a una representación aparecida en un crop circles junto a las inmediaciones de ese mismo radiotelescopio de Chilbolton un año antes (año 2000); sugiriéndonos que el mensaje extraterrestre se habría “emitido” en aquel mismo lugar, en Chilbolton, desde esa ubicación en concreto. En este vídeo vemos como los extraterrestres, utilizando ciertas esferas luminosas que evolucionan sobre los cultivos, son capaces de hacer los crop circles en muy pocos minutos. Respecto a la forma que tendrían los extraterrestres de hacer esos círculos en las cosechas, algunos testigos han descrito las evoluciones de pequeñas esferas luminosas moviéndose sobre los campos de cereales , pudiéndose comprobar momentos después como un crop circles aparecía en ese mismo lugar. Según esos mismos testimonios, los extraterrestres son capaces de hacer esos complejísimos dibujos en los cereales en muy pocos minutos, fruto de su tecnología prodigiosa y sin importar las condiciones meteorológicas ó el relieve del terreno. Siendo la temática de los crop circles muy amplia, he tomado información de otras páginas web, que por supuesto cito las fuentes para no desmerecer su trabajo y bien hacer. ............................................................................................................................... Ampliación de información que nos aporta la pagina web www.portalnet.cl : http://www.portalnet.cl/comunidad/cementerio-de-temas.635/911343-el-cropcircle-de-chilbolton.html El “cropcircle” de chilbolton. El tema de los círculos del maíz es, sin ninguna duda, una de las vertientes más activas y creíbles del fenómeno OVNI desde los últimos 20 años. Les hablamos de estos misteriosos diseños, que aparecen de la noche a la mañana, que abarcan extensiones de hasta 200 o 300 metros de diámetro, ocupando miles y miles de metros cuadrados de extensión principalmente en las regiones del suroeste de Inglaterra. La evolución de este fenómeno ha variado desde las líneas y círculos básicos que se presentaban en los años 80 y principios de los años 90 hasta los actuales diseños que incluyen geometrías fractales, teoremas de la matemática euclidiana, ecuaciones de hipérbolas, elipses, y representaciones tridimensionales con un nivel de complejidad tan difícil incluso en su propia concepción que ningún supuesto bromista ha podido nunca replicar este tipo de diseños. Este fenómeno trae consigo un enigma muy complicado de analizar porque resulta que los círculos son absolutamente perfectos. La teoría del fraude se diluye viendo que la desviación de un milímetro en la realización de un supuesto agujero para clavar un compás gigante (única manera de hacer una curva o circunferencia), produce una desviación de más de 3 metros en el resultado final de la misma. Además, la presencia de radiación en las plantas, y la confirmación de que los tallos no están rotos (yo mismo pude comprobarlo en Inglaterra en mis últimas investigaciones), exponen una base científica de la que podríamos estar horas y horas hablando. El fenómeno es real, y aparece todos los años en diferentes vertientes y temáticas. Una de ellas hablaría de un contacto con una civilización extraterrestre de una forma directa… Jugando a comunicarnos. Mensaje enviado en binario desde el radiotelescopio de Arecibo en 1974 hacia el cúmulo de estrellas M13. Consta de 1679 bits (unos y ceros). Fue emitido a 126 mm de Longitud de onda, en la frecuencia del hidrógeno. Viajemos ahora en el tiempo, hasta el año 1974. En aquel entonces la situación de la NASA era difícil de asimilar por la opinión pública americana. Vietnam y la NASA se beneficiaban de grandes partidas de presupuestos mientras que el paro y la inflación amenazaban el estilo de vida de la clase media americana. Carl Sagan y Frank Drake, dos de los más conocidos astrónomos de todos los tiempos, decidieron usar la nueva antena construida en Arecibo (Puerto Rico) para transmitir por radio un mensaje de comunicación hacia otras civilizaciones. La respuesta era esperada para dentro de 50.000 años, dada la gran distancia de ida y vuelta a recorrer por la señal emitida y la señal de respuesta. El mensaje encriptado enviado el 16 de noviembre de 1974, estaba formado por 1679 cifras, constando solo de unos y ceros. Un número de cifras (bits), con la característica de ser producto de dos números primos: 23 y 73. En ella aparecía información sobre nuestro sistema decimal, los átomos de la vida (Hidrogeno, Carbono, Nitrógeno, Fósforo, y Oxígeno), nuestro ADN, la población del planeta tierra, nuestra fisionomía, nuestra altura, el planeta que habitamos, y la antena de EMISION. . ¿Por qué 1679? Si existía una civilización capaz de recibir y comprender la señal, sin duda sabría que 1679 es producto de 23 y 73. La clave del mensaje es que 23 y 73 son exactamente el número de filas y columnas del cajetín. Al organizarlo en 23 columnas y 73 filas quedaba un mensaje en forma de rectángulo, con los datos más importantes que resumen quiénes somos los seres humanos. La distancia al cúmulo de estrellas M13 y la velocidad de transmisión a través de la frecuencia del hidrógeno, hacía imposible que cualquier civilización recibiese la señal en un corto espacio de tiempo…a no ser que esa civilización pudiese recibir la transmisión desde mucho más cerca de lo que Drake, Sagan, y toda la humanidad pudiesen imaginar… Llamando a la tierra. Crop circles aparecido en el año 2000 junto al radiotelescopio de Chelbolton Y lo que nadie se pensaba que ocurriría, ocurrió. El 13 de agosto del año 2000 apareció una extraña figura cerca del radiotelescopio de Chilbolton, en Inglaterra. Su geometría matemática era de tipo fractal, y no se parecía a ninguna otra figura aparecida en años anteriores. Tenía la peculiaridad de haberse presentado en terrenos que pertenecían al ejército británico, con lo que quedaba rápidamente descartada la intrusión de bromistas o aficionados. En el año 2000, una figura compleja de círculos con geometría fractal apareció a unos metros del radiotelescopio de Chilbolton, Inglaterra, una instalación asociada al complejo de Arecibo cuando se emitió el mensaje de 1974. Los dos crop circles aparecidos en el año 2001 junto al radiotelescopido de Chelbolton No fue hasta el año siguiente, 2001, cuando todo encajó. Otra vez a principios de agosto, y otra vez en la zona del radiotelescopio de Chilbolton, aparecieron estas dos extrañas figuras; ninguna tenía parangón con lo anteriormente visto. Eran figurativas, ilustrativas. Por tanto eran específicas. Nos encontramos ante la respuesta de la inteligencia que realiza los círculos del maíz a la señal emitida desde Arecibo en 1974.Vista aérea general de la respuesta de la señal de Arecibo, en 1974, en forma de figuras del maíz. Su trazo perfecto, y el análisis de su contenido, que mostraban cálculos en binario, son imposibles de reproducir a tal exactitud en un campo de maíz a oscuras. La primera era un extraño rostro, con rasgos aparentemente humanos, el cual da la impresión de ser prácticamente una fotografía impresa en el campo. De entre las múltiples lecturas que se podrían hacer, destacamos cuatro opciones: 1. Representa un ser humano con los ojos cegados, metáfora de nuestro proceder ante la presencia de los OVNIS. 2. Representa un ser que no procede del planeta tierra y que manda una fotografía de sí mismo para concienciarnos de su existencia. 3. Representa algo importante para la civilización que lo escribe: su firma, o en lo que ellos creen. Su representación de poder, o su Dios. 4. Representa una cara humana retratada desde muy cerca, demostrando que nos conocen perfectamente, tanto como para escribirnos nuestro rostro en un campo. La segunda figura representaba exactamente el mismo cajetín enviado por los científicos Frank Drake y Carl Sagan en 1974, con las modificaciones que tendría una respuesta del mismo tipo, indicando los datos de otra civilización: Mensaje extraterrestre en forma de crop circles en contestación al mensaje terrestre enviado desde el radiotelescopio de Arecibo en el año 1974. Este mensaje se recibió 28 años después, en el año 2001 Básicamente las diferencias eran las siguientes: inclusión del silicio entre sus átomos de vida, una triple cadena de ADN, una fisionomía parecida a la de los grises tantas veces estudiados en la ufología, una población de más de 25.000 millones de seres, una altura de 1.26 m, y una antena que venía representado en el dibujo que veíamos en el año 2000.En el año 2002, la secuencia de comunicacion se completó con la famosa figura de Winchester: Conclusión: No es posible que un hecho de la magnitud que estamos relatando, sea realizado por manos humanas sin romper ni una sola espiga de maíz y sin un solo error de cálculo en figuras de más de 300 metros de diámetro, dominando comunicaciones en lenguaje binario sobre temas genéticos y matemáticos. Si eso está claro, entonces, ¿cómo es posible que ante tal demostración de poder y de deseo de comunicación, la opinión pública no tenga en cuenta estos hechos, no pida explicaciones a los gobiernos y no pida más estudios científicos del tema? Quizá el hecho de que la casualidad en el tema de los OVNIS no exista, nos pueda guiar a una respuesta. Si existe un plan de concienciación, en primer lugar habrá un periodo de tiempo en el que una civilización contacte con otra de una manera progresiva, y suave, para no alterar su funcionamiento, ni sus sistemas de valores de una manera radical. Posiblemente la inteligencia que está detrás del fenómeno, sabe que los humanos podríamos entrar en un estado de miedo ante una revelación de tal calibre, y su plan conlleva una llamada de atención progresiva al fenómeno. Esto se demuestra con que, cada día son más los avistamientos auténticos de OVNIS alrededor del mundo, y cada año son más los países en los que va apareciendo el fenómeno de los círculos del maíz. El fenómeno crece, pero nuestra conciencia aún no alcanza al fenómeno. Sólo el tiempo nos dirá si seremos nosotros los que nos acerquemos al fenómeno, o será el fenómeno el que se acerque cada vez más a nosotros. Realmente el hombre envió el mensaje de Arecibo, pensando en que nunca llegaría una respuesta. Pero si la civilización que respondió estuviese mucho más cerca de lo que nos pensábamos, es lógico pensar que contestasen a nuestro grito al universo. ¡Estamos aquí! Gritó nuestro radiotelescopio. Con la seguridad de los confiados. Pero ahora que la respuesta ha llegado, el hombre tiene miedo, no lo acepta, y lo esconde y lo manipula. La vieja historia de la humanidad pero, esta vez, con un vestido espacial. Además del crop circles del Chilbolton, en el año 2002 apareció otro en Crabwood, Winchester (mencionado con anterioridad). En este caso se aparece la figura de un extraterrestre de fisonomía diferente y un disco en el cual hay un mensaje en código ASCII. ................................................................................................................................... Todo ello se explica perfectamente en la página web www.crop-circles.eu cuyo texto añado a continuación: http://www.crop-circles.eu/pages/auteurs_agroglyphes.php?lang=es Crop circles aparecido en Crabwood, cerca de Winchester, en el año 2002, proveniente, posiblemente, de una raza diferente a la del mensaje de Chelbolton El segundo agroglifo de tipo diferente apareció en el 2002 en Crabwood, cerca de la ciudad de Winchester, en la misma región que el anterior. Representaba también un rostro pero de un tipo diferente (tipo alíen), asociado a un disco en el cual estaba como « impreso » un mensaje . Se ven en efecto una serie de « puntos » ajustados sobre una espiral, lo que inevitablemente hace pensar en un disco compacto que contiene informaciones impresas sobre una pista de lectura. Pudo descifrarse este mensaje fácilmente ya que pareció ser la traducción en ASCII (lenguaje informático) de un texto escrito en inglés. Este texto no proporciona tampoco respuesta explícita sobre la identidad de su autor, pero el rostro asociado indicaría que el autor sería un ser « extraterrestre » de tipo diferente del hombre, y diferente del autor del mensaje de Chibolton. Debemos comprender que este agroglifo es el primero y el último de este tipo hasta la fecha. Es el único que contiene un mensaje escrito en una lengua humana : inglés transcrito en código ASCII. Una vez traducido al francés, obtenemos : « Desconfíen de los portadores de falsos regalos y de las promesas no mantenidas. Mucha pena pero aún están a tiempo. Crean. Hay cosas buenas allá. Nos oponemos al engaño. » Este mensaje enigmático quiere incitarnos a la prudencia, al discernimiento, y a no ceder a las ilusiones... Estos dos agroflifos son totalmente originales y absolutamente únicos: no solamente son los dos únicos que representan un rostro entre los miles de formaciónes observadas hasta ahora: sino que también representan un rostro entre los miles de formaciones observadas hasta ahora: sino que también son los dos únicos que contienen un mensaje explícito con informaciones inteligible dirigida al hombre. Además esto podría hacernos sospechar una superchería humana, pero es importante observar que el mensaje de Chibolton por ejemplo se realizó casi bajo las ventanas del observatorio en el cual trabajan permanentemente un gran número de meteorólogos, y en un campo cuyo acceso está prohibido. Por otra parte, las técnicas de expresión utilizadas tanto en el primer mensaje (encasillado de puntos dentro de un rectángulo) como en el segundo (puntos alineados en espiral dentro de un círculo) son totalmente originales. Algunas formaciones de los últimos años representan también un disco con una serie de puntos, pero en estos casos siguen siendo una representación puramente geométrica, sin ningún contenido explícito o mensaje cifrado. En cambio, los miles de agroglifos que se han observado desde principios de los años 1990 (cuando los autores superaron la fase de círculos y segmentos) tienen una relación a menudo evidente con la geometría sagrada, o con el simbolismo esotérico, o con teorías matemáticas o físicas, etc... pero no contienen ningún mensaje explícito e inteligible como en los dos casos anteriores. En los dos mensajes cifrados, el primero describe un ser de pequeño tamaño (un metro aproximadamente) con una grande cabeza, y el segundo muestra una cara de tipo muy diferente del hombre. Eso nos lleva a pensar que sus autores tienen un cuerpo, al igual que nosotros, pero que es diferente al cuerpo del humano. Estas observaciones nos hacen pensar que se presentan a ellos mismos como seres extraterrestres de tipo humanoide, según la terminología habitual. Parecería entonces que estos dos agroglifos tienden a hacernos entender que dos civilizaciones extraterrestres diferentes se han manifestado al menos una vez sobre la Tierra, y estarían presentes entre nosotros. ....................................................................................................................... Y como una ampliación añadida de información en relación con los círculos en las cosechas, he tomado prestado lo que se dice en la página web www.liberacionahora.wordpress.com al respecto, y cuyo link es el siguiente: http://liberacionahora.wordpress.com/crop-circles-2/ El fenómeno de los círculos de las cosechas Publicado por gruponexus en Junio 22, 2006 ¿Qué son? ¿quién los crea? ¿para qué? ¿cómo nos puede afectar a escala mundial? ¿Método de comunicación multidimensional? ¿un regalo personal?, ¿símbolos adecuados para nuestro tiempo? Se tiene constancia de ellos desde el siglo VIII de nuestra era, y posiblemente desde tiempos bíblicos. Existe un grabado de 1678 en donde aparece reproducido el llamado “diablo cortacesped”, que parece mostrar un creador de los círculos. Más de 10 000 casos alrededor del mundo en 2 décadas desde que se investigan. Muchos se acercan al fenómeno, pero también muchos son los que lo rechazan. Testigos afirman que todo sucede en segundos. Aparecen en cualquier medio que pueda soportarlos, arena, nieve, arrozales, campos de flores, árboles e incluso en lagos helados… “Estamos recibiendo una narración progresiva y si prestamos atención, podemos ver hacia donde nos lleva esa narración”. Los investigadores más implicados llevan un seguimiento continuo año tras año. Las primeras apariciones en época moderna aparecieron en Inglaterra hacia finales de los setenta, con diseños simples pero lo suficiente como para atraer la atención del público. Alrededor de 1980 el fenómeno empezó a ser investigado por Pat Delgado y Terence Meaden. El fenómeno empezó a aumentar rápidamente y crecía en complejidad. Entre los años 1989 y 1990 los círculos empezaron a estar unidos por lineas rectas. En la tradición Hopi y la de otros pueblos nativos norteamericanos la linea recta significa comunicación. Cuando te encuentras con varios círculos unidos con lineas rectas, estamos hablando de la comunicación entre diferentes mundos, diferentes realidades. Partiendo de este fenómeno, se empieza a obtener pictogramas, y mirando estos símbolos encontramos un significado implícito, simbólico. Observando estas señales nos damos cuenta que en la naturaleza de los círculos hay un conocimiento de nuestra historia como humanidad, una historia básica fundamentada en los principios naturales. Una vez los investigadores entendieron esta cuestión, comenzaron a investigar con signos alquímicos, símbolos esotéricos, otros que implican conocimientos matemáticos, geométricos, conocimientos planetarios. Llegado a este entendimiento, en los círculos se empezó a registrar conocimientos cada vez más complejos, como por ejemplo relativos a los movimientos de los planetas. Se va ampliando la conciencia del conocimiento, se va ampliando la escala hacia un carácter más cósmico, más universal. Todo esta evolución ha tenido un desarrollo gradual durante los años noventa. Y en los últimos años en los símbolos se empieza a notar una especie de reto hacia nuestra imaginación y a cómo percibimos nuestra realidad, nuestro mundo. Hay símbolos que son impresiones en cuatro dimensiones sobre un campo tridimensional, relacionados con paradojas visuales que se remontan a miles de años atrás, hasta los matemáticos griegos. Es como un proceso en el que cada temporada el mensaje es más amplio y más profundo. Hacia el 2001 se empezaron a observar crop circles en la Columbia Británica (Canadá). El primero de ellos en Vanderhood en 1998. Aparecieron en el centro del campo y no había ningún camino que llegase hasta ellos. Demandas por fraude Empezaron hacia a principios de los años noventa. El 9 de diciembre de 1991el periódico inglés ”Today” publicaba la noticia de que dos jubilados ingleses, los famosos Doug Dower y Dave Chorley, declaraban ser los responsables de todos los círculos, aunque un año antes se habían registrado 1000 formaciones individuales sólo en Inglaterra. En 3 meses era imposible que dos jubilados hubiesen hecho todos esos círculos, pensando con un poco de sentido común. A pesar de eso y sin ningún tipo de evidencia seria todos nos creímos que así fue y se proclamó por todo el mundo. Y el tema perdió prácticamente toda credibilidad. Pero el fenómeno va mucho más allá que el mero fraude. Muchísimos grupos de personas se empeñan en negar el origen sobrenatural de los círculos, ignorando que han estado ahí durante siglos. Hay escépticos que argumentan que para llamar verdaderamente nuestra atención deberían de formarse los círculos a plena luz del día y delante de miles de personas, o que simplemente deberían de aparecer en los jardines de la casa blanca. En julio de 1990 el fotógrafo Steve Alexander decidió investigar sobre el terreno con su videocámara los círculos y logro captar una pequeña esfera luminosa sobre los campos. En las imágenes posteriores se percibía claramente una esfera flotando por el aire. Se podría dar una explicación lógica sobre lo que aparecía en el vídeo, como algún tipo de efecto de luz. Pero no fue el fotógrafo el único testigo. En el mismo lugar, separado unos cientos de metros se encontraba un agricultor manejando su tractor y aseguró haber visto la misma esfera rodando por encima de él para después desaparecer. Pero la prueba física definitiva para los creyentes apareció en 1996. Parecía relacionar definitivamente las bolas de luz y los círculos de los cultivos. En un vídeo filmado por John Wailey, cerca del Oliver Castle(Inglaterra) aparecen varias esferas de luz moviéndose creando un patrón de copo de nieve sobre el campo. Era la prueba final, el sueño hecho realidad y en los siguientes días empezaron los debates sobre su autenticidad. Más tarde el mismo autor del vídeo confesó haberlo manipulado y falsificado como simple entretenimiento, todo un montaje. Pensó que sería muy gracioso ver como todos los creyentes se tragarían su obra… Rueda de Caterina La Rueda de Caterina es un círculo que tiene 237 metros de diámetro y está compuesto por 409 círculos. Apareció en la cima de una meseta una noche de lluvia y viento. Este espectacular círculo debería poner un punto y final sobre la afirmación de que todos los círculos estén hechos por el hombre. ¿Por qué existe tanta resistencia a pensar que no estamos solos en el universo? Características “…El fenómeno en sí no sólo es auténtico sino que a lo largo de la última década ha ido adquiriendo unas dimensiones tales, de una complejidad, de una riqueza de contenido, que yo me atrevería a calificarlo como uno de los acontecimientos más importantes con los que se enfrenta la humanidad…” afirmó en su momento el fallecido y gran admirado Dr. Fernando Jiménez del Oso. Entre las características de los círculos destaca su periodicidad. Cada año, por las mismas fechas y en las mismas zonas aparecen. Esa regularidad y su carácter tangible, están ahí, aparecen y se pueden tocar, hacen del fenómeno una materia idónea para su investigación. Se puede ir al lugar e investigarlo directamente. No hay que basarse en ningún testimonio de nadie ni en ninguna especulación. Es real. Se trata de un fenómeno provocado por algo o alguien inteligente que sigue un proceso, una estrategia determinada y se sirve de medios técnicos desconocidos. La comunidad científica, al menos oficialmente, prefiere mantenerse al margen, quizá en una postura cómoda para negarse a darle una explicación imposible de dar, sabiendo con seguridad que está totalmente fuera del alcance de nuestra tecnología actual. Según los investigadores se trata de una forma de comunicación a través de mensajes. La proliferación de los círculos hace sospechar de que la intención de los creadores es de que se trate de un fenómeno mundial, y no local (desde finales de los años ochenta aparecen círculos por todo el mundo, Canadá, Austria, Alemania, República Checa, etc) La gran molecula , crop circles impresionante ¿verdad? El tamaño de los círculos varía desde escasos centímetros de diámetro hasta varias decenas de metros. En ocasiones forman agrupaciones de 1 hectárea. La época en la que hacen su aparición varía desde la primavera, donde ya el vegetal tiene un cierto tamaño y a finales de verano, coincidiendo con el momento de la cosecha. Una de las cosas que más llaman la atención a primera vista y desde el aire es la perfección del trazado. En el suelo se observa que los tallos no están rotos ni quebrados. Están simplemente curvados a pocos centímetros del suelo y en espiral, y siguen creciendo en su posición. Además, y sobre todo en las formaciones rectangulares, los tallos están entrelazados alternativamente o en grupo, formando impresionantes mosaicos vegetales. Según el antropólogo alemán Michale Heseman resulta prácticamente imposible que un farsante logre diseñar estas figuras durante la noche y con esas características. En los círculos falsos los tallos no se encuentran doblados, sino rotos además que la geometría empleada en los círculos auténticos es muy compleja. Se ha comprobado que en el interior de los círculos hay un remanente de energía, tanto más activa cuanto más reciente son. Y esa energía detectada interactúa con otras energías medibles de manera que se ha comprobado que el campo electromagnético es un 300% superior al resto del cultivo, lo que no solo perciben los aparatos de medida sino cualquier aparato electrónico (móviles, cámaras, …) También en muchos círculos se han detectado niveles anormales de radioactividad. Cualquiera que sea esa energía, es evidente que afecta a los seres vivos, en este caso a los vegetales. Si la planta es muy joven el tallo o el grano no madura y muere. Si la formación de los círculos se produce más avanzada la estación, con las espigas más desarrolladas, el grano maduran pero se vuelven estériles. En ambos casos los granos se deforman. Sin embargo si aparecen con las espigas ya madurando, los tallos y éstas crecen más rápido y más sanas que el resto del cultivo. Además los tallos jóvenes del interior de las formaciones presentan nódulos más desarrollados y pueden doblarse sin romperse mucho más que el resto. El profesor Levengood de la Universidad de Michigan realizó un sencillo experimento, sometiendo a los tallos normales a los efectos de un horno de microondas y obtuvo resultados muy parecidos. Como conclusión vemos que el fenómeno no sólo afecta al magnetismo y a la radioactividad del terreno, sino que además altera la estructura molecular de las plantas. Pero lo más extraordinario es que la energía presuntamente causante de la formación de los círculos permanece en el lugar, conservando sobre el terreno la memoria del diseño del dibujo que está representado. En 1998 el ingeniero Colin Andrews realizó un experimento que así parece demostrarlo. Colocó agua destilada en recipientes adecuados dentro de alguno de los círculos de las cosechas y después, mediante un espectrógrafo, comprobó que a nivel molecular el agua tendía a ordenarse de una forma parecida a la del dibujo en cuyo interior había estado, como si en ese lugar hubiese un campo energético con el esquema del dibujo memorizado y la misma información hubiese pasado al agua reordenando sus moléculas. Esta energía se basa de métodos desconocidos para formar geometrías perfectas tal y como pudo comprobar Roy Datom. Este ingeniero aeroespacial inglés ha comprobado que la espiral que se forma en el interior de la formaciones circulares corresponde a un modelo matemático concreto que se repite en todos los círculos auténticos. La espiral interna corresponde a un vórtice de contracción, con una fuerza que va hacia el centro, en tanto que la linea que forma el círculo externo gira con una dirección opuesta… En varios de los dibujos complejos el diseño esta basado en la progresión matemática en la que un número es la suma de los dos anteriores. Así, en los conjuntos de círculos, el diámetro de cada uno de ellos es igual a la suma de los diámetros de los dos círculos precedentes. Además, se sirven en otros diseños del número aureo, una proporción geométrica inconfundible. Una de las cosas que también llama la atención con las formaciones de los círculos es la conexión que tienen con el sonido. Hay diseños que dan proporciones musicales, proporciones diatónicas relacionadas con la escala musical. Demuestran escalas geométricas en proporciones que dan como resultado notas musicales. Formaciones fractales Series en los que a partir de los bordes de una figura se van formando otras cada vez más pequeñas. Un concepto matemático de vanguardia que también está presente en los círculos de las cosechas desde principios de los años noventa. Un fractal, técnicamente hablando, es un cuerpo geométrico, una superficie limitada, finita, cuyo borde o perímetro tiende al infinito. Se le denomina fractal por la gran fractura que presenta las diversas geometrías cuando se llega a nuestro límite de entendimiento, cuando llegamos a los bordes del infinito. Formación fractal Mandelbrot El primero de estas representaciones fractales apareció el 13 de agosto de 1991 cerca de Cambridge, sede la universidad en la que precisamente daba clase el matemático Benoit Mandelbrot, descubridor de los diagramas fractales. “La serie de Mandelbrot es un fractal. Representa una fase existente con una geometría . Las computadoras la colocan en un esquema representando unas condiciones que indica el verdadero límite entre el orden y el caos. El fractal representa el límite entre ambas fases, en el preciso momento en que el orden se transforma en caos y el caos vuelve al orden. Creo que es muy importante que nosotros comprendamos cual es el momento en el cual el orden desaparece y se transforma y vuelve el caos” – afirma el ingeniero Colin Andrews. La geometría fractal expresada en los círculos de las cosecha es técnicamente imposible de llevar a cabo con ningún mecanismo que nadie tenga. Haría falta invertir demasiada energía, esfuerzo y tecnología de alta precisión para llevar a cabo estos dibujos, todavía más pensando que estas formaciones vistos desde el aire son absolutamente perfectas. Dar como ejemplo el diseño de Averbury de 1996 formado por cerca de 2500 piezas todas diferentes entre sí perfectamente sincronizadas dentro de una geometría fractal. Si alguien humano ha sido capaz de realizar semejante obra, este hecho en sí ya sería algo maravilloso y digno de un serio estudio. El mecanismo de formación de este fenómeno, nos guste o no, rebasa nuestros límites de comprensión. Desconcertante. Y sin embargo en la opinión pública ha quedado con que todo como una simple broma. Crop Circles 1 de 6 Crop circles 2 de 6 Crop circles 3 de 6 Crop circles 4 de 6 Crop circles 5 de 6 Crop circles 6 de 6 Para mayor información sobre imágenes de Crop circles, consultar estas dos paginas web: http://www.temporarytemples.co.uk/imagelibrary/ http://www.lucypringle.co.uk/ Mensaje terrestre y respuesta La mañana de 14 de agosto del 2001 algunas personas montando a caballo observaron algunas perturbaciones en el campo de cultivo frente al radio telescopio de Chilbolton, reportando el hecho a investigadores del fenómeno de los “crop circles”. La figura no era clara. A los pocos días se realizó un vuelo por encima de la formación y se observó que habían dos figuras. Una de ellas, de 86 metros de alto por 29 de ancho y la otra 54 metros de largo por 47,5 de ancho. Sólo después de comprobar las fotografías tomadas se pudo aclarar el diseño de ellas. Una era nada más y nada menos que un rostro tridimensional, el conocido como rostro de Chilbolton”, la otra se trataba de una “contestación” a un mensaje de Frank Drake y Carl Seagan. El 16 de noviembre de 1974 el radiotelescopio de Arecibo (Puerto Rico) fue inagurado con el lanzamiento de un mensaje al cúmulo de estrellas llamado M13, la gran Nebulosa de Hécules. El mensaje diseñado por Drake y Seagan presentaba información referente al ser humano en código binario. En 73 lineas por 23 columnas se incluyó información sobre nuestro sistema numérico, bases químicas de la vida, química de nuestro ADN, diseño de la estructura de nuestra cadena genética, tamaño e información sobre forma y tamaño físico del ser humano, el número de habitantes de la tierra, posición en el sistema solar y finalmente información de la antena de Arecibo. La supuesta respuesta recibida en los campos de cereal de Chilbolton podría ser el primer intento de comunicación directo de otras inteligencias no humanas. Analizando la formación encontramos información interesante. Los átomos básicos de la vida parecen ser los mismos. El hidrógeno, nitrógeno, oxígeno, fósforo y carbono parecen ser también los componentes básicos de la vida en los organismos de estos supuestos seres. Sin embargo tiene una pequeña variación. En la figura de la formación aparece añadido el silicio con número atómico 14. Es demostrable que a través del interferón es posible ligar moléculas de silicio con las de carbono, quizá para lograr una mayor resistencia a determinado entorno. Sin embargo no se tiene explicación del por qué de esta posibilidad. La estructura del ADN observada en el mensaje de Chilbolton muestra una variación muy importante, demostrando que el origen de estos seres es un híbrido entre la especie humana y algo más. Este cambio no puede ser natural, tuvo que haber sido inducido de manera artificial. El tamaño del genoma en la respuesta también es diferente, poseyendo mayor cantidad de secuencias de nucleótidos en la composición “extranjera”, que implica una mayor evolución en la especie. La forma del cuerpo del ser humano comparado con el de los supuestos seres presenta grandes cambios. La de estos seres es pequeña y con grandes cabezas, la del ser humano es sabida más proporcional. Otro aspecto interesante de destacar es la disposición de los planetas en los que residen. Según la formación de Chilbolton se disponen a través de 3 planetas de nuestro sistema solar y en algunas lunas del quinto planeta. Crop circle representando una medusa El fondo del fenómeno Desde el punto de vista esotérico existen muchas predicciones que parecen tener relación directa con la aparición de estos eventos. La biblia habla de señales en el cielo y en la tierra en este preciso momento de la historia. En los hechos de los apóstoles 2,19 en el nuevo testamento, se cita al profeta Joel del viejo testamento, diciendo que la llegada del reino de Dios en la tierra sería bendecida con la aparación de señales en la tierra. Las profecías de los nativos de américa hablan de los mismo, de señales en la tierra en el momento en el que los cambios de conciencia tomasen lugar. Parece haber una conexión en nuestra percepción cultural del mundo, un giro en la evolución en cuanto a nuestra situación como personas. Tenemos la opción de evolucionar o involucionar, estamos en el filo de la navaja…La manera mecanicista que tenemos cuando pensamos que todo lo que existe está a nuestro alcance, que podemos hacer lo que nos venga en gana sin tener en cuenta la consecuencias nos está llevando muy rápidamente hacia una rotura de nosotros mismos. Debemos tomar otra dirección. Para los creyentes, parte de la esencia por la cual se dirigen a nosotros es que estamos en medio de un cambio de dimensiones, un cambio de frecuencia, un cambio de densidad, un cambio de vibraciones que nos hace alterar de nuestra acostumbrada y dura mecánica y newtoniana realidad de objetos sólidos y tiempo lineal, hacia una quinta realidad dimensional en la que tiempo y espacio son desplazados hacia aquello que es más accesible y manipulable por la conciencia. Estamos hablando del momento más asombroso de la historia humana. No cabe duda alguna de que dentro de pocos años podremos establecer una comunicación directa con nuestros “primos”. No cabe duda de que ese será un evento que desmoronará nuestro sistema político, religioso, económico y científico. Eso no nos hará felices y por supuesto no estaremos preparados para este clataquismo, hasta que la masa crítica de la humanidad se haya trasladado “cómodamente” hacia la quinta dimensión. Los círculos parecen prepararnos hacia este cambio. Y final… Difícil de abordar el tema del fenómeno de los “Crop Circles” con objetividad, porque nos enfrentamos a unos hechos y a unas pruebas que escapan a las ideas, métodos y creencias establecidos, pero no por ello menospreciable. Es más bien un tema muy desconcertante. Razones para dudar de que se trate de un fenómeno serio las hay, pero siempre desde nuestro de punto de vista actual, con el pensamiento de que este tipo de acontecimientos simple y llanamente son imposibles. Pero esta idea resulta enormemente absurda y poco inteligente, aún así es la que expone la comunidad científica actual. Es una pena que se quede ahí y no tenga la inquietud de ir más allá, es una pena que se nos trate de manipular de una manera burda y pobre diciéndonos que simplemente se trata de una patraña. Pero no tienen datos contundentes para defender lo que dicen. Y cuando las presentan lo hacen de manera despectiva y sujentándose a ideas preconcebidas, llenas de prejuicios. Porque “nuestra” ciencia no está sujeta a la libertad, está agarrada hacia aquello que dice que es así porque así se demuestra con su método científico, de un modo mecánico y sin posibilidad alguna de especulación que nos lleve a evolucionar hacia una verdad que va más allá de lo ya establecido. Lo que sí se puede decir con rotundidad es que el fenómeno existe, es real y que cada año que pasa se comporta de manera más explícito, más descarado. Su verdadero origen no puede ser demostrado por nada ni nadie. Las pruebas están ahí y nos queda seguir viendo su evolución. Pero nos encontramos con cada vez más manipulaciones por parte de los medios y falsos creadores que buscan notoriedad y desprecian el auténtico origen del fenómeno, haciendo dibujos falsos y declarándose artistas de las formaciones. Jugando con la inquietud de investigadores serios y riéndose de ellos. Los auténticos creadores son un enigma, y en el supuesto de que fuese algún genio desconocido, una persona o personas como cualquier ser humano más, aún barajando esa posibilidad, sería de todas maneras uno de los fenómenos más inquietantes de los últimos tiempos, por todo lo que ello ha implicado e implica. Pero como siempre, la auténtica verdad nos llega manipulada o no nos llega, ocultando o tergiversado por aquellos que se sienten poderosos, aquellos que dicen tener el poder, cuando en realidad es el miedo el que les conduce a tener que mentirnos continuamente, mantenernos fuera de todo conocimiento real de las cosas. Un miedo que viene de la más absoluta ignorancia, pero sobre todo de nuestra inconsciencia. Pero todo cambia, todo vuelve a su momento de origen, todo sistema establecido ha tenido su fin y así seguirá siendo. Fuentes: “La otra realidad, Los Círculos De La Cosecha”- Jimenez del Oso, documental; “Secretos en los sembrados” Freddy Silva; “Círculos mágicos”- NATURA, documental ; “Revelaciones, Circulos de las cosechas”,- NATIONAL GEOGRAPHIC Society, documental. Enlaces: cropcircleconnector.com; lucypringle.co.uk (seguimiento actual del fenómeno) Fuente: Grupo NeXus Entrada recomendada: DOSSIER Crop Circles. El enigma de los Círculos de las Cosechas ,",
+        "display_name": "Los Crop Circles de Chilbolton y Winchester (England): La contestación al mensaje de Arecibo y una recomendación extraterrestre para los seres humanos.",
+        "favicon_images": {
+            "50x": "https://i.pinimg.com/favicons/50x/c03728cdf035e9b9f34964c13498cdb3869aed9fe66e552d4b530ffc.png?59a0c7b6e4848ccdabcea0636efda02b",
+            "orig": "https://i.pinimg.com/favicons/c03728cdf035e9b9f34964c13498cdb3869aed9fe66e552d4b530ffc.ico?59a0c7b6e4848ccdabcea0636efda02b"
+        },
+        "favicon_link": "https://i.pinimg.com/favicons/c03728cdf035e9b9f34964c13498cdb3869aed9fe66e552d4b530ffc.ico?59a0c7b6e4848ccdabcea0636efda02b",
+        "id": "f7130326466e64198733cf86cebe33b4",
+        "products": [],
+        "site_name": "elmensajedeotrosmundos.blogspot.com",
+        "type": "richpingriddata",
+        "type_name": "article",
+        "url": "http://elmensajedeotrosmundos.blogspot.com/2014/03/los-crop-circles-de-chilbolton-y.html"
+    },
+    "shopping_flags": [],
+    "sponsorship": null,
+    "story_pin_data": null,
+    "story_pin_data_id": null,
+    "subcategory": "board",
+    "title": "",
+    "tracking_params": "CwABAAAAEDE4MDE0ODUwNjM2ODI5ODAGAAMAAQsABwAAAApuZ2FwaS9wcm9kAA",
+    "type": "pin",
+    "url": "https://i.pinimg.com/originals/85/1e/f3/851ef313acef6b8f74b5c85bba5374fc.jpg",
+    "video_status": null,
+    "video_status_message": null,
+    "videos": null,
+    "view_tags": [],
+    "width": 499
+}

@@ -1,0 +1,965 @@
+{
+    "access": [],
+    "ad_match_reason": 0,
+    "additional_hide_reasons": [],
+    "aggregated_pin_data": {
+        "aggregated_stats": {
+            "done": 0,
+            "saves": 308
+        },
+        "creator_analytics": null,
+        "did_it_data": {
+            "details_count": 0,
+            "images_count": 0,
+            "rating": -1,
+            "recommend_scores": [
+                {
+                    "count": 0,
+                    "score": 1
+                },
+                {
+                    "count": 0,
+                    "score": 0.5
+                },
+                {
+                    "count": 0,
+                    "score": 0
+                }
+            ],
+            "recommended_count": 0,
+            "responses_count": 0,
+            "tags": [],
+            "type": "aggregateddiditdata",
+            "user_count": 0,
+            "videos_count": 0
+        },
+        "has_xy_tags": false,
+        "id": "4794859165088482317",
+        "is_shop_the_look": false
+    },
+    "alt_text": null,
+    "attribution": null,
+    "board": {
+        "access": [],
+        "allow_homefeed_recommendations": true,
+        "archived_by_me_at": null,
+        "blocking_actions": [],
+        "board_order_modified_at": "Thu, 14 Jul 2022 03:39:33 +0000",
+        "category": "other",
+        "collab_board_email": false,
+        "collaborated_by_me": false,
+        "collaborator_count": 0,
+        "collaborator_invites_enabled": false,
+        "collaborator_permissions": [
+            1,
+            6,
+            7,
+            9,
+            8,
+            11,
+            3,
+            15
+        ],
+        "collaborator_permissions_setting": 1,
+        "collaborator_requests_enabled": false,
+        "cover_pin": {
+            "image_signature": "6b99475aed453a7e6ec7283e4cdfd542",
+            "pin_id": "340021840599132999",
+            "timestamp": 1468202875
+        },
+        "description": "",
+        "event_date": null,
+        "event_start_date": null,
+        "followed_by_me": false,
+        "follower_count": 283,
+        "id": "340021909305902045",
+        "image_cover_url": "https://i.pinimg.com/200x150/6b/99/47/6b99475aed453a7e6ec7283e4cdfd542.jpg",
+        "images": {
+            "474x": [
+                {
+                    "dominant_color": "#47494A",
+                    "height": 711,
+                    "url": "https://i.pinimg.com/474x/f1/d5/b2/f1d5b2eda98301ffef970830bf5f7cf8.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#7C784A",
+                    "height": 316,
+                    "url": "https://i.pinimg.com/474x/db/58/7a/db587acb47d6117413aebff246cf5106.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#95969A",
+                    "height": 600,
+                    "url": "https://i.pinimg.com/474x/ad/7f/66/ad7f668c9760841ab6b312079790e13d.jpg",
+                    "width": 400
+                },
+                {
+                    "dominant_color": "#8C6B3E",
+                    "height": 416,
+                    "url": "https://i.pinimg.com/474x/ab/91/6e/ab916ecf0d298148aa912adf084178bc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B5914C",
+                    "height": 187,
+                    "url": "https://i.pinimg.com/474x/4a/ab/c5/4aabc5aaa95939f1b26eeb4a9affff69.jpg",
+                    "width": 236
+                },
+                {
+                    "dominant_color": "#B5A06E",
+                    "height": 424,
+                    "url": "https://i.pinimg.com/474x/2a/64/85/2a64850251968c5c46d2fc51055f223e.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#527B2A",
+                    "height": 355,
+                    "url": "https://i.pinimg.com/474x/b2/74/a4/b274a4c0c0af82b0357b40fa9fa4fffc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A78543",
+                    "height": 324,
+                    "url": "https://i.pinimg.com/474x/db/44/4e/db444e72ed4fd6867bc61e8d1919e9cf.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A28660",
+                    "height": 418,
+                    "url": "https://i.pinimg.com/474x/4c/af/4c/4caf4cc04ac7c77d0188136d2a1e2dde.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B69267",
+                    "height": 313,
+                    "url": "https://i.pinimg.com/474x/34/d7/97/34d797b3c8cb0694a6858d717cf84fbd.jpg",
+                    "width": 474
+                }
+            ]
+        },
+        "is_ads_only": false,
+        "is_collaborative": false,
+        "layout": "default",
+        "map_id": "pinterest.ijz1714i",
+        "name": "crop circles",
+        "owner": {
+            "ads_only_profile_site": null,
+            "blocked_by_me": false,
+            "domain_url": null,
+            "first_name": "kim",
+            "full_name": "kim hinkle",
+            "id": "340021978025015150",
+            "image_medium_url": "https://s.pinimg.com/images/user/default_75.png",
+            "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+            "image_xlarge_url": "https://s.pinimg.com/images/user/default_280.png",
+            "indexed": true,
+            "is_ads_only_profile": false,
+            "is_partner": false,
+            "is_tastemaker": false,
+            "last_name": "",
+            "locale": "en-US",
+            "type": "user",
+            "username": "kandchinkle"
+        },
+        "pin_count": 4972,
+        "privacy": "public",
+        "section_count": 0,
+        "sectionless_pin_count": 4972,
+        "seo_canonical_domain": "www.pinterest.com",
+        "seo_description": "Jul 14, 2022 - Explore kim hinkle's board \"crop circles\", followed by 283 people on Pinterest. See more ideas about crop circles, cropped, circle.",
+        "seo_noindex_reason": null,
+        "seo_related_interests": [
+            {
+                "image": {
+                    "1200x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/1200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 170,
+                        "url": "https://i.pinimg.com/170x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 192,
+                        "url": "https://i.pinimg.com/192x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 200,
+                        "url": "https://i.pinimg.com/200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 222,
+                        "url": "https://i.pinimg.com/222x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 236,
+                        "url": "https://i.pinimg.com/236x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 237,
+                        "url": "https://i.pinimg.com/237x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 290,
+                        "url": "https://i.pinimg.com/290x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 345,
+                        "url": "https://i.pinimg.com/345x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 400,
+                        "url": "https://i.pinimg.com/400x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 474,
+                        "url": "https://i.pinimg.com/474x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 550,
+                        "url": "https://i.pinimg.com/550x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 564,
+                        "url": "https://i.pinimg.com/564x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 600,
+                        "url": "https://i.pinimg.com/600x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/640x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/736x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "750x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/750x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/originals/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    }
+                },
+                "name": "Sacred Geometry",
+                "url": "/ideas/sacred-geometry/901152072692/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/1200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 238,
+                        "url": "https://i.pinimg.com/170x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 269,
+                        "url": "https://i.pinimg.com/192x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 280,
+                        "url": "https://i.pinimg.com/200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 311,
+                        "url": "https://i.pinimg.com/222x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 330,
+                        "url": "https://i.pinimg.com/236x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 332,
+                        "url": "https://i.pinimg.com/237x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 406,
+                        "url": "https://i.pinimg.com/290x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 483,
+                        "url": "https://i.pinimg.com/345x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 560,
+                        "url": "https://i.pinimg.com/400x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 664,
+                        "url": "https://i.pinimg.com/474x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 770,
+                        "url": "https://i.pinimg.com/550x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 790,
+                        "url": "https://i.pinimg.com/564x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 840,
+                        "url": "https://i.pinimg.com/600x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 896,
+                        "url": "https://i.pinimg.com/640x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 98,
+                        "url": "https://i.pinimg.com/70x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 1031,
+                        "url": "https://i.pinimg.com/736x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 1050,
+                        "url": "https://i.pinimg.com/750x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/originals/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    }
+                },
+                "name": "Geometry",
+                "url": "/ideas/geometry/926306432669/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/1200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 212,
+                        "url": "https://i.pinimg.com/170x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 240,
+                        "url": "https://i.pinimg.com/192x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 250,
+                        "url": "https://i.pinimg.com/200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 277,
+                        "url": "https://i.pinimg.com/222x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 295,
+                        "url": "https://i.pinimg.com/236x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 296,
+                        "url": "https://i.pinimg.com/237x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 362,
+                        "url": "https://i.pinimg.com/290x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 431,
+                        "url": "https://i.pinimg.com/345x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 500,
+                        "url": "https://i.pinimg.com/400x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/474x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "550x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/550x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "564x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/564x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "600x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/600x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/640x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "70x": {
+                        "height": 87,
+                        "url": "https://i.pinimg.com/70x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/736x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "750x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/750x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/originals/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    }
+                },
+                "name": "Land Art",
+                "url": "/ideas/land-art/952166851654/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/1200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 113,
+                        "url": "https://i.pinimg.com/170x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 127,
+                        "url": "https://i.pinimg.com/192x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 133,
+                        "url": "https://i.pinimg.com/200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 147,
+                        "url": "https://i.pinimg.com/222x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/236x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/237x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 193,
+                        "url": "https://i.pinimg.com/290x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 229,
+                        "url": "https://i.pinimg.com/345x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 266,
+                        "url": "https://i.pinimg.com/400x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 315,
+                        "url": "https://i.pinimg.com/474x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 366,
+                        "url": "https://i.pinimg.com/550x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 375,
+                        "url": "https://i.pinimg.com/564x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 399,
+                        "url": "https://i.pinimg.com/600x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 426,
+                        "url": "https://i.pinimg.com/640x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 46,
+                        "url": "https://i.pinimg.com/70x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 490,
+                        "url": "https://i.pinimg.com/736x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 499,
+                        "url": "https://i.pinimg.com/750x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/originals/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    }
+                },
+                "name": "Crop Circles Photography",
+                "url": "/ideas/crop-circles-photography/924199160619/"
+            }
+        ],
+        "seo_title": "900+ Crop circles ideas | crop circles, cropped, circle",
+        "should_show_more_ideas": true,
+        "should_show_shop_feed": false,
+        "topic": null,
+        "type": "board",
+        "url": "/kandchinkle/crop-circles/",
+        "viewer_collaborator_join_requested": false,
+        "viewer_contact_request": null
+    },
+    "carousel_data": null,
+    "category": "pinterest",
+    "comment_count": 0,
+    "comments": {
+        "bookmark": null,
+        "data": [],
+        "uri": "/v3/pins/340021840608056009/comments/"
+    },
+    "created_at": "Sun, 17 Sep 2017 01:59:30 +0000",
+    "creator_analytics": null,
+    "debug_info_html": null,
+    "description": "Carved 13 miles wide in a dry, caked lake bed...no tracks in..no trails in...noted as the Mother of Mandalas this is a siri yanta mandala, its true creation remains somewhat of a mystery, despite some people claiming To be its creators, It consisted of 13.3 MILES of lines, each 10\" wide and scored to a depth of 3 inches in the hard baked river bed. What strikes as a surprise for the most part is, no tracks going on or out of the area -- See more ...",
+    "description_html": "Carved 13 miles wide in a dry, caked lake bed...no tracks in..no trails in...noted as the Mother of Mandalas this is a siri yanta mandala, its true creation remains somewhat of a mystery, despite some people claiming To be its creators, It consisted of 13.3 MILES of lines, each 10&quot; wide and scored to a depth of 3 inches in the hard baked river bed. What strikes as a surprise for the most part is, no tracks going on or out of the area -- See more ...",
+    "domain": "ajitvadakayil.blogspot.in",
+    "dominant_color": "#998f8b",
+    "done_by_me": false,
+    "embed": null,
+    "extension": "jpg",
+    "favorite_user_count": 0,
+    "favorited_by_me": false,
+    "filename": "9ba0e12e95725d58e72ab4aca6685d1a",
+    "grid_description": "Carved 13 miles wide in a dry, caked lake bed...no tracks in..no trails in...noted as the Mother of Mandalas this is a siri yanta mandala, its true creation remains somewhat of a mystery, despite some people claiming To be its creators, It consisted of 13.3 MILES of lines, each 10\" wide and scored to a depth of 3 inches in the hard baked river bed. What strikes as a surprise for the most part is, no tracks going on or out of the area -- See more ...",
+    "grid_title": "BRAIN MASSAGE WITH SRI YANTRA-  CAPT AJIT VADAKAYIL",
+    "has_required_attribution_provider": false,
+    "height": 375,
+    "id": "340021840608056009",
+    "image_crop": {
+        "max_y": 1,
+        "min_y": 0
+    },
+    "image_signature": "9ba0e12e95725d58e72ab4aca6685d1a",
+    "images": {
+        "136x136": {
+            "height": 136,
+            "url": "https://i.pinimg.com/136x136/9b/a0/e1/9ba0e12e95725d58e72ab4aca6685d1a--sri-yantra-ancient-symbols.jpg",
+            "width": 136
+        },
+        "170x": {
+            "height": 127,
+            "url": "https://i.pinimg.com/170x/9b/a0/e1/9ba0e12e95725d58e72ab4aca6685d1a--sri-yantra-ancient-symbols.jpg",
+            "width": 170
+        },
+        "236x": {
+            "height": 177,
+            "url": "https://i.pinimg.com/236x/9b/a0/e1/9ba0e12e95725d58e72ab4aca6685d1a--sri-yantra-ancient-symbols.jpg",
+            "width": 236
+        },
+        "474x": {
+            "height": 355,
+            "url": "https://i.pinimg.com/474x/9b/a0/e1/9ba0e12e95725d58e72ab4aca6685d1a--sri-yantra-ancient-symbols.jpg",
+            "width": 474
+        },
+        "736x": {
+            "height": 375,
+            "url": "https://i.pinimg.com/736x/9b/a0/e1/9ba0e12e95725d58e72ab4aca6685d1a--sri-yantra-ancient-symbols.jpg",
+            "width": 500
+        },
+        "orig": {
+            "height": 375,
+            "url": "https://i.pinimg.com/originals/9b/a0/e1/9ba0e12e95725d58e72ab4aca6685d1a.jpg",
+            "width": 500
+        }
+    },
+    "is_downstream_promotion": false,
+    "is_eligible_for_pdp": false,
+    "is_eligible_for_related_products": false,
+    "is_eligible_for_web_closeup": false,
+    "is_native": false,
+    "is_oos_product": false,
+    "is_playable": false,
+    "is_promoted": false,
+    "is_quick_promotable": false,
+    "is_repin": true,
+    "is_stale_product": false,
+    "is_uploaded": false,
+    "is_video": false,
+    "is_whitelisted_for_tried_it": true,
+    "link": "http://ajitvadakayil.blogspot.in/2011/11/brain-massage-with-sri-yantra-capt-ajit.html",
+    "manual_interest_tags": null,
+    "media_id": "",
+    "method": "scraped",
+    "native_creator": null,
+    "num": 0,
+    "pinner": {
+        "ads_only_profile_site": null,
+        "blocked_by_me": false,
+        "explicitly_followed_by_me": false,
+        "full_name": "kim hinkle",
+        "id": "340021978025015150",
+        "image_large_url": "https://s.pinimg.com/images/user/default_140.png",
+        "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+        "is_ads_only_profile": false,
+        "type": "user",
+        "username": "kandchinkle"
+    },
+    "price_currency": "USD",
+    "price_value": 0,
+    "privacy": "public",
+    "product_pin_data": null,
+    "promoted_is_lead_ad": false,
+    "promoted_is_removable": false,
+    "promoted_lead_form": null,
+    "promoter": null,
+    "reaction_counts": {},
+    "repin_count": 0,
+    "rich_summary": {
+        "actions": [],
+        "apple_touch_icon_images": null,
+        "apple_touch_icon_link": null,
+        "display_description": "The geometry above is divine. It contains the THEORY OF EVERYTHING. This geometry is seen in our ancient Indian temples. Super genius Nikola Tesla with a fractal mind would see the Sri Yantra in blinding flashes. The Sri Yantra is traditionally held by 12 strand nil junk DNA Vedic rishis to have been divinely revealed around 8000 BC. These super-men with fractal minds and king sized pineal glands could see numerical problems as fractal 3D geometry. In August 1990 a huge 2D Sri Yantra was inscribed overnight on a dry lake bed in USA Oregon and spotted by a National air guard plane from Idaho. The lines engraved were 13.3 miles long , 10 inches wide and 3 inches deep in soft mud , when measured. There were no footprints or tyre marks in the soft mud-- unlike the quintessential corn crop circle which cannot record footprints. Pretty soon two American hilly billys came along with muddy shoes and claimed that they made the diagram using ropes and wooden sticks. Somebody who knew what a EXTREMELY COMPLICATED AND PRECISE GEOMETRY Sri Yantra is and how complicated it is to make, gave them a piece A4 size paper and some geometrical instruments , and told them “ If you can make this same diagram on this sheet of paper within one month—I will give you a huge reward” . The two bumpkins were not seen after that. It’s location in the desert of eastern Oregon is now a “sacred place” for UFO watchers worldwide who still make the journey to the Mikey Basin to be near the site where Sri Yantra was first discovered. Now let me put a video below to show how complicated this sacred geometry is. If you stare at the centre spot ( bindu singularity ) every morning for 5 minutes , you will balance your left and right brain lobes. Sri Yantra which follows the Fibonacci series and the Golden ratio ( lifted from 7000 year old Vedic Mathematics ) is the mystical 3D holographic construct of the Cosmos by 9 VIRTUAL SPIRALLING VORTEX CONES — 4 pointing upwards and 5 pointing downwards, as a sort of ying-yang balance. If you see the video above in 3D cones, you will understand this geometry better. The secrets of Cosmic unity are held by the inter-penetration of 9 triangles to form 43 smaller triangles. To understand in 2D -- out of 9 interlacing triangles, 5 point downwards and 4 point upwards, to form 43 triangles. All triple intersections meet at the same point. The vertices of the largest triangles fall on the circumference of the enclosing circle. Except for the two biggest triangles, all apexes touch the base of another triangle. The central triangle facing downwards must be equilateral and holds the Bindu of the holistic pyramid . The Bindu is also the centre of the circle . The 3 lines intersect at 54 points ( number of sanskrit alphabets ) with shiva and shakti qualities making the divine number 108.. The Indian Mantra of OM or AUM is 11000 years old. When you chant this master mantra with its harmonics at 7.83 Hz ( earth's heart beat --Schumann resonance ) , the Sri Yantra forms like magic on water. The Sri yantra is holographic, in that every bit of it contains all of it. The great pyramid of Cheops Egypt has a base angle 51 deg 49 minutes like the Sri Yantra large pyramid, showing exactly the same relationship between pi and phi . The ratio of the hypotenuse to half the base is phi, the Golden Ratio-- or 'divine proportion', given by (1 + square-root 5)/2 (its value to five decimal places is 1.61803 ). It is a sure indication that the Pharaoh's architects were NOT from Egypt. 51 deg 49 min 38.25 sec are the angle measurements for both the Egyptian pyramids and Sri Yantra pyramid. The Sri Yantra large pyramid, showing exactly the same relationship between pi and phi . The ratio of the hypotenuse to half the base is phi, the Golden Ratio-- or 'divine proportion', given by (1 + square-root 5)/2 (its value to five decimal places is 1.618033989 ). By the way, the architects of the Pyramids and the Sphinx were Vaishnavites from Kerala , who put a U mark on their foreheads Sri Yantra is the foundation of Vaastu ( the original feng shui ). Vaastu insisted on the PERFECT , NESW cardinal orientation--just like the pyramids. Warrior sage Parashurama introduced it to Kerala. A golden rectangle is a rectangle whose side lengths are in the golden ratio, 1: 1.618. whose reciprocal is 0.618033989 . . . . . so that we have 1/G = 1 + G. The Sri Yantra is the basis of the great Egyptian pyramids. The cymatic 3D inscription ( sound vibration conversion to visual patterns ) of OM in pure water is the ancient vedic Sri Yantra. It abundantly shows that microscopic forces that define the structure of water is not fully known Fibonacci series ( from Bejaya Algeria where he read a translated copy ) was lifted from the work of the great Indian mathematician Pingala in 5th century BC, under the series Matra Meru. The golden ratio is lifted by an Italian Fibonacci , from the mystic Vaastu geometry of Sri Yantra of Indian Vedic times 10,000 years ago. Fibonacci was in Bejaya Algeria , when he came to know about Indian Vedic Mathematics, from the Arabs. He stole this knowledge and patented it for himself in Italy. Same way Isaac Newton stole Calculus from Parameshwaran of Kerala. Fibonacci series was lifted from the written work of the great Indian mathematician Pingala in 5th century BC, under the series Matra Meru. Later Indian mathematician Virahanka's work was translated into Arabic in 600 AD. Fibonacci series or sequence : 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181, ... (each number is the sum of the previous two). The ratio of successive pairs is so-called golden section - 1.618033989 . . . . . Fibonacci was the first to introduce the Hindu-Arabic number system into Europe- the system we now use today- based on ten digits with its decimal point and a symbol for zero: 1 2 3 4 5 6 7 8 9. and 0 Italian thief Fibonacci's state is at Pisa. I do hope nobody wants to argue that Fibonacci is older than the Sri Yantra, and that the Vedic Sri Yantra maker stole from Fibonacci. The picture below shows \"yours truly\" trying to push the tower, when I was a young boy. Play the video abovefor a nice brain massage-- ensure you put on headphones. Resonances of earth, ie, 7.83, 14, 20, 26, 33, 39 and 45 Hertz of earth. 7.83 hz being the strongest of all, OM or Schumann frequency. Ohm- 7.83 Hz Gam - 14 Hz Hleem - 20 Hz Hreem - 26 Hz Kleem - 33 Hz Krowm - 39 Hz Sreem - 45 Hz Om Shreem Hreem Shreem Kamale Kamalaleyi Praseed Praseed Om Shreem Hreem Shreem Mahalaxmiyei Namaha Rough translation: Underlying Vibration of all creation, abundance please, cherishing your lotus feet, be pleased Great Laxmi Goddess, I bow to You. 27 Repetitions (Repeat 4 times for 108 rounds = 1 mala = 40 minutes) 108 is the numerical equivalent of OM , in sync with the rhythms of time and space and represents perfect totality. In Samudra Manthan 54 devas and asuras had churned for the amrit or holy nectar. All mantras are repeated 108 times. All prayer beads count up to 108. There are 108 upanishads. Nataraja's cosmic dance has 108 Bharatanatyam poses. 12 rashis and 9 navagrahas multiply to 108. Sun's diameter is 108 times that of the earth. The distance between the Earth and Sun is 108 times the diameter of the Sun. Ayurveda and Kalari talks about 108 marmas. Shiva, Ganesha and Krishna has 108 names. Buddhists and Japanese welcome new year with 108 chimes.The 108 th and heaviest element in the periodic table is Hassium ( 108 protons ) . The rest are too short lived. Morning is the best time to chant, especially after bathing. But in the evening before dinner, or 3 hours after dinner is ok too. Once you learn it by heart, just practice on a mala, especially a lotus seed one, and it will take around 30+/- minutes to do 1 mala a day. If you recite this mantra daily 108 times worries, trouble will go away. \"Look into the center of the Yantra, trying to blink as rarely as possible; you don't want to look at the particular details of the Yantra, just keep your sight right in the center and observe the whole Yantra at once. \"In time, after at least seven days of Yantra meditation you will be able to tap into the same yantric energy even without a Yantra (at the beginning you may fix your sight on an exterior or imaginary point or evoke the Yantra with your eyes closed). \"In superior phases the Yantra absorbs the practitioner's complete attention, and he can no longer tell if the Yantra is within himself or if he is within the Yantra; this is the state of non-duality.\" Geometric element meanings: Circle = Energy of the element water Square = Energy of the element earth Triangle = Energy of the element fire Diagonal lines = Energy of the element air Horizontal line = Energy of the element water Vertical line = Energy of the element fire Point = Energy of the element ether. The lotus flower represent chakras, with each petal representing a psychic propensity (or vritti) associated with that chakra A dot, or bindu, represents the starting point of big bang singulraity -- creation or the infinite, unexpressed cosmos. The satkona (Sanskrit name for the Dravidian 6 point star symbol identical to water crystal -- the 6 point star of David) composed of a balance between: An upwards triangle denoting action (or service), extroversion, masculinity or Shiva A downwards trianle denoting introversion, meditativeness, goddess energy or Shakti All those who think Vedic mysticism is bullshit, read further. On Dec 21st 2012 the plane of our Solar System will line up exactly with the plane of our Galaxy, the Milky Way. This precession cycle has taken 25765 years to complete . Each body cells’ DNA is a transceiver for information. Our DNA is being \"upgraded\" to 12 strand. A new light body is being created. We are becoming more intuitive. We are going beyond technology and back to the natural cycles of nature and the Universe. Neutrinos are scalar waves moving faster than the speed of light. This is known in Vedas 7000 years ago, and I had blogged several times about this 2 years ago —but discovered by the Western scientists using the Swiss Hadron Collider just 4 months ago . Punch into Google search VEDIC QUANTUM INTENTION EXPERIMENT- VADAKAYIL-- to read this post about faster than light neutrinos OR -- PROUD TO BE INDIAN ,PROUD TO BE HINDU-VADAKAYIL (for the formula E=tMC2 ) When moving at the speed of light they are photons but when a neutrino is slowed to below the speed of light it simply becomes an electron. Neutrinos can oscillate between e- and e+. Fusion involves e-, and a lightning flash involves e+. Energy in a vortex acts as a frequency converter. Zero Point Energy is neutrino power - energy from the field; available at anytime, and everywhere present. To show the place of neutrinos in conventional science, establishes Nikola Tesla, the \"father of free energy\" as also the discoverer of the neutrino. He was given this ancient 9000 year old Vedic information by the great Indian mystic Swami Vivekananda. Neutrinos are the most penetrating of subatomic particles .They do not cause ionization, because they are not electrically charged. Trillions of Neutrinos pass through every human being in every second, yet we are completely unaware of them. Italian Fibonacci of 1200 AD is given the credit of the Golden ratio, while the Indian Sri Yantra based on Golden ratio of 1.618 was drawn in 8000 BC --see video below. Opposing forces Tamas and Rajas are connected through consciousness ( yin-yang ). The middle prong of Shiva’s trident is Sattwa. It is about quantum possibility vortex vibrations, between two poles, we call the cosmic dance of Shiva from either side of the Quantum screen... Together they express the great void at absolute peace with itself. To activate the third eye of Shiva, or to perceive higher dimensions, the pineal gland ( soul ) and the pituitary glands ( body ) must vibrate in resonance to create a field. This is represented by Samudra manthan in Hindu mythology, where mount meru is used to churn the oceans for Amrit or Ambrosia in a to and fro movement , representing vibrations.. The amrit of the ambrosia or Soma is the holy grail. This is what the Templar knights got after excavating King Solomon's temple. Soma is a divine LSD-- rather a million times more powerful DMT. A 12 strand Maharishi with NIL junk DNA can produce it naturally, by resonating his pineal gland with his DNA, and achieve telepathy and psychic teleportation. The psychedelic journeys are accessed and experienced within the realms of the pineal gland. The pineal gland is the Shiva lingam. Serotonin has the same chemical structure as this hallucinogenic substance Soma. Serotonin is transformed into melatonin only in the pineal gland. Decline in melatonin is the trigger for the aging process, for Melatonin is the super-oxidant of nature. The hormone Melatonin, induces sleep, while Serotonin, keeps you happy and in a balanced mental state of mind. PROZAC raises serotonin. The pineal gland produces Pinoline, ( 6-methoxy-tetra-dydro-beta carboline, or 6-MeO-THBC ) . Pinoline also resonates with the very pulse of life 7.83 Hertz, the pulse the DNA uses to replicate, and which has been measured to be emitted from the brains and hands of all successful healers, regardless of belief or faith. OM king mantra is 7.843 hertz. Resonance can vibrate the pineal gland, to release Nuerotransmitter seratonin, melatonin, DMT, etc. If you have a strong enough sense of consciousness you will taste a huge pituitary release in the back of your mouth and sinuses and throat, it is referred to as ambrosia ( amrit -- mental orgasm discharge ) . This is a result of DMT production . DMT is the spirit molecule that bends space-time. Pineal DMT is the chemical messenger which links body and spirit. Dimethyltryptamine, a psychedelic tryptamine Pinoline enables the threshold levels of DMT to become active in the brain, but it requires an instant bungee jump induced adrenaline burst. DMT with Pinoline increases brain activation multi fold. You cant observe the quantum world without your Pineal gland -- the other 5 senses have too narrow bandwidths. Quantum physics has showed the ancient Indian Yogis were NOT mere dreamers of cosmic consciousness, where our bodies, our brain and its mind, as inextricably joined with other matter and the mega dipole of universe . There is indeed a connection between consciousness and tangled state quantum phenomena Indian Vedic maharishis had the inherent ability to go on either side of the narrow band of five human senses. THEY COULD TRANSCEND THE SENSES AND LIMITATION OF SPACE-TIME. They firmly believed that the invisible below the quantum screen gives rise to the visible. At the time of death Seratonin and Melatonin in the brain breaks down to Dimethyltryptamine or DMT, C12 N2 H16, just after the oxygen stops circulating. This is the moment for the ultimate DMT trip. You see your whole past life as FRACTAL dvine geometry. When you consume Soma, colours , sounds and numbers all show up as fractal geometry. What you have learnt in the past is of no use to you. As you breathe in the oxygen enters your brain and causes an explosion of fractal colours. To the spiritual eastern mind, the story of SAMUDRA MANTHAN produces amazing acts of faith like the Kumbh Mela , which has been going on for 6000 years. Tamas and Rajas are conscious of each other. Amrit reveals the fractal nature of consciousness. Amrit is NOT external, it is produced inside your head. All you need to know is how to produce it by your own mind. 12 strand DNA which ancient Maharishis had, has now degraded to 2 strand DNA. These 12 strand DNA maharishis with raised Kundalinis , can read akashik records , convert them from fractal geometry, for daily life use. The cobra on Lord Shiva 's shoulders shows raised Kundalini and open third eye. This self realisation (of opening the third eye) , is the ultimate goal of consciousness. The timeless spiritual wisdom of the of the 7000 year old Vedas will roar to life after Dec 21st 2012- the veil of Maya or delusion over the third eye will be ripped asunder—as the first step towards upgrading the 2 strand 97% junk DNA to 12 strand nil junk DNA.. -- Capt Ajit Vadakayil. CAPT AJIT VADAKAYIL ..",
+        "display_name": "BRAIN MASSAGE WITH SRI YANTRA",
+        "favicon_images": {
+            "50x": "https://i.pinimg.com/favicons/50x/bba35e929c493cb7a79ccb4f6cd00f65cc35c6612e0e2c74028089c1.png?59a0c7b6e4848ccdabcea0636efda02b",
+            "orig": "https://i.pinimg.com/favicons/bba35e929c493cb7a79ccb4f6cd00f65cc35c6612e0e2c74028089c1.ico?59a0c7b6e4848ccdabcea0636efda02b"
+        },
+        "favicon_link": "https://i.pinimg.com/favicons/b282019b47eabb0945df809a1fdb074f39722d57c6b7c81dec1c5682.ico?59a0c7b6e4848ccdabcea0636efda02b",
+        "id": "253f5b35f1db86c937ee7729c9066b5c",
+        "is_hard_404": true,
+        "products": [],
+        "site_name": "CAPT AJIT VADAKAYIL",
+        "type": "richpingriddata",
+        "type_name": "article",
+        "url": "http://ajitvadakayil.blogspot.in/2011/11/brain-massage-with-sri-yantra-capt-ajit.html"
+    },
+    "shopping_flags": [],
+    "sponsorship": null,
+    "story_pin_data": null,
+    "story_pin_data_id": null,
+    "subcategory": "board",
+    "title": "",
+    "tracking_params": "CwABAAAAEDEwNzk3NTE1MTU0NzI1MDEGAAMAAQsABwAAAApuZ2FwaS9wcm9kAA",
+    "type": "pin",
+    "url": "https://i.pinimg.com/originals/9b/a0/e1/9ba0e12e95725d58e72ab4aca6685d1a.jpg",
+    "video_status": null,
+    "video_status_message": null,
+    "videos": null,
+    "view_tags": [],
+    "width": 500
+}

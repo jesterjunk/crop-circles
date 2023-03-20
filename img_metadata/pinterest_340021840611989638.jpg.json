@@ -1,0 +1,964 @@
+{
+    "access": [],
+    "ad_match_reason": 0,
+    "additional_hide_reasons": [],
+    "aggregated_pin_data": {
+        "aggregated_stats": {
+            "done": 0,
+            "saves": 127
+        },
+        "creator_analytics": null,
+        "did_it_data": {
+            "details_count": 0,
+            "images_count": 0,
+            "rating": -1,
+            "recommend_scores": [
+                {
+                    "count": 0,
+                    "score": 1
+                },
+                {
+                    "count": 0,
+                    "score": 0.5
+                },
+                {
+                    "count": 0,
+                    "score": 0
+                }
+            ],
+            "recommended_count": 0,
+            "responses_count": 0,
+            "tags": [],
+            "type": "aggregateddiditdata",
+            "user_count": 0,
+            "videos_count": 0
+        },
+        "has_xy_tags": false,
+        "id": "4948422847509837509",
+        "is_shop_the_look": false
+    },
+    "alt_text": null,
+    "attribution": null,
+    "board": {
+        "access": [],
+        "allow_homefeed_recommendations": true,
+        "archived_by_me_at": null,
+        "blocking_actions": [],
+        "board_order_modified_at": "Thu, 14 Jul 2022 03:39:33 +0000",
+        "category": "other",
+        "collab_board_email": false,
+        "collaborated_by_me": false,
+        "collaborator_count": 0,
+        "collaborator_invites_enabled": false,
+        "collaborator_permissions": [
+            1,
+            6,
+            7,
+            9,
+            8,
+            11,
+            3,
+            15
+        ],
+        "collaborator_permissions_setting": 1,
+        "collaborator_requests_enabled": false,
+        "cover_pin": {
+            "image_signature": "6b99475aed453a7e6ec7283e4cdfd542",
+            "pin_id": "340021840599132999",
+            "timestamp": 1468202875
+        },
+        "description": "",
+        "event_date": null,
+        "event_start_date": null,
+        "followed_by_me": false,
+        "follower_count": 283,
+        "id": "340021909305902045",
+        "image_cover_url": "https://i.pinimg.com/200x150/6b/99/47/6b99475aed453a7e6ec7283e4cdfd542.jpg",
+        "images": {
+            "474x": [
+                {
+                    "dominant_color": "#47494A",
+                    "height": 711,
+                    "url": "https://i.pinimg.com/474x/f1/d5/b2/f1d5b2eda98301ffef970830bf5f7cf8.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#7C784A",
+                    "height": 316,
+                    "url": "https://i.pinimg.com/474x/db/58/7a/db587acb47d6117413aebff246cf5106.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#95969A",
+                    "height": 600,
+                    "url": "https://i.pinimg.com/474x/ad/7f/66/ad7f668c9760841ab6b312079790e13d.jpg",
+                    "width": 400
+                },
+                {
+                    "dominant_color": "#8C6B3E",
+                    "height": 416,
+                    "url": "https://i.pinimg.com/474x/ab/91/6e/ab916ecf0d298148aa912adf084178bc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B5914C",
+                    "height": 187,
+                    "url": "https://i.pinimg.com/474x/4a/ab/c5/4aabc5aaa95939f1b26eeb4a9affff69.jpg",
+                    "width": 236
+                },
+                {
+                    "dominant_color": "#B5A06E",
+                    "height": 424,
+                    "url": "https://i.pinimg.com/474x/2a/64/85/2a64850251968c5c46d2fc51055f223e.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#527B2A",
+                    "height": 355,
+                    "url": "https://i.pinimg.com/474x/b2/74/a4/b274a4c0c0af82b0357b40fa9fa4fffc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A78543",
+                    "height": 324,
+                    "url": "https://i.pinimg.com/474x/db/44/4e/db444e72ed4fd6867bc61e8d1919e9cf.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A28660",
+                    "height": 418,
+                    "url": "https://i.pinimg.com/474x/4c/af/4c/4caf4cc04ac7c77d0188136d2a1e2dde.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B69267",
+                    "height": 313,
+                    "url": "https://i.pinimg.com/474x/34/d7/97/34d797b3c8cb0694a6858d717cf84fbd.jpg",
+                    "width": 474
+                }
+            ]
+        },
+        "is_ads_only": false,
+        "is_collaborative": false,
+        "layout": "default",
+        "map_id": "pinterest.ijz1714i",
+        "name": "crop circles",
+        "owner": {
+            "ads_only_profile_site": null,
+            "blocked_by_me": false,
+            "domain_url": null,
+            "first_name": "kim",
+            "full_name": "kim hinkle",
+            "id": "340021978025015150",
+            "image_medium_url": "https://s.pinimg.com/images/user/default_75.png",
+            "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+            "image_xlarge_url": "https://s.pinimg.com/images/user/default_280.png",
+            "indexed": true,
+            "is_ads_only_profile": false,
+            "is_partner": false,
+            "is_tastemaker": false,
+            "last_name": "",
+            "locale": "en-US",
+            "type": "user",
+            "username": "kandchinkle"
+        },
+        "pin_count": 4972,
+        "privacy": "public",
+        "section_count": 0,
+        "sectionless_pin_count": 4972,
+        "seo_canonical_domain": "www.pinterest.com",
+        "seo_description": "Jul 14, 2022 - Explore kim hinkle's board \"crop circles\", followed by 283 people on Pinterest. See more ideas about crop circles, cropped, circle.",
+        "seo_noindex_reason": null,
+        "seo_related_interests": [
+            {
+                "image": {
+                    "1200x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/1200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 170,
+                        "url": "https://i.pinimg.com/170x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 192,
+                        "url": "https://i.pinimg.com/192x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 200,
+                        "url": "https://i.pinimg.com/200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 222,
+                        "url": "https://i.pinimg.com/222x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 236,
+                        "url": "https://i.pinimg.com/236x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 237,
+                        "url": "https://i.pinimg.com/237x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 290,
+                        "url": "https://i.pinimg.com/290x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 345,
+                        "url": "https://i.pinimg.com/345x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 400,
+                        "url": "https://i.pinimg.com/400x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 474,
+                        "url": "https://i.pinimg.com/474x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 550,
+                        "url": "https://i.pinimg.com/550x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 564,
+                        "url": "https://i.pinimg.com/564x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 600,
+                        "url": "https://i.pinimg.com/600x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/640x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/736x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "750x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/750x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/originals/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    }
+                },
+                "name": "Sacred Geometry",
+                "url": "/ideas/sacred-geometry/901152072692/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/1200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 238,
+                        "url": "https://i.pinimg.com/170x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 269,
+                        "url": "https://i.pinimg.com/192x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 280,
+                        "url": "https://i.pinimg.com/200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 311,
+                        "url": "https://i.pinimg.com/222x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 330,
+                        "url": "https://i.pinimg.com/236x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 332,
+                        "url": "https://i.pinimg.com/237x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 406,
+                        "url": "https://i.pinimg.com/290x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 483,
+                        "url": "https://i.pinimg.com/345x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 560,
+                        "url": "https://i.pinimg.com/400x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 664,
+                        "url": "https://i.pinimg.com/474x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 770,
+                        "url": "https://i.pinimg.com/550x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 790,
+                        "url": "https://i.pinimg.com/564x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 840,
+                        "url": "https://i.pinimg.com/600x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 896,
+                        "url": "https://i.pinimg.com/640x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 98,
+                        "url": "https://i.pinimg.com/70x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 1031,
+                        "url": "https://i.pinimg.com/736x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 1050,
+                        "url": "https://i.pinimg.com/750x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/originals/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    }
+                },
+                "name": "Geometry",
+                "url": "/ideas/geometry/926306432669/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/1200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 212,
+                        "url": "https://i.pinimg.com/170x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 240,
+                        "url": "https://i.pinimg.com/192x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 250,
+                        "url": "https://i.pinimg.com/200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 277,
+                        "url": "https://i.pinimg.com/222x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 295,
+                        "url": "https://i.pinimg.com/236x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 296,
+                        "url": "https://i.pinimg.com/237x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 362,
+                        "url": "https://i.pinimg.com/290x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 431,
+                        "url": "https://i.pinimg.com/345x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 500,
+                        "url": "https://i.pinimg.com/400x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/474x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "550x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/550x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "564x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/564x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "600x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/600x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/640x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "70x": {
+                        "height": 87,
+                        "url": "https://i.pinimg.com/70x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/736x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "750x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/750x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/originals/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    }
+                },
+                "name": "Land Art",
+                "url": "/ideas/land-art/952166851654/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/1200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 113,
+                        "url": "https://i.pinimg.com/170x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 127,
+                        "url": "https://i.pinimg.com/192x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 133,
+                        "url": "https://i.pinimg.com/200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 147,
+                        "url": "https://i.pinimg.com/222x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/236x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/237x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 193,
+                        "url": "https://i.pinimg.com/290x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 229,
+                        "url": "https://i.pinimg.com/345x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 266,
+                        "url": "https://i.pinimg.com/400x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 315,
+                        "url": "https://i.pinimg.com/474x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 366,
+                        "url": "https://i.pinimg.com/550x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 375,
+                        "url": "https://i.pinimg.com/564x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 399,
+                        "url": "https://i.pinimg.com/600x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 426,
+                        "url": "https://i.pinimg.com/640x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 46,
+                        "url": "https://i.pinimg.com/70x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 490,
+                        "url": "https://i.pinimg.com/736x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 499,
+                        "url": "https://i.pinimg.com/750x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/originals/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    }
+                },
+                "name": "Crop Circles Photography",
+                "url": "/ideas/crop-circles-photography/924199160619/"
+            }
+        ],
+        "seo_title": "900+ Crop circles ideas | crop circles, cropped, circle",
+        "should_show_more_ideas": true,
+        "should_show_shop_feed": false,
+        "topic": null,
+        "type": "board",
+        "url": "/kandchinkle/crop-circles/",
+        "viewer_collaborator_join_requested": false,
+        "viewer_contact_request": null
+    },
+    "carousel_data": null,
+    "category": "pinterest",
+    "comment_count": 0,
+    "comments": {
+        "bookmark": null,
+        "data": [],
+        "uri": "/v3/pins/340021840611989638/comments/"
+    },
+    "created_at": "Fri, 29 Jun 2018 01:24:49 +0000",
+    "creator_analytics": null,
+    "debug_info_html": null,
+    "description": "Levellers formation",
+    "description_html": "Levellers formation",
+    "domain": "antidot2012.blogspot.ru",
+    "dominant_color": "#918a6b",
+    "done_by_me": false,
+    "embed": null,
+    "extension": "jpg",
+    "favorite_user_count": 0,
+    "favorited_by_me": false,
+    "filename": "bd1c3670f18fc4f21d841bddf3b4f9fe",
+    "grid_description": "Levellers formation",
+    "grid_title": "Картинки и фото:Откуда круги на полях? Pictures and Photos: From crop circles?",
+    "has_required_attribution_provider": false,
+    "height": 231,
+    "id": "340021840611989638",
+    "image_crop": {
+        "max_y": 1,
+        "min_y": 0
+    },
+    "image_signature": "bd1c3670f18fc4f21d841bddf3b4f9fe",
+    "images": {
+        "136x136": {
+            "height": 136,
+            "url": "https://i.pinimg.com/136x136/bd/1c/36/bd1c3670f18fc4f21d841bddf3b4f9fe.jpg",
+            "width": 136
+        },
+        "170x": {
+            "height": 135,
+            "url": "https://i.pinimg.com/170x/bd/1c/36/bd1c3670f18fc4f21d841bddf3b4f9fe.jpg",
+            "width": 170
+        },
+        "236x": {
+            "height": 187,
+            "url": "https://i.pinimg.com/236x/bd/1c/36/bd1c3670f18fc4f21d841bddf3b4f9fe.jpg",
+            "width": 236
+        },
+        "474x": {
+            "height": 231,
+            "url": "https://i.pinimg.com/474x/bd/1c/36/bd1c3670f18fc4f21d841bddf3b4f9fe.jpg",
+            "width": 290
+        },
+        "736x": {
+            "height": 231,
+            "url": "https://i.pinimg.com/736x/bd/1c/36/bd1c3670f18fc4f21d841bddf3b4f9fe.jpg",
+            "width": 290
+        },
+        "orig": {
+            "height": 231,
+            "url": "https://i.pinimg.com/originals/bd/1c/36/bd1c3670f18fc4f21d841bddf3b4f9fe.jpg",
+            "width": 290
+        }
+    },
+    "is_downstream_promotion": false,
+    "is_eligible_for_pdp": false,
+    "is_eligible_for_related_products": false,
+    "is_eligible_for_web_closeup": false,
+    "is_native": false,
+    "is_oos_product": false,
+    "is_playable": false,
+    "is_promoted": false,
+    "is_quick_promotable": false,
+    "is_repin": true,
+    "is_stale_product": false,
+    "is_uploaded": false,
+    "is_video": false,
+    "is_whitelisted_for_tried_it": true,
+    "link": "http://antidot2012.blogspot.ru/2011/08/blog-post_21.html",
+    "manual_interest_tags": null,
+    "media_id": "",
+    "method": "button_external",
+    "native_creator": null,
+    "num": 0,
+    "pinner": {
+        "ads_only_profile_site": null,
+        "blocked_by_me": false,
+        "explicitly_followed_by_me": false,
+        "full_name": "kim hinkle",
+        "id": "340021978025015150",
+        "image_large_url": "https://s.pinimg.com/images/user/default_140.png",
+        "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+        "is_ads_only_profile": false,
+        "type": "user",
+        "username": "kandchinkle"
+    },
+    "price_currency": "USD",
+    "price_value": 0,
+    "privacy": "public",
+    "product_pin_data": null,
+    "promoted_is_lead_ad": false,
+    "promoted_is_removable": false,
+    "promoted_lead_form": null,
+    "promoter": null,
+    "reaction_counts": {},
+    "repin_count": 0,
+    "rich_summary": {
+        "actions": [],
+        "apple_touch_icon_images": null,
+        "apple_touch_icon_link": null,
+        "display_description": "Картинки и фото: Откуда круги на полях? этот рисунок на песке является крупнейшим в мире произведением искусства , с общей окружностью более девяти километров.Художник-Джим Деневан Read more: http://www.dailymail.co.uk/news/article-1236380/Worlds-largest-artwork-etched-desert-sand.html#ixzz1jMcWn3xO Неужели инопланетяне рисуют эти большие рисунки? В этой подборке вы познакомитесь с необычным творчеством человека по имени Джим Деневан. Он любит рисовать на песке, причем делает это так, что в голове не укладывается глядя на его работы, что это мог сделать один человек. Джим выполняет свои рисунки с математической точностью, и многие думали, что это проделки инопланетян. Давайте посмотрим на его работы. Озеро Байкал. http://www.circlemakers.org/makeit.html http://www.circlemakers.org/bigbudget.html http://www.circlemakers.org/bigbrother.html http://www.circlemakers.org/levellers.html Гигантские рыбы на польско-украинской границе http://krabov.net/5945-gigantskie-ryby-na-polsko-ukrainskoy-granice-9-foto.html http://www.liveinternet.ru/community/anime_manga/post111259596/ Щелкнув на картинке перейдете на Google Maps. MozillaFirefox http://blogs.elcorreo.com/magonia/2008/7/7/los-circulos-del-cereal-bilbao-madrid-y-barcelona-son/ Crass панк группа и её логотип на поле. http://www.circlemakers.org/microsoft.html http://www.circlemakers.org/dimbleby.html Недавно пробегала ссылочка на творчество наших лесников. (картинка кликабельна и ведет на Google Maps) http://www.circlemakers.org/mysteriousmarkings.html http://www.circlemakers.org/olympics_france.html http://www.circlemakers.org/sky_sudoku.html http://www.circlemakers.org/bigtricks.html Печенье из Соединенного Королевства www http://www.circlemakers.org/making_history.html www http://www.circlemakers.org/banzai.html http://www.circlemakers.org/mits.html advertisment for ZON перевод Реклама для ZON ссылка на самый большой архив .Рисунок был сделан в Бельгии ,смотрим что у нас есть в Бельгии http://voyage-belgium.ru/nyuport/zon-en-zee-aparthotel-639.html advertisement for DIGITAL RADIO реклама для цифрового радио в англии Логотип использовался на английском сайте о кругах 1996году,в 2002 был создан рисунок на поле .А вот с чего всё началось http://www.cropcircleconnector.com/anasazi/time2010e.html Оригинальная версия 1967, рисунок был на самом деле сделан для Русского журнала под названием «Спутник», для иллюстрации легенды о внеземной жизни\" Камни Дропа», которые были найдены в горах Тибета. 21векFOX http://www.circlemakers.org/pair.html За эти годы наши творения зерновых появились в нескольких рекламных объявлений. В мае 2005 года Nike дал нам по телефону и спросил, мы бы хотели, чтобы совершить поездку по Италии делающий круги на полях в рамках рекламной кампании для своих новых Nike Free тренеров, как мы могли отказаться! То, что мы не понимали, что мы собирались закончить тем, что показан в 2 из 4 объявлений они создали во время нашего тура от верхней к нижней части страны, дающей массивный след в Милане, Риме и Фоджа на юге страны. Вверху: Nike кругов на полях след создана в Милане. Каждый из 250ft высокий следы была более сложной, чем предыдущая. Мы начали в Милане с след создан в пшенице. Затем мы вылетели в Рим и создали след в едва поле с Nike Free тренеров протектора проложено более 1000 футов формирование использованием белого ленту барьер для создания сетки. Наконец-то мы летели до Фоджа на юге страны, чтобы создать след в пшенице с сеткой барьер лента накладывается на вершине плоской урожая и \"Власть к вашим ногам» предвыборный лозунг, логотип Nike Free и Nike галочки слева стоя в пшенице. Вверху: Nike кругов на полях занимаемой площади с помощью сетки созданы в Риме. 7 кругов на полях работали над проектом с экипажем из 6 вылетали на созданный образований в Италии. Это, безусловно, насыщенной поездки. В Милане местной полиции был крайне заинтересован в том, что мы делали. После уверяя их, что у нас было разрешение собственника земли для создания кругов на полях нашего переводчика были на местах вопросы их о различных аспектах явление кругов на полях в том числе магнитные эффекты, связанные с определенными образованиями! Следующий день был довольно сюрреалистично. Мы провели утро с экипажем телевизионных новостях, а вечером сами и наши следы круги на полях были привести рассказ о событиях внутри страны по всей Италии. Вверху: Nike кругов на полях занимаемой площади с помощью сетки и лозунг созданного в Фоджа. Во всех Nike Италии созданы 4 объявлений, вы можете просмотреть их все, а также карты и многочисленные фотографии на веб-сайте они создали в память о нашей поездке: http://www.circlemakers.org/nike.html Пейзаж Vortex: Spectacular Земли и культуры Диалоги Природа средств хаос. Искусство о порядке и смысл. Природа противоположна культуре.Искусство, наряду с философией и наукой, является дыхание культуры. Природа наборов границ для цивилизации. Цивилизация разрушает природу. Хотя эти два понятия \"искусство\" и \"природа\", кажется, противостоят друг другу по определению, природа уважаемым членом в длинный список сред используются людьми для выражения своей духовной внутренности: он называется Лэнд-арт, Земляные работы или Земля искусства - скульптурные направления в искусстве возник в конце 1960-х в США. С Лэнд-арт творения, вместо скульптуры помещением в пейзаж - пейзаж становится сама скульптура. Большинство работ Лэнд-арт расположены в отдаленных местах, где они находятся \" левые изменить и эрозии в естественных условиях. \"Вот несколько примеров, которые помогут вам выяснить это. Роберт Смитсон: от Спиральные Jetty Амарилло Ramp авиакатастрофе, которая убила Роберт Смитсон на 20 июля 1973 всего в нескольких сотнях ярдов от Амарилло Рампа была самая трагическая, печальная и поэтическая окончаний любой художник карьеры. Он был из первых пионеров Лэнд-арт.Несмотря на свой ​​юный возраст (35) на момент обследования Амарилло Ramp воздуха, Смитсон оставил некоторые из самых замечательных, таинственный и наводящий на размышления гибриды искусства и природы когда-либо сделанных. Он обвиняется быть более заинтересованы в продвижении себя , чем идея ленд-арт. Тем не менее, даже при относительно немногих сохранившихся крупных работ многих современных художников есть homaged своего искусства. Ramp Амарилло, что как только стоимость Смитсон его жизни является сегодня едва заметил частичное кругу рок находится в Tecovas озера, в 15 милях северо-западу от Амарилло в пустыне штата Техас. Завершение этой структуры диаметром 140 пешком, ранее 15 футов над уровнем земли, был выполнен вдова Нэнси Смитсона Холт с помощью Ричарда Серра и др. Всего за несколько месяцев после его смерти. Амарилло Ramp фото источников (1) stephan.barron (2) ludb.clui.org (3) faculty.acu.edu После трех Лэнд-арт экспериментов, а именно - Асфальт Сводка (Рим, Италия октября 1969 года) Клей Налейте(Ванкувер, Канада, декабрь 1969 г.) и частично Похоронен Навес для дров (Кент, штат Огайо, январь, 1970) Смитсон был разработан глубокий интерес со спиральными и центробежные формы. Это привело его к изготовления Спиральные Jetty, 1500 футов катушку черных базальтовых скал собраны Смитсон в пункте Розель, на берегу Большого Соленого озера в Юте в апреле 1970 года. Спиральные Jetty стала наиболее известных работ Смитсон и символ амбивалентные отношения любви-ненависти между культурой и природой. Вверху: Смитсон во время работы над проектом. Топ на эту историю: Air зрения Спиральные Jetty. Фотография источников: njn.net По словам Нэнси Холт, как цитируется в увлекательную статью NYTimesJetty Спираль \"вихрь, который всасывает все, что в ландшафт вокруг него''великолепно.\" вихрь \"была покрыта водой Большого Соленого Озеро в течение многих лет, но с 1999 года, в соответствии с NYTimes, засуха снизила уровень воды и в начале 2004 года он был полностью повторно подвергается. Фотографии, сделанные в декабре 2006 и апреле 2005проиллюстрировать, как же, как в случае Ramp Амарилло, великолепная битва между Смитсон и природа все еще ​​находится в процессе Вот. Google Earth KMZ файл для Спиральные Jetty.DAST: 100 000 квадратных метров пустыни Дыхание дыхание пустыни был завершен в марте 1997 года на плоской песчаной промежуток между египетскими Красного моря и близлежащих пустынных горах Создано DAST -. группа, образованная в 1995 году на основе общего желания трех художников создавать свои собственные установки в пустыне - часть занимает 100 тысяч квадратных метров пустыни и участвует смещение восьми тысяч кубических (!) метров песка. Ниже приводится недавняя фотография спутника сайт Дыхание пустыни и вот Google Earth KMZ файл . Подробнее об этой работе скульптор Даная Stratou, промышленного дизайнера Александра Stratou и архитектор Stella Константинидес на archipedia.org . Круги на полях: С Бауэр и Chorley для кругов на полях круг решений урожая является еще одной формой художественного пейзажа формирование с участием уплощение или резки сельскохозяйственных культур для создания кружились геометрические узоры. Это искусство стало популярным на протяжении последних 20 лет, следующие два-Гемпшир основан художники Дуг Бауэр и Дэйв Chorley который в 1978 году создавало круг в кукурузном поле, как шалость. Бауэр и Chorley хотел увидеть, если они могут заставить людей поверить, кругом была сделана летающая тарелка. Шалость работала хорошо, но также привлекли бесчисленных последователей во главе с кругов на полях группу британских художников Земля фокусировки в кругах на полях и других геометрических фигур, таких как выше.Магазин Ord круг (датский за \"громкими словами\", как показано выше), в поля вблизи Орхус, Дания особенно интересно, потому что она показывает, как решения кругов на полях становится модным способом. Магазин Орд было сделано в рамках пиар-кампанию для датской газете. Группа также делает гигантских форм ландшафта с помощью других средств.Среди его творений также крупнейшим головоломка Судоку когда-либо сделанных . Эта часть вне Бристоль, Великобритания была сделана как рекламный трюк для Sky One и их телешоу \"Кэрол Voderman в судоку Live\". Фото: сайт кругов на полях понравилась эта статья? Не забудьте подписаться на новостную ленту ! Знай любой кулер ленд-арт проектов или художников? Будьте уверены, чтобы оставить комментарий или сообщите нам здесь ! http://www.circlemakers.org/big_words.html http://www.circlemakers.org/big_words.html http://www.cultcase.com/2008/06/landscape-vortex-spectacular-earth-and.html Люди которые делают круги на полях http://translate.google.com/translate?hl=en&sl=en&tl=ru&u=http://www.circlemakers.org/new_documents.html Кругов на полях против Korn! Это не очень часто является одним из крупнейших рок-групп в США звонит и спрашивает нас, если мы хотим полететь в их родном городе - в этом случае Бейкерсфилд, Калифорния - создать массивные кругов на полях для них, чтобы выполнить тайное концерт дюйм .. но это именно то, что произошло в прошлом месяце, когда Корн дал нам вызов! Кругов на полях Джон Лундберг, Уил Рассел, Роб Ирвинг и Марк Барнс вылетел в Калифорнию, чтобы создать круг Korn урожая.Формирование было создано в два этапа в течение двух дней в зрелом пшеницы. Она измеряется колоссальные 700ft длину и 230ft в ширину. Тепловой удар был вездесущий возможность, как температура взлетела до 120 градусов. NME.com охват проекта здесь . Нажмите См. Корна-релиз о проекте здесь . Вверху: Схема кругов на полях Корн. Вверху: Джонатан вокалиста очень хотел прийти в закрученной кругу, чтобы мы сняли его для создания простой круг. Он изображен с помощью одного из наших стебля высокие ботинки. После круга была завершена мы представили Джонатан с Stomper как souvernier. Джонатан позже попросил всех нас подписать Stomper для него. Вверху: Некоторые из многочисленных диаграмм используется для создания кругов на полях. Вверху: директор Рассел в грузовик Чистая HD. Внизу: Вот некоторые кадры из концерта в результате Korn: Encounter Теперь вы можете просмотреть весь Korn: Encounter концерт, который мы сотрудничали по крайней полосы MySpace странице:KORN LIVE: ВСТРЕЧА Фото: Джон Лундберг, Алекс Castino, Проспект Парк и Роб Ирвинг. Видео: HDNet, Джон Лундберг Кубок Круга Кубок круга намечен на 2018 год,соберутся люди, делающие круги ,со всего мира. http://www.thesun.co.uk/sol/homepage/news/3106705/Sun-sends-message-to-Fifa-officials-in-wheat-field.html http://maps.google.com/maps?ll=51.682661,5.7765067&z=18&t=h&hl=ru http://maps.google.com/maps?ll=48.352922,11.732953&z=15&t=h&hl=ru http://maps.google.com/maps?ll=37.564242,-116.84908&z=14&t=h&hl=ru http://maps.google.com/maps?ll=37.629634,-116.84061&z=13&t=h&hl=ru На создание круга ушло 4 часа. Художники http://www.circlemakers.org/new_nztrip.html Автоперевод В начале марта 1998 года три \"кругов на полях\" (Ин. Лундберг, Род Дикинсон и Wil Рассел) были доставлены из до самой южной оконечности Новой Зеландии будет снят создания кругов на полях для NBC-TV. Документальный фильм «маски: Секреты Обмана\" в эфир в прайм-тайм телевидение по всей Америке в течение мая, а затем по всему миру в следующие недели. Это, по оценкам, аудитория одних только США 25 миллионов. Нас попросили разработать комплекс формирование культур, которые могли бы быть сделаны ночью в возрасте до четырех часов. Формирование мы разработали свыше 100 сплющенные круги и диаметром 300 футов, поставив его в один ряд с одними из самых сложных образований появляться в полях Англии в течение последних нескольких лет. Наши рекомендации дизайна история circlemaking. Центральный элемент - состоящий из большого круга в окружении трех меньших eqadistand кругах - ссылки образования, такие как один найти на Westbury, графство Уилтшир в 1990 году. Установить постоянный Мандельброта в центральном круге ссылки плоские множества Мандельброта обнаружили на Ickleton, Кембриджшир в 1991 году. Цепях снижения кругах ссылаться на эти впервые появилась на 1994 Силбери-Хилл, графство Уилтшир \"Скорпион\" формирование и спирали фрактальный ссылкой оружия 1996 Юлия Установить и тройной Юлия Установить образований на каменный хендж и мельница Хилл, графство Уилтшир, соответственно. Образование также имели внутренние круги картечью surronding множества Мандельброта и две картечи подпись кругах далеких от трамвайных линий. Это было сделано с разрешения фермер на ферме недалеко от Уинтон и был собран почти сразу. Продолжение http://antidot2012.blogspot.com/2011/12/blog-post_18.html",
+        "display_name": "Картинки и фото:Откуда круги на полях? Pictures and Photos: From crop circles?",
+        "favicon_images": {
+            "50x": "https://i.pinimg.com/favicons/50x/cbb90a68083f5bb096c7db9ce039d9b17a6677d93c372adaf4f80e6e.png?59a0c7b6e4848ccdabcea0636efda02b",
+            "orig": "https://i.pinimg.com/favicons/cbb90a68083f5bb096c7db9ce039d9b17a6677d93c372adaf4f80e6e.ico?59a0c7b6e4848ccdabcea0636efda02b"
+        },
+        "favicon_link": "https://i.pinimg.com/favicons/cbb90a68083f5bb096c7db9ce039d9b17a6677d93c372adaf4f80e6e.ico?59a0c7b6e4848ccdabcea0636efda02b",
+        "id": "cf71aff9355a2bdb01194242b4d71408",
+        "products": [],
+        "site_name": "antidot2012.blogspot.ru",
+        "type": "richpingriddata",
+        "type_name": "article",
+        "url": "http://antidot2012.blogspot.ru/2011/08/blog-post_21.html"
+    },
+    "shopping_flags": [],
+    "sponsorship": null,
+    "story_pin_data": null,
+    "story_pin_data_id": null,
+    "subcategory": "board",
+    "title": "",
+    "tracking_params": "CwABAAAAEDEwNDA5NjcxOTk1NDkxMTQGAAMAAQsABwAAAApuZ2FwaS9wcm9kAA",
+    "type": "pin",
+    "url": "https://i.pinimg.com/originals/bd/1c/36/bd1c3670f18fc4f21d841bddf3b4f9fe.jpg",
+    "video_status": null,
+    "video_status_message": null,
+    "videos": null,
+    "view_tags": [],
+    "width": 290
+}

@@ -1,0 +1,964 @@
+{
+    "access": [],
+    "ad_match_reason": 0,
+    "additional_hide_reasons": [],
+    "aggregated_pin_data": {
+        "aggregated_stats": {
+            "done": 0,
+            "saves": 180
+        },
+        "creator_analytics": null,
+        "did_it_data": {
+            "details_count": 0,
+            "images_count": 0,
+            "rating": -1,
+            "recommend_scores": [
+                {
+                    "count": 0,
+                    "score": 1
+                },
+                {
+                    "count": 0,
+                    "score": 0.5
+                },
+                {
+                    "count": 0,
+                    "score": 0
+                }
+            ],
+            "recommended_count": 0,
+            "responses_count": 0,
+            "tags": [],
+            "type": "aggregateddiditdata",
+            "user_count": 0,
+            "videos_count": 0
+        },
+        "has_xy_tags": false,
+        "id": "4820534355304661762",
+        "is_shop_the_look": false
+    },
+    "alt_text": null,
+    "attribution": null,
+    "board": {
+        "access": [],
+        "allow_homefeed_recommendations": true,
+        "archived_by_me_at": null,
+        "blocking_actions": [],
+        "board_order_modified_at": "Thu, 14 Jul 2022 03:39:33 +0000",
+        "category": "other",
+        "collab_board_email": false,
+        "collaborated_by_me": false,
+        "collaborator_count": 0,
+        "collaborator_invites_enabled": false,
+        "collaborator_permissions": [
+            1,
+            6,
+            7,
+            9,
+            8,
+            11,
+            3,
+            15
+        ],
+        "collaborator_permissions_setting": 1,
+        "collaborator_requests_enabled": false,
+        "cover_pin": {
+            "image_signature": "6b99475aed453a7e6ec7283e4cdfd542",
+            "pin_id": "340021840599132999",
+            "timestamp": 1468202875
+        },
+        "description": "",
+        "event_date": null,
+        "event_start_date": null,
+        "followed_by_me": false,
+        "follower_count": 283,
+        "id": "340021909305902045",
+        "image_cover_url": "https://i.pinimg.com/200x150/6b/99/47/6b99475aed453a7e6ec7283e4cdfd542.jpg",
+        "images": {
+            "474x": [
+                {
+                    "dominant_color": "#47494A",
+                    "height": 711,
+                    "url": "https://i.pinimg.com/474x/f1/d5/b2/f1d5b2eda98301ffef970830bf5f7cf8.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#7C784A",
+                    "height": 316,
+                    "url": "https://i.pinimg.com/474x/db/58/7a/db587acb47d6117413aebff246cf5106.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#95969A",
+                    "height": 600,
+                    "url": "https://i.pinimg.com/474x/ad/7f/66/ad7f668c9760841ab6b312079790e13d.jpg",
+                    "width": 400
+                },
+                {
+                    "dominant_color": "#8C6B3E",
+                    "height": 416,
+                    "url": "https://i.pinimg.com/474x/ab/91/6e/ab916ecf0d298148aa912adf084178bc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B5914C",
+                    "height": 187,
+                    "url": "https://i.pinimg.com/474x/4a/ab/c5/4aabc5aaa95939f1b26eeb4a9affff69.jpg",
+                    "width": 236
+                },
+                {
+                    "dominant_color": "#B5A06E",
+                    "height": 424,
+                    "url": "https://i.pinimg.com/474x/2a/64/85/2a64850251968c5c46d2fc51055f223e.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#527B2A",
+                    "height": 355,
+                    "url": "https://i.pinimg.com/474x/b2/74/a4/b274a4c0c0af82b0357b40fa9fa4fffc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A78543",
+                    "height": 324,
+                    "url": "https://i.pinimg.com/474x/db/44/4e/db444e72ed4fd6867bc61e8d1919e9cf.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A28660",
+                    "height": 418,
+                    "url": "https://i.pinimg.com/474x/4c/af/4c/4caf4cc04ac7c77d0188136d2a1e2dde.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B69267",
+                    "height": 313,
+                    "url": "https://i.pinimg.com/474x/34/d7/97/34d797b3c8cb0694a6858d717cf84fbd.jpg",
+                    "width": 474
+                }
+            ]
+        },
+        "is_ads_only": false,
+        "is_collaborative": false,
+        "layout": "default",
+        "map_id": "pinterest.ijz1714i",
+        "name": "crop circles",
+        "owner": {
+            "ads_only_profile_site": null,
+            "blocked_by_me": false,
+            "domain_url": null,
+            "first_name": "kim",
+            "full_name": "kim hinkle",
+            "id": "340021978025015150",
+            "image_medium_url": "https://s.pinimg.com/images/user/default_75.png",
+            "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+            "image_xlarge_url": "https://s.pinimg.com/images/user/default_280.png",
+            "indexed": true,
+            "is_ads_only_profile": false,
+            "is_partner": false,
+            "is_tastemaker": false,
+            "last_name": "",
+            "locale": "en-US",
+            "type": "user",
+            "username": "kandchinkle"
+        },
+        "pin_count": 4972,
+        "privacy": "public",
+        "section_count": 0,
+        "sectionless_pin_count": 4972,
+        "seo_canonical_domain": "www.pinterest.com",
+        "seo_description": "Jul 14, 2022 - Explore kim hinkle's board \"crop circles\", followed by 283 people on Pinterest. See more ideas about crop circles, cropped, circle.",
+        "seo_noindex_reason": null,
+        "seo_related_interests": [
+            {
+                "image": {
+                    "1200x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/1200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 170,
+                        "url": "https://i.pinimg.com/170x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 192,
+                        "url": "https://i.pinimg.com/192x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 200,
+                        "url": "https://i.pinimg.com/200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 222,
+                        "url": "https://i.pinimg.com/222x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 236,
+                        "url": "https://i.pinimg.com/236x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 237,
+                        "url": "https://i.pinimg.com/237x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 290,
+                        "url": "https://i.pinimg.com/290x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 345,
+                        "url": "https://i.pinimg.com/345x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 400,
+                        "url": "https://i.pinimg.com/400x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 474,
+                        "url": "https://i.pinimg.com/474x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 550,
+                        "url": "https://i.pinimg.com/550x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 564,
+                        "url": "https://i.pinimg.com/564x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 600,
+                        "url": "https://i.pinimg.com/600x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/640x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/736x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "750x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/750x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/originals/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    }
+                },
+                "name": "Sacred Geometry",
+                "url": "/ideas/sacred-geometry/901152072692/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/1200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 238,
+                        "url": "https://i.pinimg.com/170x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 269,
+                        "url": "https://i.pinimg.com/192x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 280,
+                        "url": "https://i.pinimg.com/200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 311,
+                        "url": "https://i.pinimg.com/222x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 330,
+                        "url": "https://i.pinimg.com/236x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 332,
+                        "url": "https://i.pinimg.com/237x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 406,
+                        "url": "https://i.pinimg.com/290x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 483,
+                        "url": "https://i.pinimg.com/345x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 560,
+                        "url": "https://i.pinimg.com/400x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 664,
+                        "url": "https://i.pinimg.com/474x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 770,
+                        "url": "https://i.pinimg.com/550x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 790,
+                        "url": "https://i.pinimg.com/564x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 840,
+                        "url": "https://i.pinimg.com/600x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 896,
+                        "url": "https://i.pinimg.com/640x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 98,
+                        "url": "https://i.pinimg.com/70x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 1031,
+                        "url": "https://i.pinimg.com/736x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 1050,
+                        "url": "https://i.pinimg.com/750x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/originals/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    }
+                },
+                "name": "Geometry",
+                "url": "/ideas/geometry/926306432669/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/1200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 212,
+                        "url": "https://i.pinimg.com/170x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 240,
+                        "url": "https://i.pinimg.com/192x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 250,
+                        "url": "https://i.pinimg.com/200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 277,
+                        "url": "https://i.pinimg.com/222x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 295,
+                        "url": "https://i.pinimg.com/236x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 296,
+                        "url": "https://i.pinimg.com/237x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 362,
+                        "url": "https://i.pinimg.com/290x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 431,
+                        "url": "https://i.pinimg.com/345x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 500,
+                        "url": "https://i.pinimg.com/400x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/474x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "550x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/550x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "564x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/564x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "600x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/600x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/640x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "70x": {
+                        "height": 87,
+                        "url": "https://i.pinimg.com/70x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/736x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "750x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/750x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/originals/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    }
+                },
+                "name": "Land Art",
+                "url": "/ideas/land-art/952166851654/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/1200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 113,
+                        "url": "https://i.pinimg.com/170x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 127,
+                        "url": "https://i.pinimg.com/192x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 133,
+                        "url": "https://i.pinimg.com/200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 147,
+                        "url": "https://i.pinimg.com/222x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/236x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/237x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 193,
+                        "url": "https://i.pinimg.com/290x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 229,
+                        "url": "https://i.pinimg.com/345x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 266,
+                        "url": "https://i.pinimg.com/400x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 315,
+                        "url": "https://i.pinimg.com/474x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 366,
+                        "url": "https://i.pinimg.com/550x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 375,
+                        "url": "https://i.pinimg.com/564x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 399,
+                        "url": "https://i.pinimg.com/600x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 426,
+                        "url": "https://i.pinimg.com/640x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 46,
+                        "url": "https://i.pinimg.com/70x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 490,
+                        "url": "https://i.pinimg.com/736x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 499,
+                        "url": "https://i.pinimg.com/750x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/originals/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    }
+                },
+                "name": "Crop Circles Photography",
+                "url": "/ideas/crop-circles-photography/924199160619/"
+            }
+        ],
+        "seo_title": "900+ Crop circles ideas | crop circles, cropped, circle",
+        "should_show_more_ideas": true,
+        "should_show_shop_feed": false,
+        "topic": null,
+        "type": "board",
+        "url": "/kandchinkle/crop-circles/",
+        "viewer_collaborator_join_requested": false,
+        "viewer_contact_request": null
+    },
+    "carousel_data": null,
+    "category": "pinterest",
+    "comment_count": 0,
+    "comments": {
+        "bookmark": null,
+        "data": [],
+        "uri": "/v3/pins/340021840606717515/comments/"
+    },
+    "created_at": "Sun, 11 Jun 2017 04:06:16 +0000",
+    "creator_analytics": null,
+    "debug_info_html": null,
+    "description": "Fontes de Luz: CROP CIRCLES E SUAS MENSAGENS",
+    "description_html": "Fontes de Luz: CROP CIRCLES E SUAS MENSAGENS",
+    "domain": "fontesdeluz.blogspot.com.br",
+    "dominant_color": "#877c35",
+    "done_by_me": false,
+    "embed": null,
+    "extension": "jpg",
+    "favorite_user_count": 0,
+    "favorited_by_me": false,
+    "filename": "dd2c5d3a6c8ebd16508797bc37261bc1",
+    "grid_description": "Fontes de Luz: CROP CIRCLES E SUAS MENSAGENS",
+    "grid_title": "CROP CIRCLES E SUAS MENSAGENS",
+    "has_required_attribution_provider": false,
+    "height": 426,
+    "id": "340021840606717515",
+    "image_crop": {
+        "max_y": 1,
+        "min_y": 0
+    },
+    "image_signature": "dd2c5d3a6c8ebd16508797bc37261bc1",
+    "images": {
+        "136x136": {
+            "height": 136,
+            "url": "https://i.pinimg.com/136x136/dd/2c/5d/dd2c5d3a6c8ebd16508797bc37261bc1--crop-circles-maze.jpg",
+            "width": 136
+        },
+        "170x": {
+            "height": 154,
+            "url": "https://i.pinimg.com/170x/dd/2c/5d/dd2c5d3a6c8ebd16508797bc37261bc1--crop-circles-maze.jpg",
+            "width": 170
+        },
+        "236x": {
+            "height": 214,
+            "url": "https://i.pinimg.com/236x/dd/2c/5d/dd2c5d3a6c8ebd16508797bc37261bc1--crop-circles-maze.jpg",
+            "width": 236
+        },
+        "474x": {
+            "height": 426,
+            "url": "https://i.pinimg.com/474x/dd/2c/5d/dd2c5d3a6c8ebd16508797bc37261bc1--crop-circles-maze.jpg",
+            "width": 469
+        },
+        "736x": {
+            "height": 426,
+            "url": "https://i.pinimg.com/736x/dd/2c/5d/dd2c5d3a6c8ebd16508797bc37261bc1--crop-circles-maze.jpg",
+            "width": 469
+        },
+        "orig": {
+            "height": 426,
+            "url": "https://i.pinimg.com/originals/dd/2c/5d/dd2c5d3a6c8ebd16508797bc37261bc1.jpg",
+            "width": 469
+        }
+    },
+    "is_downstream_promotion": false,
+    "is_eligible_for_pdp": false,
+    "is_eligible_for_related_products": false,
+    "is_eligible_for_web_closeup": false,
+    "is_native": false,
+    "is_oos_product": false,
+    "is_playable": false,
+    "is_promoted": false,
+    "is_quick_promotable": false,
+    "is_repin": true,
+    "is_stale_product": false,
+    "is_uploaded": false,
+    "is_video": false,
+    "is_whitelisted_for_tried_it": true,
+    "link": "http://fontesdeluz.blogspot.com.br/2011/07/crop-circles-e-suas-mensagens.html",
+    "manual_interest_tags": null,
+    "media_id": "",
+    "method": "extension",
+    "native_creator": null,
+    "num": 0,
+    "pinner": {
+        "ads_only_profile_site": null,
+        "blocked_by_me": false,
+        "explicitly_followed_by_me": false,
+        "full_name": "kim hinkle",
+        "id": "340021978025015150",
+        "image_large_url": "https://s.pinimg.com/images/user/default_140.png",
+        "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+        "is_ads_only_profile": false,
+        "type": "user",
+        "username": "kandchinkle"
+    },
+    "price_currency": "USD",
+    "price_value": 0,
+    "privacy": "public",
+    "product_pin_data": null,
+    "promoted_is_lead_ad": false,
+    "promoted_is_removable": false,
+    "promoted_lead_form": null,
+    "promoter": null,
+    "reaction_counts": {},
+    "repin_count": 0,
+    "rich_summary": {
+        "actions": [],
+        "apple_touch_icon_images": null,
+        "apple_touch_icon_link": null,
+        "display_description": "Círculos de cultura e sua MensagemParte 1. Por: David Pratt Milk Hill, Wiltshire, 12 de agosto de 2001. O padrão de maior safra de todos os tempos, 878 metros de diâmetro, composta de 409 círculos. 1. Introdução Todos os anos 150-300 padrões de plantas achatadas aparecem em campos de cultivo ao redor do mundo. Eles têm sido relatados em todos os continentes, em mais de 50 países, mas a maioria têm aparecido no sul da Inglaterra. Desde o início de 1990, os círculos simples original desenvolveram em enormes e intrincados, padrões geométricos de precisão impressionante e beleza. Mais aparecem no trigo, cevada e canola, mas eles também têm sido relatados em centeio, aveia, linho, milho, cana de açúcar, ervilha, batata, girassol, grama, pomares, plantações de arroz, neve e gelo. Ao longo dos anos, as formações de culturas têm sido atribuídos a uma variedade de causas mundanas: bêbados armados com cordas e tábuas, selvagem jovens agricultores, estudantes de arte desiludidos, out-of-trabalho dos jornalistas, overapplication de fertilizantes, a interferência de telefones celulares, as aves brigam, vacas geometricamente-dotado, e louca por sexo ouriços. Embora o público em geral, meios de comunicação e instituições científicas tendem a desprezar o fenômeno inteiro como o trabalho de brincalhões humanos, há fortes indícios de que uma força inexplicável e inteligência orientadora estão no trabalho. 2. O scam Doug e Dave Em 09 de setembro de 1991, o tablóide britânico publicou uma reportagem hoje na primeira página intitulado: \"Os homens que enganaram o mundo\". A história alegou que todos os círculos em plantações na Inglaterra foram o trabalho de dois pensionistas Doug Bower e Chorley David, com idades entre 67 e 62, respectivamente. Suas ferramentas incluídas uma prancha de quatro pés de madeira e uma bola de barbante, juntamente com um pedaço de arame farpado de um boné de beisebol para servir como um dispositivo de mira, permitindo-lhes construir linhas perfeitamente retas, concentrando-se em um objeto distante - na calada da noite! Para nivelar a cultura em áreas que não se sobrepõem tramlines (as faixas dos tractores ao pulverizar plantações), eles disseram que estavam dentro de um eléctrico e depois pulou ou pólos abobadados para o cultivo de pé, isso envolveria pole-salto à distância de até 35 pés - uma conquista do Olimpo! Eles disseram que a idéia de fazer círculos nas plantações havia chegado a eles depois de uma noite chata no pub em 1978, e seu único motivo era \"ter um riso '. Não só nunca tivessem sido apanhado em flagrante, mas suas mulheres nunca tinham notado a sua ausência noturna. Fig. 2,1 Doug e Dave demonstrou suas habilidades com esta formação safra 1991 - depois de um pint de cerveja demais pela aparência das coisas. Eles mostraram que poderiam criar designs bruto circular em plena luz do dia - mas sem a complexidade de culturas, precisão e bela geométricas estabelece encontrados nas melhores formações. Naquela época, os \"círculos\" já tinha evoluído para pictogramas complexo, mas Doug e Dave não conseguia explicar convincentemente como eles criaram estes. Eles não podiam mesmo duplicar no papel uma cruz celta desenho eles alegaram ter feito. Confrontado com evidências de que eles não tinham nada a ver com certas formações, eles começaram a recuar. Mesmo se sua reivindicação muito exageradas ter feito 250 círculos em plantações na Inglaterra desde 1978 fosse verdade, que ainda deixaria 1,750 formações na Inglaterra e outros países desaparecidos, bem como numerosas formações pré-1978. Isso não impediu o público em geral engolir a idéia de que todos os círculos foram feitos por seres humanos. Muitas pessoas acham isso muito mais palatável do que a possibilidade de que mistérios não resolvidos estão ocorrendo nos campos. Então, Doug e Dave certamente \"enganados do mundo\" - embora não na forma como a maioria das pessoas pensa! Apesar de sua \"aposentadoria\", os círculos estavam de volta, como de costume em 1992 - mas sem o forte interesse da mídia. 3. Cortar-círculo evolução Quando Doug e Dave afirmou ter inventado o fenômeno círculo de cultura como uma brincadeira em 1978, eles não estavam cientes de que quase 300 formações documentado predated suas façanhas alegado. Existem relatos esporádicos de círculos nas plantações, sendo encontrado em Inglaterra durante o século 20. Mas os relatórios realmente voltar alguns séculos antes. No folclore do século 16 e 17, encontramos histórias sobre fadas e duendes visto dançando nos campos e deixando círculos de grama pisada. A mais antiga representação de um círculo da colheita ocorre em uma xilogravura de 1678, que retrata o \"Mowing Devil 'colhendo um campo de aveia em um círculo achatado. A história por trás disso é que um agricultor se recusava a pagar o valor pedido por um reaper particular, resmungando que ele prefere o Diabo assumiu sua aveia. Durante a noite, sons estranhos e luzes foram ouvido e visto, e na manhã seguinte o fazendeiro encontrou parte de sua colheita deitado em círculos puro. Fig. O Diabo 3,1 Mowing. Em 1686 um cientista britânico, Robert Plot, publicou um livro intitulado A História Natural de Staffordshire, que continha relatos de áreas geométricas de plantas achatados encontrados em ambas as terras aráveis ​​e pastagens. Ele descreve não só mas também círculos espirais e quadrados dentro dos anéis, até 150 metros de diâmetro. Ele relata que o solo sob eles era muito mais solto e seco do que normal, e que uma substância esbranquiçada, mofo ou hoar \", como que em bolor de pão\", foi encontrado às vezes sobre as plantas. Ele a hipótese de que os desenhos foram criados por um raio explodindo das nuvens. Em julho de 1880, a revista científica Nature publicou uma carta de um cientista que descreveu encontrar várias áreas circulares de trigo achatados em uma fazenda no sul da Inglaterra. Ele sugeriu que eles eram o resultado de \"alguma ação ciclônica do vento\". Fig. 3,2 Uma das ilustrações Robert Plot de um projeto de cultivo. Existem relatos esporádicos de círculos simples no Reino Unido a primeira metade do século 19, especialmente no sul da Inglaterra. População rural, muitas vezes considerados como maus presságios e da obra dos espíritos infernais. Desde o final de 1970 o número de círculos aumentou dramaticamente, especialmente nos condados do sul Inglês de Wiltshire e Hampshire, e os desenhos tornaram-se cada vez mais elaboradas. Único círculos giravam deu lugar a círculos múltiplos, às vezes dispostas nonrandomly. O grupo de cinco primeiro (um círculo rodeado por quatro menores, círculos com espaçamento uniforme de satélite) apareceu em 1978. Mais tarde, apareceu com anéis de quíntuplos conectar seus satélites exteriores, criando \"cruzes celtas. Círculos com múltiplos anéis concêntricos em torno deles também começaram a aparecer. Fig. 3,3 grupo de cinco A, Beckhampton, Wiltshire, 03 de agosto de 1988. Fig. 3,4 campainha Triple, Warminster, Wiltshire, Julho de 1990. Observe o aparentemente aleatoriamente colocados mini-círculos ou 'metralha', uma característica comum nos primeiros dias. 1990 viu o primeiro pictogramas, que consiste em longas cadeias de círculos, anéis, retângulos, linhas retas, e tridentes, \"chaves\" ou \"garras\". Baleias / golfinhos e insectograms começaram a aparecer no ano seguinte. Glifos colheita de 1994 incluiu \"balões de pensamento\", que por crescentes incorporando transformou em glifos semelhantes aranhas e escorpiões. Naquele ano também viu a astronomia relacionada primeira glifos, que incluem galáxias, cintos de asteróides e as órbitas planetárias. Desde o final dos anos 1990 as formações têm desenvolvido em espectaculares e incrivelmente complexos desenhos geométricos ou mandalas. Sevenfold geometria apareceu pela primeira vez em 1998, a geometria nove vezes em 1999, onze vezes geometria em 2000, e thirteenfold geometria em 2003. Desde 1999, várias formações de culturas criaram a ilusão de ser tridimensional. Fig. 3,5 Alton Barnes, Wiltshire, 11 de Julho de 1990. Este símbolo ganhou enorme publicidade em todo o mundo e atraiu milhares de visitantes. No total, mais de 10.000 formações na colheita foram documentados em todo o mundo. Mais de 700 deles apareceram em 1991. Dos 229 formações relatadas em todo o mundo em 2004, 33,9% deles apareceu na Inglaterra, onde os círculos tendem a se agrupar em torno sagrado sítios megalíticos, como Stonehenge, Avebury e Monte Silbury. Outros países com círculos incluído a Alemanha (13,2%), EUA (9,2%), República Checa (8,4%) e Itália (8,4%). Fig. 3.6 O 'Tetrahedron, Barbury Castle, Wiltshire, 17 de Julho de 1991. No dia seguinte ele apareceu, um jornal britânico publicou uma foto do projeto com a manchete: 'Agora explicar isso \". A área do círculo central é igual à soma das áreas dos três menores formas circulares sobre os pontos triângulo: 31.680 pés quadrados (ver secção 12 para o significado deste número). Fig. 3,7 'Scorpion' ou 'libélula', Cannings Bispos, Wiltshire, 15 de julho de 1994. Fig. 3,8 projeto Galaxy, West Stowell, Wiltshire, 23 de julho de 1994. Ela tem sido interpretada como mostrando uma conjunção de planetas na constelação de Cetus que ocorreu em abril de 2000. Fig. 3,9 'Spiderweb, Avebury, Wiltshire, 11/12 agosto de 1994. O efeito cintilante é criada pela cultura que estão sendo colocados em direções opostas. Fig. 3,10 glifo sistema Solar, Longwood Warren, Hampshire, 22 de junho de 1995. Ele representa o Sol, Mercúrio, Vênus, a órbita da Terra, Marte, e na órbita de Júpiter. De acordo com Gerald Hawkins, mostra um alinhamento planetário que ocorreu em 06 de novembro de 1903, o dia que os irmãos Wright comprovaram que o homem poderia voar, e novamente em 11 de julho de 1971, durante 9 Mariner de viagem a Marte. Fig. 3,11 'Set Julia', Stonehenge, Wiltshire, 07 julho de 1996. Esta espiral de 151 círculos, medindo 915 pés ao longo de sua espinha central, apareceu em plena luz do dia à vista de uma estrada movimentada, em frente Stonehenge, dentro de 15 minutos janela de tempo (de acordo com o depoimento de pilotos, um fazendeiro, um segurança guarda, e os motoristas chamar a polícia). Um engenheiro de agrimensura profissional disse que levaria cerca de dois dias inteiros para lay out do projeto. Fig. 3,12 'Koch fractal \", Milk Hill, Wiltshire, 08 agosto de 1997. Duas empresas de engenharia estimou que demarcando os 346 pontos de referência necessária para construir o projeto de 71 metros de largura antes de achatamento do trigo levaria 6,5-7,5 dias, ou 11 dias se for feito ao abrigo da escuridão. No entanto, a formação tinha definitivamente apareceu durante a noite. Fig. 3.13 A 'Flor' e 'Grid quadrado' apareceu na mesma noite, Etchilhampton, Wiltshire, 01 de agosto de 1997. O quadrado dentro do círculo é de grade, com 28 por 25 estreito, régua reta canais. Fig. 3,14 Hackpen Hill, Wiltshire, 04 de julho de 1999. Fig. 3,15 \"ribbon\" 3-D, Beckhampton, Wiltshire, 28 de julho de 1999. Fig. 3,16 estrela de 14 pontas, Roundway, Wiltshire, 31 de julho de 1999. Fig. 3,17 \"Os campos magnéticos\", Avebury Trusloe, Wiltshire, 22 de julho de 2000. Fig. 3,18 \"O anjo\", Great Shelford, Cambridgeshire, 25 de julho de 2001. As linhas irradiando que compõem o manto são cerca de seis centímetros de largura. Sucessivas linhas de varredura para fora, alternadamente, em seguida, para dentro, cobrindo uma extensão total de mais de 4000 pés. Fig. 3,19 projeto da fita de 240 metros de largura, Stonehenge, Wiltshire, 04 de julho de 2002. Fig. 3,20 concepção Petal, West Overton, 21 de maio de 2003. As plantas neste glifo havia sido gentilmente escovado mais em uma posição quase vertical, de modo que a partir do ar a formação é pouco visível. Como as plantas não danificadas recuperou e subiu para a sua posição normal, eles o fizeram em pacotes alternativos, produzindo uma ondulação, padrão de onda. Fig. 3,21 Hackpen Hill, Wiltshire, 20 de julho de 2003. Fig. 3,22 Huish, Wiltshire, 20 de julho de 2003. Fig. 3,23 North Down, Wiltshire, 10 de agosto de 2003. Fig. 3,24 formação de 200 metros de comprimento, East Field, Alton Barnes, Wiltshire, 19 de junho de 2004. Fig. 3,25 \"roda Sun ', a 300 metros de diâmetro, Silbury Hill, 04/03 agosto de 2004. Esta formação surgiu em linhas gerais a primeira noite, e foi concluída na noite seguinte. Alguns pesquisadores supõem que isso significa que deve ser feita pelo homem, mas não há nenhuma prova conclusiva disso. Fig. 3,26 'Olho', Silbury Hill, Wiltshire, 09 de julho de 2005. Fig. 3,27 Woolstone Hill, São Paulo, 13 de agosto de 2005. Fig. 3,28 \"As torres, Waylands Smithy, Oxfordshire, 08 de julho de 2006. Fig. 3,29 Uffington Castle, Oxfordshire, 08 de julho de 2006. Fig. 3,30 Sugar Hill, Aldbourne, Wiltshire, 01 de agosto de 2007. Fig. 3,31 Oeste Woods, Wiltshire, 09 de agosto de 2007. Fig. 3,32 Madeiras Oeste, perto Lockeridge, Wiltshire, 17 de Julho de 2008. Fig. 3,33 Farm Hillside, West Woods, Wiltshire, 20 de Julho de 2008. Fig. 3,34 Cherhill, Wiltshire, 7 de agosto de 2008. Fig. 3,35 Coombes Kingston, perto Waylands Smithy, Oxfordshire, 29 de maio de 2009. Fig. 3,36 concepção heptagonal, Milk Hill, Wiltshire, 02 de junho de 2009. Fig. 3,37 Silbury Hill, Wiltshire, 05 de julho de 2009. Fig. 3,38 Morgan Hill, perto de Devizes, Wiltshire, 02 agosto de 2009. 4. Características No melhor 'autêntico' crop circles, as plantas tendem a ser achatados em grande parte intacta (até os visitantes chegam!) E continuar a crescer, enquanto que nos círculos hoaxed os caules são geralmente quebrados, esmagados e muitas vezes mortos. Os caules da vegetação achatadas em formações genuínas são dobrados em ângulos de até 90 graus, e são freqüentemente colocadas em uma forma surpreendentemente complexa e muito bem tecida. Circular componentes de um projeto são normalmente giravam no sentido horário ou anti-horário a partir de um ponto central para fora. Mas em vez de o redemoinho dando voltas e voltas para fora do centro em uma espiral apertada, como tende a ser o caso em homem formações, que muitas vezes os fluxos amplamente para fora, às vezes em uma distinta forma de S. Espirais são muitas vezes feitas de tiras finas, e não de 3 pés de largura trechos, como quando pranchas ou rolos jardim são usados. Onde os fluxos de diferentes fundem, as plantas tendem a ser entrançadas sobre e sob o outro, sugerindo que todas as plantas entraram em colapso em direções opostas ao mesmo tempo. Fig. 4,1 Cortar estava lembrando de água ondulando, típico de grandes complexos hieróglifos. Observe como a cultura é elegantemente colocada em feixes finos. Roundway, 1999. Fig. 4,2 Mini-círculo ou \"ninho de pássaro\" na formação do monte 1997 Leite (fig. 3.12). O centro de um redemoinho de cultura é muitas vezes marcado por uma área de terra nua ou um 'buraco' no meio de uma guirlanda de hastes, e freqüentemente é deslocada do centro de matemática, às vezes por vários metros. Em algumas formações hastes individuais têm sido atraídos para as bordas externas dos círculos de colheita, por trás, o que claramente impede o uso de implementos físicos. A direção do fluxo de culturas é muitas vezes diferente abaixo da camada superior da cultura achatada. Multi-camadas, camadas multi-direcional nunca foi replicada pelo uso dos pés, pranchas, rolos de jardim ou tubos de plástico. Fig. O lay 4,3 chão da formação de galáxias 1994 (fig. 3.8) mostra a precisão de círculos \". Fig. 4,4 Oeste Overton Hill, Wiltshire, 08 de agosto de 2009. Cada um dos três círculos centrais tem um padrão leigos diferentes, incluindo tecelagem e entrançar. Fig. 4,5 Dragonfly, Little London, perto Yatesbury, Wiltshire, 03 de junho de 2009. Os veios realista sobre as asas varia em largura de cerca de 15 centímetros a 2 ou 3 polegadas. A força círculo de tomada de aparentemente pode discriminar entre a maturidade das plantas, para as plantas menos maduros, seja de pé em uma linha ou espalhados por toda a área plana, são por vezes de pé esquerdo. A força também parece ser capaz de selecionar entre as espécies de plantas, como papoilas vermelhas ou cardos podem ficar de pé em meio achatada cevada ou trigo. Este recurso, também, regras para o uso de pranchas de rolos e jardim. A força é tão precisa que as cortinas de uma haste de trigo larga são algumas vezes tudo o que um círculo separado do outro. Fig. 4,6 nó A descoloridos e esticado com uma curva de 90 graus. Biofísico William Levengood e uma série de outros pesquisadores descobriram que as plantas achatadas freqüentemente têm gânglios aumentados (o pequeno \"juntas\" ao longo das hastes de milho tipo de plantas) e, por vezes, ter \"cavidades expulsão\" nas mesmas áreas, onde a umidade parece ter explodiu para fora. Ensaios germinação de sementes têm mostrado que quando ocorre uma formação na cultura imatura, as mudas normalmente não se desenvolvem, ou seu crescimento é severamente reduzida, mas se uma formação ocorre em mais cultura madura, as sementes crescem em até cinco vezes a taxa normal. (Veja a próxima seção). 60% dos círculos aparecem em noites chuvosas. No entanto, agricultores e pesquisadores freqüentemente notam que não há lama na safra achatada, que não teria sido se tivesse sido achatado por seres humanos usando implementos mecânicos. Além disso, bolas prontamente crushable de giz são às vezes encontrados intactos debaixo das plantas achatadas. E quando ocorre uma formação em solo contendo pedras pequenas e cortantes, como o sílex, o resto vem em cima das rochas sem deixar marcas vinco, mostrando que nenhum peso tem sido aplicado. O solo dentro de círculos, muitas vezes mostra as diferenças com o solo fora delas. Em uma formação canadense, por exemplo, o solo tinha sido cozido duro como cimento, enquanto o resto do campo era úmido e lamacento. Relatórios de solo cozido sob plantas achatadas em círculos nas plantações também vêm de outros países, como a Rússia. Em 50% dos círculos nas plantações do interior do solo é visivelmente mais seca do que fora. (Conforme indicado na seção 3, esta também foi relatada por Robert Plot em 1686.) Muitos dos efeitos sobre as plantas eo solo são consistentes com a geração de calor intenso durante a criação de círculos nas plantações. Substâncias estranhas, tais como depósitos gelatinoso ou em pó, às vezes são encontrados nas plantas e solo no interior círculos nas plantações. Depósitos de pó que foram identificados incluem alta pureza dióxido de silício, óxido de magnésio, e magnetita (minério de ferro magnético). Esta última pode ser poeira meteórica, que é constantemente descendo através da atmosfera para a superfície da terra, a concentração em círculos é até 600 vezes superior ao valor normal, indicando a presença de fortes campos magnéticos em torno de círculos nas plantações. Quase 90% dos círculos nas plantações do Reino Unido aparecem sobre os aquíferos e / ou mais de giz e greensand (um arenito verde-oliva). Eles são freqüentemente alinhados com antigos locais sagrados e com as linhas ley ou linhas de energia da terra, como detectado pelo radiestesia. O posicionamento dos círculos nas plantações é, por vezes, inegavelmente não aleatória. Por exemplo, três idênticos baleia-como pictogramas a partir de 1991 formou um triângulo perfeito isosceles em vários quilômetros, quando ligada com linhas em um mapa. Algumas formações parecem fazer uso de trator tramlines como diretrizes, mas outros não. Muitas formações têm aparecido no Canadá, ainda campos canadenses são pulverizados por aviões para que não haja tramlines para fornecer fraudadores, com fácil acesso para os campos. No Reino Unido, pictogramas freqüentemente usado para ser cercado com dezenas de mini-círculos, ou 'metralha', um par de metros de diâmetro, localizados em lugares que não podem ser alcançadas a pé sem deixar vestígios visíveis. Salto com vara Doug e Dave fios se tornaram lenda da comédia. No caso de uma pequena porcentagem das formações, ambos os círculos simples e complexos desenhos, não há evidência visual clara no campo recém-plantada de círculo no verão anterior colheita. As novas plantas na área onde o círculo anterior foi localizado pode ser mais curto ou mais alto do que a safra em torno ou ligeiramente diferentes na cor. Este efeito geralmente não dura mais de dois anos após a formação original. Mortos animais selvagens são raramente encontrados em formações de colheita, mas houve algumas exceções. Algumas aves aparentemente tinha sido apanhado na criação de uma formação de 1993, e tinha sido explodidos e desintegrado pela força. Misturado com o sangue e penas eram bocados minuto de carne, mas não havia ossos, ou quaisquer partes distintas ou reconhecível. Testes de laboratório em alguns dos restos confirmou que eles pertenciam a uma \"explodiu pássaro\". Dois porcos-espinhos mortos foram encontrados em dois diferentes círculos nas plantações canadenses. Um deles tinha quase se desintegrou em partes enegrecidas e os outros tinham sido esmagados como uma panqueca. Arranhões e uma fileira de espinhos de pé quebrado indicou que o porco-espinho último tinha sido arrastado para o centro da formação do perímetro. O fluxo de espinhos achatados em seu corpo entrou no mesmo sentido que os leigos da cultura caído. Análise do porco-espinho outros mostraram que a escuridão dos restos não foi devido à queima. A maioria dos animais provavelmente algo sentido está prestes a acontecer e fugir, mas porcos-espinhos responder ao perigo, basta levantar suas espinhas e sentado apertado. Em uma formação de cultura, inúmeras moscas mortas foram encontradas preso por suas línguas para as cabeças de sementes das plantas, com suas pernas e asas abertas amplamente, como se em um espasmo. Alguns pareciam ter explodido. Outras moscas ainda estavam em perfeito estado, mas a maioria, no entanto, foram mortos. Alguns ainda estavam vivos, mas atordoado, e depois de ser liberada a partir das plantas, que voou para longe. F. Grassi afirma que um fungo (Entomophtora muscae) é a explicação mais provável, em vez de algum mecanismo misterioso círculo de formação. 5. Pesquisa científica O trabalho da equipe de pesquisa BLT (composto de John Burke, Levengood William e Nancy Talbott) colocou safra círculo de pesquisa sobre uma base científica sólida. Das formações vegetais mais ou menos 300 amostras e examinadas desde 1990, mais de 90% apresentaram efeitos anômalos nos tecidos vegetais e / ou do solo. Durante este período, três trabalhos de pesquisa têm sido publicados em revistas científicas, * estabelecendo que a criação de formações vegetais muitos envolve algo muito mais intrigante do que brincalhões humana com tábuas e placas. Os céticos têm objetado que muito do trabalho do BLT não foi conduzida de maneira duplo-cego (de modo que o viés do experimentador podem ter influenciado os resultados), mas eles não foram capazes de mostrar que os efeitos anômalos em questão pode ser produzida por achatamento das culturas por meios mecânicos. * WC Levengood, \"anomalias anatômicas em plantas de formação de cultura\", Physiologia Plantarum, vol. 92, 1994, pp 356-63; WC Levengood \", de ferro fundido semi-meteórica associada a uma formação de cultura\", Journal of Scientific Exploration, vol. 9, 1995, p. 191-9; WC Levengood e Nancy P. Talbott, \"Dispersão de energias em formações vegetais em todo o mundo\", Physiologia Plantarum, vol. 105, 1999, pp 615-24. Como já mencionado, as forças envolvidas na criação de formações vegetais pode alterar fisicamente o tecido das plantas achatadas (e às vezes o interno, vertical) de diversas maneiras. Caules são dobrados até 90 graus, sem ser quebrada, particularmente nos nós, como se o tecido vegetal amolecida significativamente no momento de achatamento. Isto é mesmo verdade do óleo de semente de colza (canola), que normalmente é tão duro e quebradiço como aipo e snaps se inclinou mais de 40 graus. Se jovem, plantas com vigor cada vez maior são achatadas mecanicamente, nó de flexão sempre ocorre ao longo do tempo devido ao fototropismo (tendência natural de uma planta para reorientar-se à luz solar) e gravitropismo (tendência natural de uma planta para reorientar-se para o campo gravitacional da Terra), assim que estes naturais forças deve ser excluída antes de concluir que nó flexão na cultura círculo plantas é significativa. Depois de trigo achatamento, mesmo jovens e vigorosamente crescente mecânica leva cerca de cinco dias para produzir flexão significativa nos nós, ao passo que em algumas formações de culturas flexão de 40 graus ou mais é observado dentro de 48 horas ( bltresearch.com ). Fig. Marcado 5,1 flexão na base de plantas óleo de semente de colza. Caules da cultura são geralmente achatada alargada e esticada, como se tivessem sido aquecido a partir do interior. Às vezes este efeito é tão poderoso que os nós literalmente explodir, abrindo buracos nas paredes nó e vomitando seiva fora do caule. Alongamento do nó (apical) superior em particular, tem sido encontrado para ser estatisticamente significativa em relação ao controle amostras em várias centenas de formações vegetais que têm sido investigados, porém nem sempre é visualmente impressionante. Há mecanismos conhecidos que explicam o aumento no comprimento nó após uma colheita é achatada, como gravitropismo, mas alguns estudos sugerem que este mecanismo não pode explicar para o nó de comprimento aumenta de mais de cerca de 20%, enquanto os aumentos de até 200% têm foi medido em formações de culturas. Expansão nó não é sempre inteiramente confinado às plantas dentro da área plana da cultura, como se um transbordamento da energia envolvida ocorreu. Fig. 5,2 Comparação de nós dentro de uma formação de culturas (à esquerda) e de 75 pés fora dela (direita). Alongamento nó e cavidades expulsão ter sido induzida em plantas em laboratório, colocando-os em um forno de microondas por 20 a 30 segundos. Radiação de microondas aquece a umidade no interior do caule, que, como ele se transforma em vapor e se expande, se estende tanto as fibras mais elásticas na parte superior da planta, ou golpes furos nos nós mais dura mais para baixo da haste. Fig. 5,3 cavidades Expulsão em trigo. Em seu artigo de 1999, Levengood e Talbott argumentam que as formações nas plantações são criados por vórtices de plasma, que emitem radiação de microondas e, assim, produzir calor. Em 2001 Eltjo Haselhoff escreveu um comentário em seu artigo, apontando um par de erros graves e argumentando que as formações de culturas foram criados por uma fonte pontual-like ou esférica da radiação ao invés de um vórtice de plasma .* Ele relatou um estudo de amostras de plantas de dois círculos na Holanda, que apareceu depois que as luzes foram vistas acima do campo. As amostras foram colhidas ao longo de três diâmetros. O maior nó de alongamento foi medido no centro da formação e diminuiu para o aro. Ele concluiu que este era consistente com o calor ser induzido por uma fonte eletromagnética pequena 4,1 metros acima do campo. Um dado curioso e inexplicável foi que as mudanças nó de comprimento ao longo de cada diâmetro da amostra, de cada lado do centro do círculo, precisamente espelhado uns aos outros, mas cada diâmetro do nó de comprimento alterações diferentes das encontradas ao longo dos outros dois diâmetros. * EH Haselhoff, 'Dispersão de energias em formações vegetais em todo o mundo \"(Opiniões e comentários), Physiologia Plantarum, vol. 111, 2001, pp 123-4; Haselhoff, 2001, pp 71-81. Grassi et al. têm tentado desmascarar os artigos de Levengood, Talbott e Haselhoff e sua alegação de que a radiação eletromagnética está envolvido na criação de círculos nas plantações. Em particular, os três pesquisadores são acusados ​​de falhas após a amostragem e procedimentos analíticos e de seleção de dados. Grassi et al. também afirmam que o aquecimento sozinho não poderia produzir o nó alongamentos medidos. Haselhoff publicou uma refutação de algumas de suas críticas .* * F. Grassi, C. Cocheo e P. Russo, \" Balls of light: a ciência questionável de círculos nas plantações \", Journal of Scientific Exploration, vol. 19, 2005, pp 159-70; www.cicap.org / culturas / en. Resposta por Haselhoff e resposta ainda por Grassi et al., Journal of Scientific Exploration, vol. 21, 2007, pp 576-82. Testes de germinação mostraram diferenças enormes no desenvolvimento de sementes de plantas achatada e nonflattened. Se um círculo da colheita ocorre antes do florescimento da planta e do desenvolvimento da semente, a planta somáticas tecido (não reprodutoras) continua a se desenvolver normalmente, mas o desenvolvimento da semente cessa ou é prejudicada. Se um círculo ocorre numa fase de crescimento um pouco mais tarde na cultura jovem, onde a semente ainda está se formando, as sementes são menores e atrofiado, e exibem germinação reduzida ou reprimidos. Em plantas mais maduras, as sementes são visualmente atrofiado, mas os efeitos sobre a reprodução variam. Em plantas maduras com sementes totalmente formadas, sementes, muitas vezes exibem um aumento maciço em vigor e uma taxa de crescimento até cinco vezes maior do que sementes de controle. Medições em duas formações vegetais apenas algumas horas de idade, revelou que os caules das plantas achatadas foram deixados com uma carga de superfície elétrica. O grau em que os caules foram dobrados mais foi proporcional ao grau de carga elétrica sobre eles. Estudos mostram que os poços da parede celular no tecido fino bract semente de trigo ao redor são anormalmente alargada e que o tecido bract mostra maior condutividade elétrica, de acordo com a exposição a uma carga elétrica. Partículas microscópicas de ferro excepcionalmente pura (assumido como poeira meteórica) foram encontrados em dois terços das 32 ​​formações a partir do qual o solo foi amostrado. Às vezes, os clusters destas muito pequeno, esférico, partículas magnéticas são encontrados; esferas, por vezes, maiores são descobertos aderindo a pedaços de solo coberto ou misturado com um esmalte parcialmente derretida do mesmo material. As partículas são encontrados geralmente agrupados em torno, ou apenas fora, os perímetros de formações vegetais circular, como se a força centrífuga de um vórtice é distribuir este material para as bordas. Mas às vezes as partículas estão concentrados no solo nos centros de círculos, com quantidades caindo fora em direção ao perímetro, enquanto que em outros casos, o material é depositado de forma linear, geralmente em quantidades cada vez maiores para o perímetro. Se os círculos são feitos por sistemas de plasma, o que explicaria a atração de partículas de pó magnético, desde plasma em espiral em torno das linhas do campo geomagnético cria seu próprio campo magnético. Mas os padrões de distribuição diferentes do pó magnético são intrigantes. Um estudo de difração de raios-x de minerais de argila na cultura círculo solos, realizadas pela equipe de BLT 1999-2001 com a ajuda de cientistas independentes, revelou que os minerais de argila específica (ilita / esmectita) exibem um aumento sutil, mas estatisticamente significativa na grau de cristalização (ou seja, uma maior ordenação dos átomos). Cristalização aumento nunca foi relatado anteriormente em solos superficiais. Ele tem sido visto apenas em rocha sedimentar que foi exposto à pressão de toneladas de rocha sobrejacente e ao calor do interior da Terra durante centenas ou milhares de anos. Claramente, se a pressão geológica esteve presente, as plantas da cultura círculo teria sido obliterada. A mudança cristalino também pode ser produzido pelo calor intenso (pelo menos 600-800 ° C durante um período de muitas horas), mas isso teria incinerado as plantas. As plantas nos círculos amostrados mostrou as mudanças bem documentado (nós alongada, cavidades de expulsão) regularmente encontrados em círculos nas plantações não criado por achatamento mecânica. As mudanças planta e cristalização aumento ocorreu no mesmo locais de amostragem, sugerindo que o que causou as mudanças de plantas, também causou as mudanças do solo. No entanto, a intensa energia necessária para produzir os efeitos do solo teriam destruído as plantas completamente. Um mineralogista envolvidos no estudo concluíram que uma energia actualmente desconhecidas para a ciência deve estar envolvido. Fig. 5,4 colheita abatido geométricas e nongeometrically no mesmo campo. Áreas de culturas de cereais aleatoriamente achatado - chamado de \"alojamento\" pelos agricultores - são uma ocorrência comum em todo o mundo, e são geralmente atribuídos a overfertilization e / ou danos do tempo. Fotos aéreas freqüentemente revelam áreas de culturas de forma irregular achatada nos mesmos domínios como padrões geometricamente achatado. Uma descoberta muito significativa pela equipe BLT é que surgem, por vezes, abatido nongeometrically mostra a tendência mesmo e nós alongado que são encontrados em círculos nas plantações. Isto sugere que as mesmas forças formativas estão envolvidos, mas que às vezes agem caoticamente em vez de uma forma ordenada. As mesmas anomalias também são encontrados em tufos de plantas de pé dentro de círculos - não claramente um resultado do achatamento mecânica. Referência: http://translate.google.com.br/translate?js=n&prev=_t&hl=pt-BR&ie=UTF-8&layout=2&eotf=1&sl=auto&tl=pt&u=http%3A%2F%2Fdavidpratt.info%2Fcropcirc1.htm OBS.: Continua na próxima postagem.",
+        "display_name": "CROP CIRCLES E SUAS MENSAGENS",
+        "favicon_images": {
+            "50x": "https://i.pinimg.com/favicons/50x/24493ab7b26886fcebd07b5e975ffe50616c5b46f71961a79f711084.png?59a0c7b6e4848ccdabcea0636efda02b",
+            "orig": "https://i.pinimg.com/favicons/24493ab7b26886fcebd07b5e975ffe50616c5b46f71961a79f711084.ico?59a0c7b6e4848ccdabcea0636efda02b"
+        },
+        "favicon_link": "https://i.pinimg.com/favicons/24493ab7b26886fcebd07b5e975ffe50616c5b46f71961a79f711084.ico?59a0c7b6e4848ccdabcea0636efda02b",
+        "id": "155a99ad40bcb9888f577e1f016bf099",
+        "products": [],
+        "site_name": "fontesdeluz.blogspot.com.br",
+        "type": "richpingriddata",
+        "type_name": "article",
+        "url": "http://fontesdeluz.blogspot.com.br/2011/07/crop-circles-e-suas-mensagens.html"
+    },
+    "shopping_flags": [],
+    "sponsorship": null,
+    "story_pin_data": null,
+    "story_pin_data_id": null,
+    "subcategory": "board",
+    "title": "",
+    "tracking_params": "CwABAAAAEDEwMTQzODc2NDk3MDg0NzkGAAMAAQsABwAAAApuZ2FwaS9wcm9kAA",
+    "type": "pin",
+    "url": "https://i.pinimg.com/originals/dd/2c/5d/dd2c5d3a6c8ebd16508797bc37261bc1.jpg",
+    "video_status": null,
+    "video_status_message": null,
+    "videos": null,
+    "view_tags": [],
+    "width": 469
+}

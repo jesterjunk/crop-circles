@@ -1,0 +1,964 @@
+{
+    "access": [],
+    "ad_match_reason": 0,
+    "additional_hide_reasons": [],
+    "aggregated_pin_data": {
+        "aggregated_stats": {
+            "done": 0,
+            "saves": 8
+        },
+        "creator_analytics": null,
+        "did_it_data": {
+            "details_count": 0,
+            "images_count": 0,
+            "rating": -1,
+            "recommend_scores": [
+                {
+                    "count": 0,
+                    "score": 1
+                },
+                {
+                    "count": 0,
+                    "score": 0.5
+                },
+                {
+                    "count": 0,
+                    "score": 0
+                }
+            ],
+            "recommended_count": 0,
+            "responses_count": 0,
+            "tags": [],
+            "type": "aggregateddiditdata",
+            "user_count": 0,
+            "videos_count": 0
+        },
+        "has_xy_tags": false,
+        "id": "4794950247761585357",
+        "is_shop_the_look": false
+    },
+    "alt_text": null,
+    "attribution": null,
+    "board": {
+        "access": [],
+        "allow_homefeed_recommendations": true,
+        "archived_by_me_at": null,
+        "blocking_actions": [],
+        "board_order_modified_at": "Thu, 14 Jul 2022 03:39:33 +0000",
+        "category": "other",
+        "collab_board_email": false,
+        "collaborated_by_me": false,
+        "collaborator_count": 0,
+        "collaborator_invites_enabled": false,
+        "collaborator_permissions": [
+            1,
+            6,
+            7,
+            9,
+            8,
+            11,
+            3,
+            15
+        ],
+        "collaborator_permissions_setting": 1,
+        "collaborator_requests_enabled": false,
+        "cover_pin": {
+            "image_signature": "6b99475aed453a7e6ec7283e4cdfd542",
+            "pin_id": "340021840599132999",
+            "timestamp": 1468202875
+        },
+        "description": "",
+        "event_date": null,
+        "event_start_date": null,
+        "followed_by_me": false,
+        "follower_count": 283,
+        "id": "340021909305902045",
+        "image_cover_url": "https://i.pinimg.com/200x150/6b/99/47/6b99475aed453a7e6ec7283e4cdfd542.jpg",
+        "images": {
+            "474x": [
+                {
+                    "dominant_color": "#47494A",
+                    "height": 711,
+                    "url": "https://i.pinimg.com/474x/f1/d5/b2/f1d5b2eda98301ffef970830bf5f7cf8.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#7C784A",
+                    "height": 316,
+                    "url": "https://i.pinimg.com/474x/db/58/7a/db587acb47d6117413aebff246cf5106.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#95969A",
+                    "height": 600,
+                    "url": "https://i.pinimg.com/474x/ad/7f/66/ad7f668c9760841ab6b312079790e13d.jpg",
+                    "width": 400
+                },
+                {
+                    "dominant_color": "#8C6B3E",
+                    "height": 416,
+                    "url": "https://i.pinimg.com/474x/ab/91/6e/ab916ecf0d298148aa912adf084178bc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B5914C",
+                    "height": 187,
+                    "url": "https://i.pinimg.com/474x/4a/ab/c5/4aabc5aaa95939f1b26eeb4a9affff69.jpg",
+                    "width": 236
+                },
+                {
+                    "dominant_color": "#B5A06E",
+                    "height": 424,
+                    "url": "https://i.pinimg.com/474x/2a/64/85/2a64850251968c5c46d2fc51055f223e.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#527B2A",
+                    "height": 355,
+                    "url": "https://i.pinimg.com/474x/b2/74/a4/b274a4c0c0af82b0357b40fa9fa4fffc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A78543",
+                    "height": 324,
+                    "url": "https://i.pinimg.com/474x/db/44/4e/db444e72ed4fd6867bc61e8d1919e9cf.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A28660",
+                    "height": 418,
+                    "url": "https://i.pinimg.com/474x/4c/af/4c/4caf4cc04ac7c77d0188136d2a1e2dde.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B69267",
+                    "height": 313,
+                    "url": "https://i.pinimg.com/474x/34/d7/97/34d797b3c8cb0694a6858d717cf84fbd.jpg",
+                    "width": 474
+                }
+            ]
+        },
+        "is_ads_only": false,
+        "is_collaborative": false,
+        "layout": "default",
+        "map_id": "pinterest.ijz1714i",
+        "name": "crop circles",
+        "owner": {
+            "ads_only_profile_site": null,
+            "blocked_by_me": false,
+            "domain_url": null,
+            "first_name": "kim",
+            "full_name": "kim hinkle",
+            "id": "340021978025015150",
+            "image_medium_url": "https://s.pinimg.com/images/user/default_75.png",
+            "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+            "image_xlarge_url": "https://s.pinimg.com/images/user/default_280.png",
+            "indexed": true,
+            "is_ads_only_profile": false,
+            "is_partner": false,
+            "is_tastemaker": false,
+            "last_name": "",
+            "locale": "en-US",
+            "type": "user",
+            "username": "kandchinkle"
+        },
+        "pin_count": 4972,
+        "privacy": "public",
+        "section_count": 0,
+        "sectionless_pin_count": 4972,
+        "seo_canonical_domain": "www.pinterest.com",
+        "seo_description": "Jul 14, 2022 - Explore kim hinkle's board \"crop circles\", followed by 283 people on Pinterest. See more ideas about crop circles, cropped, circle.",
+        "seo_noindex_reason": null,
+        "seo_related_interests": [
+            {
+                "image": {
+                    "1200x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/1200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 170,
+                        "url": "https://i.pinimg.com/170x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 192,
+                        "url": "https://i.pinimg.com/192x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 200,
+                        "url": "https://i.pinimg.com/200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 222,
+                        "url": "https://i.pinimg.com/222x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 236,
+                        "url": "https://i.pinimg.com/236x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 237,
+                        "url": "https://i.pinimg.com/237x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 290,
+                        "url": "https://i.pinimg.com/290x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 345,
+                        "url": "https://i.pinimg.com/345x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 400,
+                        "url": "https://i.pinimg.com/400x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 474,
+                        "url": "https://i.pinimg.com/474x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 550,
+                        "url": "https://i.pinimg.com/550x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 564,
+                        "url": "https://i.pinimg.com/564x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 600,
+                        "url": "https://i.pinimg.com/600x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/640x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/736x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "750x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/750x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/originals/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    }
+                },
+                "name": "Sacred Geometry",
+                "url": "/ideas/sacred-geometry/901152072692/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/1200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 238,
+                        "url": "https://i.pinimg.com/170x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 269,
+                        "url": "https://i.pinimg.com/192x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 280,
+                        "url": "https://i.pinimg.com/200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 311,
+                        "url": "https://i.pinimg.com/222x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 330,
+                        "url": "https://i.pinimg.com/236x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 332,
+                        "url": "https://i.pinimg.com/237x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 406,
+                        "url": "https://i.pinimg.com/290x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 483,
+                        "url": "https://i.pinimg.com/345x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 560,
+                        "url": "https://i.pinimg.com/400x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 664,
+                        "url": "https://i.pinimg.com/474x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 770,
+                        "url": "https://i.pinimg.com/550x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 790,
+                        "url": "https://i.pinimg.com/564x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 840,
+                        "url": "https://i.pinimg.com/600x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 896,
+                        "url": "https://i.pinimg.com/640x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 98,
+                        "url": "https://i.pinimg.com/70x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 1031,
+                        "url": "https://i.pinimg.com/736x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 1050,
+                        "url": "https://i.pinimg.com/750x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/originals/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    }
+                },
+                "name": "Geometry",
+                "url": "/ideas/geometry/926306432669/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/1200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 212,
+                        "url": "https://i.pinimg.com/170x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 240,
+                        "url": "https://i.pinimg.com/192x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 250,
+                        "url": "https://i.pinimg.com/200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 277,
+                        "url": "https://i.pinimg.com/222x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 295,
+                        "url": "https://i.pinimg.com/236x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 296,
+                        "url": "https://i.pinimg.com/237x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 362,
+                        "url": "https://i.pinimg.com/290x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 431,
+                        "url": "https://i.pinimg.com/345x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 500,
+                        "url": "https://i.pinimg.com/400x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/474x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "550x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/550x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "564x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/564x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "600x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/600x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/640x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "70x": {
+                        "height": 87,
+                        "url": "https://i.pinimg.com/70x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/736x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "750x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/750x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/originals/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    }
+                },
+                "name": "Land Art",
+                "url": "/ideas/land-art/952166851654/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/1200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 113,
+                        "url": "https://i.pinimg.com/170x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 127,
+                        "url": "https://i.pinimg.com/192x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 133,
+                        "url": "https://i.pinimg.com/200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 147,
+                        "url": "https://i.pinimg.com/222x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/236x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/237x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 193,
+                        "url": "https://i.pinimg.com/290x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 229,
+                        "url": "https://i.pinimg.com/345x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 266,
+                        "url": "https://i.pinimg.com/400x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 315,
+                        "url": "https://i.pinimg.com/474x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 366,
+                        "url": "https://i.pinimg.com/550x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 375,
+                        "url": "https://i.pinimg.com/564x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 399,
+                        "url": "https://i.pinimg.com/600x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 426,
+                        "url": "https://i.pinimg.com/640x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 46,
+                        "url": "https://i.pinimg.com/70x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 490,
+                        "url": "https://i.pinimg.com/736x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 499,
+                        "url": "https://i.pinimg.com/750x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/originals/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    }
+                },
+                "name": "Crop Circles Photography",
+                "url": "/ideas/crop-circles-photography/924199160619/"
+            }
+        ],
+        "seo_title": "900+ Crop circles ideas | crop circles, cropped, circle",
+        "should_show_more_ideas": true,
+        "should_show_shop_feed": false,
+        "topic": null,
+        "type": "board",
+        "url": "/kandchinkle/crop-circles/",
+        "viewer_collaborator_join_requested": false,
+        "viewer_contact_request": null
+    },
+    "carousel_data": null,
+    "category": "pinterest",
+    "comment_count": 0,
+    "comments": {
+        "bookmark": null,
+        "data": [],
+        "uri": "/v3/pins/340021840599516194/comments/"
+    },
+    "created_at": "Sat, 06 Aug 2016 15:19:51 +0000",
+    "creator_analytics": null,
+    "debug_info_html": null,
+    "description": "Oh My Stars: Cosmic Alignments in Leo: nearing the 11/11/11 Portal",
+    "description_html": "Oh My Stars: Cosmic Alignments in Leo: nearing the 11/11/11 Portal",
+    "domain": "gemstarluminus.blogspot.co.uk",
+    "dominant_color": "#9d5c22",
+    "done_by_me": false,
+    "embed": null,
+    "extension": "jpg",
+    "favorite_user_count": 0,
+    "favorited_by_me": false,
+    "filename": "a68436bc4976fe4ddd420777e611e219",
+    "grid_description": "Oh My Stars: Cosmic Alignments in Leo: nearing the 11/11/11 Portal",
+    "grid_title": "Cosmic Alignments in Leo: nearing the 11/11/11 Portal",
+    "has_required_attribution_provider": false,
+    "height": 627,
+    "id": "340021840599516194",
+    "image_crop": {
+        "max_y": 1,
+        "min_y": 0
+    },
+    "image_signature": "a68436bc4976fe4ddd420777e611e219",
+    "images": {
+        "136x136": {
+            "height": 136,
+            "url": "https://i.pinimg.com/136x136/a6/84/36/a68436bc4976fe4ddd420777e611e219--butterfly-man-butterfly-effect.jpg",
+            "width": 136
+        },
+        "170x": {
+            "height": 115,
+            "url": "https://i.pinimg.com/170x/a6/84/36/a68436bc4976fe4ddd420777e611e219--butterfly-man-butterfly-effect.jpg",
+            "width": 170
+        },
+        "236x": {
+            "height": 159,
+            "url": "https://i.pinimg.com/236x/a6/84/36/a68436bc4976fe4ddd420777e611e219--butterfly-man-butterfly-effect.jpg",
+            "width": 236
+        },
+        "474x": {
+            "height": 321,
+            "url": "https://i.pinimg.com/474x/a6/84/36/a68436bc4976fe4ddd420777e611e219--butterfly-man-butterfly-effect.jpg",
+            "width": 474
+        },
+        "736x": {
+            "height": 498,
+            "url": "https://i.pinimg.com/736x/a6/84/36/a68436bc4976fe4ddd420777e611e219--butterfly-man-butterfly-effect.jpg",
+            "width": 736
+        },
+        "orig": {
+            "height": 627,
+            "url": "https://i.pinimg.com/originals/a6/84/36/a68436bc4976fe4ddd420777e611e219.jpg",
+            "width": 925
+        }
+    },
+    "is_downstream_promotion": false,
+    "is_eligible_for_pdp": false,
+    "is_eligible_for_related_products": false,
+    "is_eligible_for_web_closeup": false,
+    "is_native": false,
+    "is_oos_product": false,
+    "is_playable": false,
+    "is_promoted": false,
+    "is_quick_promotable": false,
+    "is_repin": true,
+    "is_stale_product": false,
+    "is_uploaded": false,
+    "is_video": false,
+    "is_whitelisted_for_tried_it": true,
+    "link": "http://gemstarluminus.blogspot.co.uk/2011/08/cosmic-alignments-in-leo-nearing-111111.html",
+    "manual_interest_tags": null,
+    "media_id": "",
+    "method": "bookmarklet",
+    "native_creator": null,
+    "num": 0,
+    "pinner": {
+        "ads_only_profile_site": null,
+        "blocked_by_me": false,
+        "explicitly_followed_by_me": false,
+        "full_name": "kim hinkle",
+        "id": "340021978025015150",
+        "image_large_url": "https://s.pinimg.com/images/user/default_140.png",
+        "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+        "is_ads_only_profile": false,
+        "type": "user",
+        "username": "kandchinkle"
+    },
+    "price_currency": "USD",
+    "price_value": 0,
+    "privacy": "public",
+    "product_pin_data": null,
+    "promoted_is_lead_ad": false,
+    "promoted_is_removable": false,
+    "promoted_lead_form": null,
+    "promoter": null,
+    "reaction_counts": {},
+    "repin_count": 0,
+    "rich_summary": {
+        "actions": [],
+        "apple_touch_icon_images": null,
+        "apple_touch_icon_link": null,
+        "display_description": "Cosmic Alignments in Leo: nearing the 11/11/11 Portal (Crop Circles, Ascension and Comet Elenin) August 16th, 2011 AD Earlier this week, on August 16th 2011, there was a very special alignment of the Earth, Mercury, the Sun and Venus. From our perspective on Earth, all three celestial spheres come into conjunction at 22° Leo. This alignment established a channel, fueled by Venus pouring into the Sun, then into Mercury and finally into the Earth. All three spheres are very comfortable in Leo, which is really nice. The Sun is in his rulership, Leo, where he can be fully expressed. Both the Sun and Leo symbolize our will to project outward into the world, to express ourselves. As the Sun is the sustainer of life in our solar system, the heart sustains life in the body, pumping the life force through each cell. Both the Sun and the heart are constants; their fire never ceases. As we all know, the Sun can give life, but it can also scorch and take it away (also true of love). When the Sun (heart) is motivated by Venus, the Will is more inspired to create harmony within our relationships and our environments. When a planet travels within the sphere of the Sun, its view is obscured. This is called “combustion,” and the planet loses its power as it is devoured by the Sun’s heat. However, when a planet comes into an exact conjunction with the heart center of the Sun, we call this “cazimi.” It is akin to being in the King’s Chamber. The King showers the planet with abundance and the planet becomes fully expressed in its highest, most elevated power. The Sun amplifies the energy of Venus, who rules relationships, beauty, art and harmony. Venus cazimi expresses herself in her highest and truest form. As Venus empties herself into the Sun, we receive both of their rays as one amplified union of cosmic Love, permeating our consciousness. Let’s not forget Mercury in this equation. Mercury is Hermes, the Messenger who delivers the messages from the Gods on Mount Olympus to the mortals of Earth. Mercury is our intellectual mind, our processor, and our inner voice. Mercury cazimi allows us to think clearly, and cleanse our minds of any thoughts that are not serving us (paranoia, depression, fears that limit our interaction with the world) and we are able to become more positive in our thinking. Furthermore, Mercury is retrograde right now, which turns our communication inward. We are less concerned with gathering information from the outside world; the focus is an inward integration of our accumulated experiences. Now is when we are processing and nurturing our inner world (this is why communication with the outside often gets obscured; either the message doesn’t arrive, or it is misinterpreted by the other person). With Mercury Retrograde, we are listening to our intuition, our hearts. Combined with this alignment, this is an especially good time to work out any communication issues with loved ones. With the Sun amplified by Venus funneling into Mercury, understanding and compassion flood into the mind; we are able to let go of the ego, compromise, and create a better balance in our relationships. In Leo, we are reminded not to scorch one another with a pompous ego, but to uplift one another royally. Venus is the insistent Queen behind the King urging for equality, balance and harmony. The Sabian Symbol for 22 Leo is: \"A Carrier Pigeon Fulfilling Its Mission.\" Despite a pigeon’s bobbling flair, they truly are intelligent beings. Imagine that a pigeon can be trained to deliver something to a specific address; amazing! So what is the message of the carrier pigeon? Leo tells us to tune into our hearts to hear the message. The message (Mercury) of Love (Venus) has been delivered to Earth from the Cosmos. We are entering into the Aquarian Age, where all are created equal (Aquarius is the polar opposite of Leo). We are finding new ways to live in harmony with our Earth Mother and with each other. Mahatma Gandhi said: “Be the change you want to see.” We can no longer sit around and wait for the “leaders” to do it. While they promise change, we see no positive effort on their part. We still see our Earth ravaged of her resources and the wars continue. Financial institutions collapse, health care is unreliable and we are left with no choice but to turn to our communities and create solutions from the resources that we have. Our best resource is our heart. Love gives us wings and we can soar over our troubles. It is through love that we are able to forgive others, see the higher value of the lesson and gain a higher understanding. It reminds me of this crop circle from August 2009: (Notice the illumination of the Butterfly’s heart center.) Throughout the day of August 16th, the Moon (our subconscious) moves from the last sign of Pisces into Aries, the sign of new beginnings. It seems that this alignment could be one of many portals preparing us to make this leap into the New Age on 11/11/11. We are certainly being given wonderful tools here! ******************************************************** The planetary alignments continue on Sunday, August 21, 2011 with another rare and special alignment, this time from the far reaches of the Solar System: Neptune aligns with the Earth, the Sun and Venus, respectively. From the Earth’s perspective, we will be sandwiched between Neptune on one side, and the Sun and Venus on the other, creating another vortex of cosmic Love. Neptune is the “higher octave” of Venus, symbolizing unconditional, divine love. Neptune cannot be seen with the naked eye. His/her effects are felt. Neptune rules the mystical, mysterious aspects of life: dreams, psychic facilities, spirituality, and energetic sensitivities. With Neptune’s dreamy mist, (s)he also rules illusion, confusion and deception. What you think you see may not always be what you think it is! This, of course, could be a very good or a very bad thing. Venus, remaining in conjunction with the Sun from earlier this week, opposes Neptune at 9:39am EST on August 21, 2011. The opposition occurs with Neptune at 29° Aquarius and Venus at 29° Leo. Whenever a planet is at 29°, it is considered critical; it is the last degree before changing into a new sign (Venus actually enters Virgo later in the evening, moving faster than the Sun). A planet at 29° says, “Please pay attention to me.” Neptune stays in one sign for nearly 15 years, making it even more important when (s)he hits the 29° mark. Neptune is in retrograde and has already visited this degree, but never with this sort of alignment. Neptune turns direct on November 9th, 2011 (just two days before the 11/11/11 portal) and reenters Pisces on February 4th, 2012 and will stay in Pisces for the next 15 years or so. Neptune rules Pisces, both symbolizing similar concepts of the hidden, mysterious, unseen aspects of life. It is here that one may escape the mundane world, for better or for worse (mysticism, drugs, dreams, self-sacrifice, spirituality, movies, meditation, Angels). It is in Pisces where the Soul may be redeemed. However, Neptune’s mission in Aquarius is not yet finished, as we see from this alignment. We are being sandwiched by the two planets of Love, the Earthly and the Divine, reinforcing the alignment from earlier in the week. Our compassion towards one another is massively boosted as we connect to the divine wisdom from the outer reaches of the cosmos and integrate it into our interactions with others and in our world. With the Sun still holding Venus in his King’s chamber, her highest qualities remain amplified, raising her to the par of Neptune. The cosmos are really showing us that we are protected, we must not fear. The opposite of fear is Love. We are shown that we can overcome any illusion (Neptune) of fear and replace it with Love. The Sabian Symbol for 29° Aquarius is: “A Butterfly Emerging From A Chrysalis;” also, “A beautifully winged insect has just come forth into glorious adult being on completion of its metamorphosis.” This really confirms that crop circle from August 2009 that I posted above! The Sabian Symbol for 29° Leo is: “A mermaid emerges from the ocean waves ready for rebirth in human form.” Both of these symbols reveal metamorphosis, evolution, but not just any evolution; this is an evolution, within our own bodies, within this lifetime. For those who follow the Mayan Calendar, these symbols already make sense to you. We are emerging into a new collective being; our bodies are changing from a carbon to a crystalline structure. Our “dormant” DNA is awakening. We are driven to eat better quality food and nurture our spirits through yoga and meditation. Technological advancement has led us into space, and into the microcosm of existence. We now know we are not alone in the universe and we are making contact; we are becoming Galactic Humans! The Age of Aquarius has been on the horizon for some time now. We are literally in the birth canal, where it is both a painful and beautiful experience. On 11/11/11, our heads crown and we begin our reemergence. This week of planetary alignments is a cosmic blast of Love preparing us for our destined leap in consciousness. This alignment reminds us that Love is where it all begins, and with Love, anything is possible. The Moon moves from Taurus into Gemini, showing us where our needs are. We are advised to look to the resources that we have within ourselves and share with our close community; siblings, neighbors etc. We have the resources to create community gardens; we can be self-sustainable, but we can’t do it alone. These alignments help us break through the ego-based cultural fear that separates us from one another; we are to remember that we are social, tribal beings. ********************************************************* It is my hypothesis that these alignments are two of the most important preparations as we near the 11/11/11 portal on November 11th 2011. This is also in addition to the ingresses of Neptune, Chiron and Ceres into Pisces earlier this year, as well as the Cardinal Grand Cross (with Solar Eclipse) in July 2011. We also had a Jupiter/ Uranus conjunction earlier this year, which doesn’t happen very often either. This crop circle appeared on the New Moon in Leo on July 30th, 2011. It is one of the largest crop circles to date: There are many ways to interpret the crop circle’s message, but from one angle, we can assume that it is representative of Neptune-Earth-Sun-Venus alignment. A line connects three spheres, engulfed by a large circle, symbolizing their connection. The middle planet could be Earth, the Sun and Venus on the right and Neptune on the left. Notice the Serpent’s tongue is the symbol of Neptune. Our extraterrestrial neighbors are reminding us of the importance of this alignment. In many ancient cultures, the snake is a symbol of rebirth, of transformation and the rise of consciousness. A snake is able to shed its skin, becoming reborn in its same body. Again the themes of metamorphosis arise. The snake also symbolizes the Kundalini energy, which awakens the third eye, also known as the pineal gland (The pineal gland is located at the very center of our brain; it is responsible for dreaming by secreting DMT; also known as a stargate portal). An awakened pineal gland opens us to psychic sensitivity, intuition, empathy; it’s through our pineal gland and heart center together, that we realize our true connection to Infinity. The serpent is also represented on the Mayan Pyramids, which also function as calendars. Briefly, each layer symbolizes a period of human consciousness. As we ascend the pyramid, our consciousness rises. We are currently in the top layer of the pyramid now; we are immersed in a rapidly evolving world of technology, which allows us to multitask, stay connected to thousands of people and have access to infinite information. We are also made aware of the suffering around the world, which also raises our empathy and invites us to come together to create solutions (Aquarius=humanitarian). Many of us simply wonder, “Where does all the time go?” It may be difficult to see from the inside, but we are in the midst of a global metamorphosis, a leap in consciousness. We are realizing both spiritually and scientifically that we are one with the Universe; nothing separates us. The suffering of one is felt by all. Harmony becomes contagious. We are awakening to the Truth of who we are, collectively and individually. Perhaps the Serpent in the Crop circle is also depicting the rise of the Earth’s Kundalini, our collective awakening of consciousness; as he passes through the Earth, both the snake and the Earth appear to be one. On a final note, our solar system has a new visitor, known as Comet Elenin. He’s been loudly making himself known, yet you won’t hear about him on the nightly news. Not just yet, anyway! Each time Elenin makes an alignment with the Earth, we experience earthquakes and other natural disasters. As one mass interacts with another, the reaction has an equal and opposite effect on each mass. Gravity is a primary law of physics. Elenin is believed to be a “brown dwarf star,” a star that has used all of its fuel and collapsed in on itself, resulting in a very dense mass. In other words, Comet Elenin is the size of Jupiter, but with much greater density. When such an enormous mass aligns with the Earth, the effects can be catastrophic. Elenin’s most recent alignment with the Earth (and the Sun) was on March 11th 2011, resulting in a disastrous 9.0 earthquake in Japan, Tsunamis and Nuclear meltdowns. (*More information about Comet Elenin is available on the NASA website; there are also many YouTube videos covering comet Elenin’s orbit.) Here’s a link with a chart of Comet Elenin’s alignments with the Earth. It lists previous alignments and the subsequent Earthquakes. The chart also lists future alignments. Interestingly, the final alignment is on December 21st 2012. Please check it out: http://www.ufo-blogger.com/2011/04/nasa-elenin-2011-comet-planetary.html So, what is this sphere (I’ve circled it in yellow)? We can only speculate. It’s my suggestion that it is Elenin. Is this a warning from our Extraterrestrial neighbors? I believe this crop circle is multidimensional in its meaning, emphasizing the importance of several planetary alignments. Ultimately, I feel it is connected to our current astrological alignments as mentioned above, which are preparing us for the 11/11/11 portal; furthermore, I believe this symbol reveals the astronomical/astrological events of November. · - The chart from the link above states that on November 2nd, 2011, the Earth enters Elenin’s tail. · - One week later, November 9th, 2011: Neptune (symbolized by the serpent’s tongue) turns direct. · - November 10th 2011: New Moon in Scorpio, ruler of rebirth, regeneration and transformation · - November 11th 2011: the 11/11/11 portal; Elenin Alignment: Venus, Mercury, Earth, Elenin. This is really major (Check out the simulation by clicking on the link; adjust the date to Nov. 11, 2011). From our perspective on Earth, Mercury and Venus are, again, in alignment, reminding us of the August 16th alignment of Venus, Sun, Mercury and Earth at 22 Leo. (Mercury and Venus are conjunct October 30th-November 12th, 2011.) Needless to say, we have quite eventful times ahead. Birth is exciting, painful, stressful and beautiful all at the same time. We must not fear the worst; the August alignments remind us that we are protected and give us the tools we need: Love heals all wounds, no matter how big or small. In the event of a natural disaster, we are able to come together from all over the world and help each other when we are in need. We are getting good at this now! This newfound interconnection and global awareness of one another is an Aquarian archetype; it is one of many proofs that we are indeed emerging into the Aquarian Age. Peace, Love and Light. -Gemstar",
+        "display_name": "Cosmic Alignments in Leo: nearing the 11/11/11 Portal",
+        "favicon_images": {
+            "50x": "https://i.pinimg.com/favicons/50x/365f621d7cb69b0caa6e396ceadb2f87dc99f4702f3a75267eb39dc5.png?59a0c7b6e4848ccdabcea0636efda02b",
+            "orig": "https://i.pinimg.com/favicons/365f621d7cb69b0caa6e396ceadb2f87dc99f4702f3a75267eb39dc5.ico?59a0c7b6e4848ccdabcea0636efda02b"
+        },
+        "favicon_link": "https://i.pinimg.com/favicons/365f621d7cb69b0caa6e396ceadb2f87dc99f4702f3a75267eb39dc5.ico?59a0c7b6e4848ccdabcea0636efda02b",
+        "id": "2c81915b253403af8984b91d700a3ea4",
+        "products": [],
+        "site_name": "gemstarluminus.blogspot.co.uk",
+        "type": "richpingriddata",
+        "type_name": "article",
+        "url": "http://gemstarluminus.blogspot.co.uk/2011/08/cosmic-alignments-in-leo-nearing-111111.html"
+    },
+    "shopping_flags": [],
+    "sponsorship": null,
+    "story_pin_data": null,
+    "story_pin_data_id": null,
+    "subcategory": "board",
+    "title": "",
+    "tracking_params": "CwABAAAAEDQzNDQwOTMzNzY2NDYwNTEGAAMAAQsABwAAAApuZ2FwaS9wcm9kAA",
+    "type": "pin",
+    "url": "https://i.pinimg.com/originals/a6/84/36/a68436bc4976fe4ddd420777e611e219.jpg",
+    "video_status": null,
+    "video_status_message": null,
+    "videos": null,
+    "view_tags": [],
+    "width": 925
+}

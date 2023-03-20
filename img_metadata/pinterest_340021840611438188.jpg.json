@@ -1,0 +1,964 @@
+{
+    "access": [],
+    "ad_match_reason": 0,
+    "additional_hide_reasons": [],
+    "aggregated_pin_data": {
+        "aggregated_stats": {
+            "done": 0,
+            "saves": 33
+        },
+        "creator_analytics": null,
+        "did_it_data": {
+            "details_count": 0,
+            "images_count": 0,
+            "rating": -1,
+            "recommend_scores": [
+                {
+                    "count": 0,
+                    "score": 1
+                },
+                {
+                    "count": 0,
+                    "score": 0.5
+                },
+                {
+                    "count": 0,
+                    "score": 0
+                }
+            ],
+            "recommended_count": 0,
+            "responses_count": 0,
+            "tags": [],
+            "type": "aggregateddiditdata",
+            "user_count": 0,
+            "videos_count": 0
+        },
+        "has_xy_tags": false,
+        "id": "4835185937547800323",
+        "is_shop_the_look": false
+    },
+    "alt_text": null,
+    "attribution": null,
+    "board": {
+        "access": [],
+        "allow_homefeed_recommendations": true,
+        "archived_by_me_at": null,
+        "blocking_actions": [],
+        "board_order_modified_at": "Thu, 14 Jul 2022 03:39:33 +0000",
+        "category": "other",
+        "collab_board_email": false,
+        "collaborated_by_me": false,
+        "collaborator_count": 0,
+        "collaborator_invites_enabled": false,
+        "collaborator_permissions": [
+            1,
+            6,
+            7,
+            9,
+            8,
+            11,
+            3,
+            15
+        ],
+        "collaborator_permissions_setting": 1,
+        "collaborator_requests_enabled": false,
+        "cover_pin": {
+            "image_signature": "6b99475aed453a7e6ec7283e4cdfd542",
+            "pin_id": "340021840599132999",
+            "timestamp": 1468202875
+        },
+        "description": "",
+        "event_date": null,
+        "event_start_date": null,
+        "followed_by_me": false,
+        "follower_count": 283,
+        "id": "340021909305902045",
+        "image_cover_url": "https://i.pinimg.com/200x150/6b/99/47/6b99475aed453a7e6ec7283e4cdfd542.jpg",
+        "images": {
+            "474x": [
+                {
+                    "dominant_color": "#47494A",
+                    "height": 711,
+                    "url": "https://i.pinimg.com/474x/f1/d5/b2/f1d5b2eda98301ffef970830bf5f7cf8.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#7C784A",
+                    "height": 316,
+                    "url": "https://i.pinimg.com/474x/db/58/7a/db587acb47d6117413aebff246cf5106.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#95969A",
+                    "height": 600,
+                    "url": "https://i.pinimg.com/474x/ad/7f/66/ad7f668c9760841ab6b312079790e13d.jpg",
+                    "width": 400
+                },
+                {
+                    "dominant_color": "#8C6B3E",
+                    "height": 416,
+                    "url": "https://i.pinimg.com/474x/ab/91/6e/ab916ecf0d298148aa912adf084178bc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B5914C",
+                    "height": 187,
+                    "url": "https://i.pinimg.com/474x/4a/ab/c5/4aabc5aaa95939f1b26eeb4a9affff69.jpg",
+                    "width": 236
+                },
+                {
+                    "dominant_color": "#B5A06E",
+                    "height": 424,
+                    "url": "https://i.pinimg.com/474x/2a/64/85/2a64850251968c5c46d2fc51055f223e.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#527B2A",
+                    "height": 355,
+                    "url": "https://i.pinimg.com/474x/b2/74/a4/b274a4c0c0af82b0357b40fa9fa4fffc.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A78543",
+                    "height": 324,
+                    "url": "https://i.pinimg.com/474x/db/44/4e/db444e72ed4fd6867bc61e8d1919e9cf.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#A28660",
+                    "height": 418,
+                    "url": "https://i.pinimg.com/474x/4c/af/4c/4caf4cc04ac7c77d0188136d2a1e2dde.jpg",
+                    "width": 474
+                },
+                {
+                    "dominant_color": "#B69267",
+                    "height": 313,
+                    "url": "https://i.pinimg.com/474x/34/d7/97/34d797b3c8cb0694a6858d717cf84fbd.jpg",
+                    "width": 474
+                }
+            ]
+        },
+        "is_ads_only": false,
+        "is_collaborative": false,
+        "layout": "default",
+        "map_id": "pinterest.ijz1714i",
+        "name": "crop circles",
+        "owner": {
+            "ads_only_profile_site": null,
+            "blocked_by_me": false,
+            "domain_url": null,
+            "first_name": "kim",
+            "full_name": "kim hinkle",
+            "id": "340021978025015150",
+            "image_medium_url": "https://s.pinimg.com/images/user/default_75.png",
+            "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+            "image_xlarge_url": "https://s.pinimg.com/images/user/default_280.png",
+            "indexed": true,
+            "is_ads_only_profile": false,
+            "is_partner": false,
+            "is_tastemaker": false,
+            "last_name": "",
+            "locale": "en-US",
+            "type": "user",
+            "username": "kandchinkle"
+        },
+        "pin_count": 4972,
+        "privacy": "public",
+        "section_count": 0,
+        "sectionless_pin_count": 4972,
+        "seo_canonical_domain": "www.pinterest.com",
+        "seo_description": "Jul 14, 2022 - Explore kim hinkle's board \"crop circles\", followed by 283 people on Pinterest. See more ideas about crop circles, cropped, circle.",
+        "seo_noindex_reason": null,
+        "seo_related_interests": [
+            {
+                "image": {
+                    "1200x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/1200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 170,
+                        "url": "https://i.pinimg.com/170x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 192,
+                        "url": "https://i.pinimg.com/192x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 200,
+                        "url": "https://i.pinimg.com/200x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 222,
+                        "url": "https://i.pinimg.com/222x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 236,
+                        "url": "https://i.pinimg.com/236x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 237,
+                        "url": "https://i.pinimg.com/237x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 290,
+                        "url": "https://i.pinimg.com/290x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 345,
+                        "url": "https://i.pinimg.com/345x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 400,
+                        "url": "https://i.pinimg.com/400x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 474,
+                        "url": "https://i.pinimg.com/474x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 550,
+                        "url": "https://i.pinimg.com/550x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 564,
+                        "url": "https://i.pinimg.com/564x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 600,
+                        "url": "https://i.pinimg.com/600x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/640x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/736x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "750x": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/750x/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 640,
+                        "url": "https://i.pinimg.com/originals/20/2a/ef/202aef8030eb2fc4356613059278543e.jpg",
+                        "width": 640
+                    }
+                },
+                "name": "Sacred Geometry",
+                "url": "/ideas/sacred-geometry/901152072692/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/1200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 238,
+                        "url": "https://i.pinimg.com/170x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 269,
+                        "url": "https://i.pinimg.com/192x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 280,
+                        "url": "https://i.pinimg.com/200x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 311,
+                        "url": "https://i.pinimg.com/222x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 330,
+                        "url": "https://i.pinimg.com/236x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 332,
+                        "url": "https://i.pinimg.com/237x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 406,
+                        "url": "https://i.pinimg.com/290x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 483,
+                        "url": "https://i.pinimg.com/345x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 560,
+                        "url": "https://i.pinimg.com/400x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 664,
+                        "url": "https://i.pinimg.com/474x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 770,
+                        "url": "https://i.pinimg.com/550x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 790,
+                        "url": "https://i.pinimg.com/564x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 840,
+                        "url": "https://i.pinimg.com/600x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 896,
+                        "url": "https://i.pinimg.com/640x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 98,
+                        "url": "https://i.pinimg.com/70x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 1031,
+                        "url": "https://i.pinimg.com/736x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 1050,
+                        "url": "https://i.pinimg.com/750x/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 1219,
+                        "url": "https://i.pinimg.com/originals/66/e1/56/66e1560c316d8526b443734f7d2d6394.jpg",
+                        "width": 870
+                    }
+                },
+                "name": "Geometry",
+                "url": "/ideas/geometry/926306432669/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/1200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 212,
+                        "url": "https://i.pinimg.com/170x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 240,
+                        "url": "https://i.pinimg.com/192x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 250,
+                        "url": "https://i.pinimg.com/200x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 277,
+                        "url": "https://i.pinimg.com/222x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 295,
+                        "url": "https://i.pinimg.com/236x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 296,
+                        "url": "https://i.pinimg.com/237x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 362,
+                        "url": "https://i.pinimg.com/290x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 431,
+                        "url": "https://i.pinimg.com/345x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 500,
+                        "url": "https://i.pinimg.com/400x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/474x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "550x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/550x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "564x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/564x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "600x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/600x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/640x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "70x": {
+                        "height": 87,
+                        "url": "https://i.pinimg.com/70x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/736x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "750x": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/750x/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 563,
+                        "url": "https://i.pinimg.com/originals/4a/ba/84/4aba8477db844447e1fdf8b8ea1ac780.jpg",
+                        "width": 450
+                    }
+                },
+                "name": "Land Art",
+                "url": "/ideas/land-art/952166851654/"
+            },
+            {
+                "image": {
+                    "1200x": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/1200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    },
+                    "136x136": {
+                        "height": 136,
+                        "url": "https://i.pinimg.com/136x136/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 136
+                    },
+                    "150x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/150x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 150
+                    },
+                    "170x": {
+                        "height": 113,
+                        "url": "https://i.pinimg.com/170x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 170
+                    },
+                    "192x": {
+                        "height": 127,
+                        "url": "https://i.pinimg.com/192x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 192
+                    },
+                    "200x": {
+                        "height": 133,
+                        "url": "https://i.pinimg.com/200x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "200x150": {
+                        "height": 150,
+                        "url": "https://i.pinimg.com/200x150/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 200
+                    },
+                    "216x146": {
+                        "height": 146,
+                        "url": "https://i.pinimg.com/216x146/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 216
+                    },
+                    "222x": {
+                        "height": 147,
+                        "url": "https://i.pinimg.com/222x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 222
+                    },
+                    "236x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/236x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 236
+                    },
+                    "237x": {
+                        "height": 157,
+                        "url": "https://i.pinimg.com/237x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 237
+                    },
+                    "290x": {
+                        "height": 193,
+                        "url": "https://i.pinimg.com/290x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 290
+                    },
+                    "30x30": {
+                        "height": 30,
+                        "url": "https://i.pinimg.com/30x30/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 30
+                    },
+                    "345x": {
+                        "height": 229,
+                        "url": "https://i.pinimg.com/345x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 345
+                    },
+                    "400x": {
+                        "height": 266,
+                        "url": "https://i.pinimg.com/400x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "400x300": {
+                        "height": 300,
+                        "url": "https://i.pinimg.com/400x300/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 400
+                    },
+                    "432x292": {
+                        "height": 292,
+                        "url": "https://i.pinimg.com/432x292/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 432
+                    },
+                    "45x45": {
+                        "height": 45,
+                        "url": "https://i.pinimg.com/45x45/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 45
+                    },
+                    "474x": {
+                        "height": 315,
+                        "url": "https://i.pinimg.com/474x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 474
+                    },
+                    "550x": {
+                        "height": 366,
+                        "url": "https://i.pinimg.com/550x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 550
+                    },
+                    "564x": {
+                        "height": 375,
+                        "url": "https://i.pinimg.com/564x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 564
+                    },
+                    "600x": {
+                        "height": 399,
+                        "url": "https://i.pinimg.com/600x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 600
+                    },
+                    "60x60": {
+                        "height": 60,
+                        "url": "https://i.pinimg.com/60x60/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 60
+                    },
+                    "640x": {
+                        "height": 426,
+                        "url": "https://i.pinimg.com/640x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 640
+                    },
+                    "70x": {
+                        "height": 46,
+                        "url": "https://i.pinimg.com/70x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "70x70": {
+                        "height": 70,
+                        "url": "https://i.pinimg.com/70x70/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 70
+                    },
+                    "736x": {
+                        "height": 490,
+                        "url": "https://i.pinimg.com/736x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 736
+                    },
+                    "750x": {
+                        "height": 499,
+                        "url": "https://i.pinimg.com/750x/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 750
+                    },
+                    "75x75": {
+                        "height": 75,
+                        "url": "https://i.pinimg.com/75x75/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 75
+                    },
+                    "90x90": {
+                        "height": 90,
+                        "url": "https://i.pinimg.com/90x90/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 90
+                    },
+                    "originals": {
+                        "height": 533,
+                        "url": "https://i.pinimg.com/originals/c8/4e/24/c84e241e4ac48669053ad6dacc4574ca.jpg",
+                        "width": 800
+                    }
+                },
+                "name": "Crop Circles Photography",
+                "url": "/ideas/crop-circles-photography/924199160619/"
+            }
+        ],
+        "seo_title": "900+ Crop circles ideas | crop circles, cropped, circle",
+        "should_show_more_ideas": true,
+        "should_show_shop_feed": false,
+        "topic": null,
+        "type": "board",
+        "url": "/kandchinkle/crop-circles/",
+        "viewer_collaborator_join_requested": false,
+        "viewer_contact_request": null
+    },
+    "carousel_data": null,
+    "category": "pinterest",
+    "comment_count": 0,
+    "comments": {
+        "bookmark": null,
+        "data": [],
+        "uri": "/v3/pins/340021840611438188/comments/"
+    },
+    "created_at": "Thu, 17 May 2018 12:27:39 +0000",
+    "creator_analytics": null,
+    "debug_info_html": null,
+    "description": "Звезда Апокалипсиса: Круги на полях - предупреждение о будущем катаклизме",
+    "description_html": "Звезда Апокалипсиса: Круги на полях - предупреждение о будущем катаклизме",
+    "domain": "isi-2025.blogspot.com",
+    "dominant_color": "#dacb91",
+    "done_by_me": false,
+    "embed": null,
+    "extension": "jpg",
+    "favorite_user_count": 0,
+    "favorited_by_me": false,
+    "filename": "57b77260d5c0573034e8b0321c836033",
+    "grid_description": "Звезда Апокалипсиса: Круги на полях - предупреждение о будущем катаклизме",
+    "grid_title": "Круги на полях - предупреждение о будущем катаклизме",
+    "has_required_attribution_provider": false,
+    "height": 305,
+    "id": "340021840611438188",
+    "image_crop": {
+        "max_y": 1,
+        "min_y": 0
+    },
+    "image_signature": "57b77260d5c0573034e8b0321c836033",
+    "images": {
+        "136x136": {
+            "height": 136,
+            "url": "https://i.pinimg.com/136x136/57/b7/72/57b77260d5c0573034e8b0321c836033.jpg",
+            "width": 136
+        },
+        "170x": {
+            "height": 103,
+            "url": "https://i.pinimg.com/170x/57/b7/72/57b77260d5c0573034e8b0321c836033.jpg",
+            "width": 170
+        },
+        "236x": {
+            "height": 143,
+            "url": "https://i.pinimg.com/236x/57/b7/72/57b77260d5c0573034e8b0321c836033.jpg",
+            "width": 236
+        },
+        "474x": {
+            "height": 289,
+            "url": "https://i.pinimg.com/474x/57/b7/72/57b77260d5c0573034e8b0321c836033.jpg",
+            "width": 474
+        },
+        "736x": {
+            "height": 305,
+            "url": "https://i.pinimg.com/736x/57/b7/72/57b77260d5c0573034e8b0321c836033.jpg",
+            "width": 500
+        },
+        "orig": {
+            "height": 305,
+            "url": "https://i.pinimg.com/originals/57/b7/72/57b77260d5c0573034e8b0321c836033.jpg",
+            "width": 500
+        }
+    },
+    "is_downstream_promotion": false,
+    "is_eligible_for_pdp": false,
+    "is_eligible_for_related_products": false,
+    "is_eligible_for_web_closeup": false,
+    "is_native": false,
+    "is_oos_product": false,
+    "is_playable": false,
+    "is_promoted": false,
+    "is_quick_promotable": false,
+    "is_repin": true,
+    "is_stale_product": false,
+    "is_uploaded": false,
+    "is_video": false,
+    "is_whitelisted_for_tried_it": true,
+    "link": "http://isi-2025.blogspot.com/2011/12/blog-post_18.html",
+    "manual_interest_tags": null,
+    "media_id": "",
+    "method": "extension",
+    "native_creator": null,
+    "num": 0,
+    "pinner": {
+        "ads_only_profile_site": null,
+        "blocked_by_me": false,
+        "explicitly_followed_by_me": false,
+        "full_name": "kim hinkle",
+        "id": "340021978025015150",
+        "image_large_url": "https://s.pinimg.com/images/user/default_140.png",
+        "image_small_url": "https://s.pinimg.com/images/user/default_30.png",
+        "is_ads_only_profile": false,
+        "type": "user",
+        "username": "kandchinkle"
+    },
+    "price_currency": "USD",
+    "price_value": 0,
+    "privacy": "public",
+    "product_pin_data": null,
+    "promoted_is_lead_ad": false,
+    "promoted_is_removable": false,
+    "promoted_lead_form": null,
+    "promoter": null,
+    "reaction_counts": {},
+    "repin_count": 2,
+    "rich_summary": {
+        "actions": [],
+        "apple_touch_icon_images": null,
+        "apple_touch_icon_link": null,
+        "display_description": "Симонов В.А. Тифон приближается к Земле. Рисунки в виде колец, кругов и других геометрических фигур, образованных на полях полегшими растениями, появляются на полях со времен Древнего Рима. Они периодически появляются во многих странах мира: Англия, Франция, Голландия, Япония, Германия, Россия, Украина, Польша, Канада и др. странах. В настоящее время имеются около 9 тысяч фотографий с изображениями различных загадочных объектов. В основном это изображение звездообразных объектов, кругов и фрактальных фигур. Кто же «автор» этих многочисленных рисунков и для чего они предназначены. Человеку, изменить структуру клеток растений, не повреждая их, явно не под силу. Возможно, рисунки на полях – это предупреждение инопланетных цивилизаций всему человечеству о приближающемся катаклизме. Мышление пришельцев трудно понять, но логика и математика у всех разумных существ должна быть одинаковой. О чем же нас предупреждают представители внеземного разума? В многочисленных мифах, легендах и древних исторических документах содержится множество информации о массивном звездообразном объекте, который посещает нашу Солнечную систему с периодом 4 -5 тысяч лет. Предположительно, это потухшая нейтронная звезда класса \"пропеллер\", которую наше светило захватило своим тяготением сравнительно недавно. Звезда и ее корона. Круги на орбите вокруг звезды - 4 наиболее крупных спутника. В нашей Галактике, по предположениям астрономов, находится около миллиарда нейтронных звезд, которые при незначительных размерах – 5–20 км и массой 0,01 – 2 солнечных масс, обладают сильным магнитным полем (порядка 1011-1012 Гс.) и огромной скоростью вращения вокруг своей оси. Погасшие нейтронные звёзды класса \"пропеллер\" ( не путать с пульсарами) зафиксировать очень сложно, так как они не излучают в оптическом диапазоне электромагнитных волн, а у «потухших» нейтронных звезд отсутствует и радиоизлучение. Светиться такая звезда может только при аккреции - выпадении вещества на ее поверхность. В египетском папирусе «Книга о том, что в ином мире» указывается диаметр звезды - 1300 локтей. Если это царский локоть, то ее диаметр всего 670 метров.Масса этого небесного тела больше чем у Юпитера, но значительно меньше солнечной. Масса звезды со временем уменьшается за счет эмиссии нейтронов с ее поверхности. Согласно многочисленным сведениям содержащихся в древних легендах и преданиях, это массивное тело сопровождает 11 спутников (возможно, обломки астероидов захваченных при прохождении звезды через Солнечную систему) и два мелких, обширная темная туманность и газопылевой шлейф. Цвет объекта черно-коричневый. При аккреции (выпадении вещества на его поверхность), и выделении кинетической энергии, его цвет изменяется на красный или ослепительно белый. Обнаружить такой объект, который окружен обширным газопылевым облаком, на большом расстоянии достаточно сложно. Большинство изображений на полях – звезды или звездообразные объекты. Возможно, это изображения нейтронной звезды, которая уже приближается к нашей планете. Древние греки называли это небесное тело Тифон или Медуза Горгона, шумеры - Тиамат, египтяне - Сет, Змей Апоп, Хуракан (индейцы племени киче), Радж-звезда, Гаруда, Шива (Индия), Красноволосый дракон (Китай), Великий Змей (ацтеки), Змей-Радуга (аборигены Австралии). Более подробные сведения о приближении необычной звезды в блоге. http://isi-2025.blogspot.com/2011/04/blog-post_12.html Пророчества (архив за 2011 г). Рис. № 1. Звезда. Рисунок на полях (прорисовка). Изображение Медузы Горгоны (антропоморфное изображение звезды) на Горгонионе (щит). Греция. Звезда скифов с головами драконов. Исходя из теоретических разработок моделей нейтронных звёзд, следует, что при выпадении вещества захваченного звездой на её поверхность в результате взаимодействия с магнитным полем (гравитационным притяжением и кинетической энергией падающего вещества), возникнет сложная картина вихревых движений. Вещество будет приближаться к звезде по самым разнообразным траекториям. По одним секторам звезды приближаться, и удаляться по другим, образуя петли, спиральные протуберанцы выбросы захваченного вещества и плазмы из своей короны. Это так называемые режимы «пропеллера» и «эжекции». Нейтронную звезду размером 5-20 км никто из астрономов в телескоп не наблюдал, но она должна выглядеть как быстровращающийся крест (сглаженная свастика). Свастика. Петроглифы, наскальные рисунки: http://isi-2025.blogspot.com/2012/02/blog-post_2780.html Рис. № 2. Четырехлучевая звезда. Рисунок на полях. Рис. № 3. Быстровращающаяся звезда и ее корона в виде лучей. Справа изображение похожее на ключ. Возможно, создатели кругов на полях намекают, что это ключ к многочисленным рисункам на полях с изображениями звезды. Германия (Бавария). Звезда и ее корона. Рис. № 4. Протуберанцы нейтронной звезды в состоянии аккреции. В древней Греции Медуза Горгона – это одно из названий нейтронной звезды. Горгоны, в греческой мифологии, - крылатые чудовища со змеями вместо волос, взгляд которых был смертелен для обычного человека (возможно, рентгеновское излучение звезды). На одном из рисунков на полях Англии (Кингстоун) имеется изображение напоминающее Медузу. Вероятно, так выглядит звезда, которую сопровождает обширное газопылевое пылевое облако. В ее хвосте и в облаке нарисовано 11 спутников, Это еще раз подтверждает, что на рисунке изображена нейтронная звезда. Рис. №5. 182-метровая Медуза на поле ячменя в Кингстоуне, Оксфордшир. Необычный небесный объект, который обнаружили с помощью телескопа Wise за орбитой Нептуна в инфрокрасном спектре эл. волн, очень похож на четырехлучевую нейтронную звезду класса \"пропеллер\". В \"хвосте\" звезды отчетливо просматриваются ее спутники. Многие рисунки на полях изображают это же небесное тело. Рис. № 6 . Звезда-комета с длинным шлейфом. Рисунок на полях. Луна, Дракон и Солнце. Справа - прорисовка картинки на полях. В Китае и Южной Америке Это небесное изображали в виде двуглавого Дракона. После сближения с Солнцем у звезды появился огромный газовый шлейф состоящий из вещества захваченного у Солнца. http://isi-2025.blogspot.com/2012/03/blog-post_08.html Знал о этом необычном небесном теле и Нострадамус. Причем он конкретно называл виновника будущего катаклизма - Тифон. Его пророчества о появлении \"страшной звезды\". http://isi-2025.blogspot.com/2011/12/blog-post.html Рисунок на полях и рисунок из \"Потерянной книги Нострадамуса\". Подобные изображения встречаются не только на полях. Имеются многочисленны наскальные рисунки и петроглифы с изображением этого небесного тела. Двуглавый Змей. Древний геоглиф в штате Онтарио. Трехглавый Тифон. Греция. Дракон - звезда: http://isi-2025.blogspot.com/2012/03/blog-post_08.html Петроглифы Хакасии. Россия: http://isi-2025.blogspot.com/2012/04/blog-post_06.html Возможно, изображая древние артефакта на полях, создатели рисунков пытаются привлечь наше внимание к будущей катастрофе, которая будет вызвана приближающейся звездой. Рисунок на полях Германии и древний артефакт с изображением крест-звезды. Рисунок на полях с изображением Луны, неизвестного небесного тела, возможно, звезды и артефакт из Нью Мехико. Рис. № 7 . Солнце и жук-скарабей. Украшение. Египет. В египетском папирусе под названием «Книга о том, что в ином мире» имеется описание «битвы» бога Ра с Апопом. Бог Солнца не может справиться с чудовищем и призывает других богов к совместной борьбе со Змеем, «который уже поглотил всю воду следующего часа, чтобы затруднить путь богу Ра, и заполнил своими изгибами 450 локтей» (вероятно, имеется ввиду угловые размеры Апопа на небосводе – Прим. С.В.) Сил одного Ра оказывается недостаточно для борьбы с ним – на помощь ему является змей Мехен, образуя своими изгибами, «род щита» вокруг него. Исида и другие богини своими заклинаниями связывают и уязвляют Апопа. Во время этого «сражения» наше светило проходит через змееобразный шлейф нейтронной звезды: «Канат барки (Ра) превращается в змея, чтобы вынести её на свет, а она сама проводится через тело змея в 1300 локтей…. Ра выходит из пасти змея уже не «плотью», а в виде «скарабея». Вероятно, в результате воздействия тяготения нейтронной звезды из атмосферы Солнца произошел выброс гигантских протуберанцев, и наше светило стало напоминать египтянам жука скарабея. На одном из современных рисунков на полях имеется аналогичное изображение жука-сакрабея. Возможно, во время очередного сближения нейтронной звезды с Солнцем произойдет аналогичный катаклизм, который описан в древнем египетском документе. Рис. № 8. Рисунок на полях. Жук скарабей проглатывающий Солнце. Египет. Тифон (Сет). http://isi-2025.blogspot.com/2012/07/blog-post_12.html Имеются и другие рисунки, которые напоминают жука скарабея, птицу или стрекозу. На некоторых из них изображены 11 спутников. Например, у «стрекозы» на поле ячменя в Ятесбери показаны спутники на фоне звезды. Крылья - символ движения, перемещения. Рис. № 9. 45 метровый рисунок «стрекозы» на поле ячменя в Ятесбери, Уилтшир. На шумерской цилиндрической печати имеется изображение звезды с 11 спутниками, которую они называли Тиамат (дракон). Во время сближения звезды с нашей планетой произошел Всемирный потоп, который был вызван притяжением нейтронной звезды (приливной волной). Ужасные бедствия, в отличие от потоп Ноя, продолжались семь дней. В вавилонских клинописных текстах год, когда произошел потоп, назывался «годом ревущего дракона». Рис. № 10. Звезда с 11 спутниками. Прорисовка фрагмента цилиндрической печати VA/243. Шумер, 4500 год до н.э.. Самый крупный из спутников древние шумеры и аккадцы называли Кингу. В «Эпосе о Гильгамеше» так повествует, о потопе, который длился семь дней и ночей: Что было светлым – во тьму обратилось, Вся земля раскололась, как чаша. Первый день бушует Южный ветер, Быстро налетел, затопил горы Словно войной людей настигая. Потопом буря покрывает землю, И всё человечество стало глиной… Рисунки с изображением звезды. Месопотамия. Шумер. http://isi-2025.blogspot.com/2012/04/blog-post_18.html Имеется и другие рисунки на полях, где изображено необычное небесное тело, которое сопровождает 11 спутников. Рис. № 12. Рисунок на полях. Спутники звезды. Возможно, один из них имеет своих сателлитов. Уилтшир. Графство Эйвбери. 25 июня 2012 г. Звезда и ее 11 спутников. Изображение одного из спутников размазано. Возможно, это символизирует движение, перемещение. В горах Армении имеются огромное количество наскальных рисунков, которые изображают карты звездного неба, солярные знаки и другие необычные явления на небосводе. В труде «Наскальные изображения Гегамских гор» (авторы - Мартиросян и Исраелян) опубликованы многочисленные петроглифы с рисунками различных событий древнего мира. На одном из них имеется изображение шарообразной Земли с людьми и антиподами на ее поверхности. Рядом с нашей планетой показана правосторонняя свастика и крест обозначающий вращение в разных направлениях. Несомненно, свастика – это упрощенное изображение быстровращающейся нейтронной звезды. Рис. № 13 . Наскальная пиктограмма в Гегамских горах. Армения. Звезда Апокалипсиса. Петроглифы Армении: http://isi-2012.blogspot.com/2012/04/blog-post_09.html Рис. № 14. Рисунок на полях с изображением креста и головами драконов. Золотая табличка индейцев навахо. Звезда в виде свастики и Солнце. Перемычка соединяющая два этих небесных тела - перетекание вещества от нейтронной звезды к Солнцу. http://isi-2025.blogspot.com/2012/03/blog-post.html http://isi-2025.blogspot.com/2012/03/blog-post_02.html Польша. 29 июня.2012 г. Возможно, изображено перетекание вещества между светилами. Солнце и звезда. Перемычка между ними перетекание вещества между светилами. Джулиан Gibsone. Каннингс канал. Возможно, на рисунке изображено максимальное сближение звезды и ее спутников с Солнцем. Солнце и звезда. Перемычка между ними перетекание вещества Крест - звезда. Рис. №. 15. Рисунок на полях. Крест, состоящий из 11 кругов. Возможно, это изображение спутников звезды. В более упрощенном виде вращающуюся звезду наши предки изображали в виде креста в круге. Таких наскальных рисунков на земном шаре очень много, но это не Солнце. Рядом с этим символом звезды люди каменного века, иногда, рисовали наше светило в виде точки в круге или шара с отходящими от него лучами. Так, обычно, рисуют Солнце маленькие дети. Рис. № 16 . Ухтасар. Крест-Солнце. Армения. Рис № 17. Оттиск с цилиндрической печати из Ниппура. Пахари, взирающие на крестообразное небесное тело. Крест - звезда и наше светило.Петроглиф. Штат Аризона. США. Прохождение крест - звезды рядом с Солнцем. Наскальный рисунок. Калифорния. Крест в круге на полях Франции. Рисунок на поле в Калифорнии. Очень похоже на древние наскальные рисунки с изображениями крест - звезды (Тифон). Второй объект, возможно, Нептун (четвертая планета внешней группы) и его спутники, рядом с которым обнаружен необычный небесный объект - с помощью телескопа Wise. (См рис. выше). Крест - звезда. Наскальный рисунок. США. Крест - звезда и Солнце. Петроглиф из Tore Mutrto. Другие рисунки крест - звезды в блоге: http://isi-2025.blogspot.com/2012/03/blog-post_02.html В преданиях и мифах практически всех древних народов сохранились описание нейтронной звезды, которую наши предки представляли в виде чудовищного дракона, гигантского Змея или антропоморфного существа. Изображений чудовищ с длинным вытянутым языком и волосами в виде змей встречаются практически во всех регионах нашей планеты. И это неудивительно. Катастрофы, которые нейтронная звезда учинила на Земле, в результате чего погибло почти всё население нашей планеты, надолго сохранились в памяти оставшихся в живых людей. Терракотовый этрусский антефикс (архитектурное украшение) очень реалистично изображает антропоморфную голову чудовища с вытянутым языком (гигантский протуберанец) и извивающимися змеями вместо волос, которые расположены вокруг всего контура лица. На заднем плане показана и корона нейтронной звезды. Этот рельеф, пожалуй, самое достоверное аллегорическое изображение Тифона. Рис. № 18. Тифон. Этрусский антефикс. Терракота. Музей Виллы Джулия. Рим. Схематическое изображение Тифона имеется на одном из рисунков на полях. Отчетливо просматривается голова Тифона, язык и корона звезды. Рис. № 19. Схематичное изображение Тифона. Рисунок на полях. Божество индейцев племени майя - Хуракан. Пожалуй, самое достоверное и точное изображение нейтронной звезды можно увидеть на многочисленных каменных и металлических древнерусских амулетах-змеевиках, которые защищали его обладателя по принципу – зло против зла. Количество найденных змеевиков при археологических раскопках достигает несколько сотен. Только в одном Историческом музее хранится 116 таких амулетов. Наиболее знаменитый - оберег Владимира Мономаха, который он потерял на охоте и случайно найденный в прошлом веке. На амулетах-змеевиках хорошо заметны змеевидные закрученные по спирали протуберанцы, которые изгибаются вследствие огромной скорости вращения нейтронной звезды вокруг своей оси и петли ионизированной плазмы захваченного нейтронной звездой вещества планет в её магнитном поле. На некоторых амулетах-змеевиках имеются надписи, выполненные на древнерусском, древнегреческом и неизвестном средневековом наречии, которые напоминают другие описания Тифона. Например, на золотом казанском змеевике написано (перевод Крузе): «Чёрная родительница очернила себя злом (или лучше яростью – прим. переводчика), пресмыкалась в прахе, как змея, и шипела, как дракон, и рычала, как лев, и была в ужасе как ягнёнок, когда победил её архангел Михаил», который согласно Апокалипсису (12:7-9) является победителем «великого дракона, древнего змия, называемого диаволом и сатаной». Надпись на черниговском амулете гласит (перевод Дестуниса): «Матица чёрная, почернелая, как змей, (ты) вьёшься, и как дракон, свищешь, и как лев, рычишь, и как ягнёнок, спишь». «Матица», по его расшифровке – это утроба. Имеются на амулетах-змеевиках надписи, состоящие всего из одного слова – дна (дъна). В Ипатьевской летописи встречается это же слово: «дна есть подступила», где «дна» обозначает «смерть» или «конец». В русской рукописи XV века говорится: «Дна… акы молниину подобству подобящися скорость имеет и во всё входит и горе, и долу, и в жилы, и в члены, и в кости». Молитва, защищающая от «дны» в славянской версии читается следующим образом: «Червленая и чёрная, власы и ногты связана от трёх ангел, что рыкаеши яко лев, яко вол яциши (вопит), яко козлище взыграеши». В мифологии, преданиях и сказках многих народов одна из основных тем посвящена огненным змеям и драконам. В старинных русских заклятиях имеется весьма точное описание нейтронной звезды: «Заклинаю змию облаковидную, огневидную, власяновидную (косматую), дубовсходную (вырывающую деревья), врановидную (тёмную, что ворон), змию слепую (т.е. помрачающую свет), чёрную, стрельную, триглавую, уедающую жены, ехидну морскую». В русском фольклоре имеются и другие описания этого небесного тела: «…он вертится словно мельница и что из него видна вся вселенная – все государства и земли как на ладони»; «повергает целые горы»; «испускает из уст своих воду, яко реку»; «проливает на сыру землю кровь змеиную». Рис. № 20. Русские амулеты-змеевики. См. http://isi-2025.blogspot.com/2012/02/blog-post_7516.html Рис. № 21. Гигантский змеевик на поле. В ацтекском астрономическом кодексе «Борджия», где изображены антропоморфные и зооморфные символы планет Солнечной системы, а также многочисленные сцены космических «сражений» в Солнечной системе, имеется любопытный рисунок небесного тела с многочисленными змеевидными отростками и длинным хвостом. Вероятно, в таком виде ацтекский художник зарисовал нейтронную звезду при ее максимальном сближении с нашей планетой. В центре изображения показана эмблема этого небесного тела – трапеция с головой дракона. Рис. № 22. Кодекс Борджия. Символическое изображение нейтронной звезды. Рис. № 23. Солнечная система и приближающаяся звезда с 11 спутниками. Любопытный случай произошел через несколько дней после появления этого изображения на поле (рис. № 23). Фермеру, почему то не понравилось, что на его поле кто-то безобразничает, и он решил уничтожить рисунок с помощью комбайна, но не успел. 23 июля 2008 года на месте Солнца было появился новый рисунок большего диаметра, новое Солнце. На этом же поле, рядом с изображением рисунка Солнечной системы, появился ещё один большой круг. Рядом с ним был нарисован овал с 11 кружками (спутники звезды), в котором расположен еще один круг – звезда. Это говорит о том, что нейтронная звезда уже приблизилась к Солнечной системе. Действительно, на окраинах нашей системы происходит что-то необычное. Астрономы НАСА зафиксировали «вспучивание» атмосферы Плутона на 3000 км. в одном направлении. Хотя в обычном состоянии атмосфера этой планеты простирается не далее 10 км от поверхности. Космическая станция Вояджер зафиксировала значительное увеличение магнитного поля за границей Солнечной системы. На Юпитере, Сатурне, Уране, Нептуне бушуют сильнейшие бури, стремительно изменяются магнитные поля планет, в том числе и Земли. Возможно, эти аномальные явления вызваны тяготением и сильным магнитным полем приближающейся нейтронной звезды. Удивительно, но изображение на рисунке 23 очень похоже на наскальный рисунок у древней обсерватории в Армении, где показано прохождение звезды рядом с нашим светилом (см. рис № 24). Рис. № 24. Пиктограмма у древней астрономической обсерватории у горы Севсар. Армения. Мартунийский р-он. Прорисовка Мартиросяна А. А. Исраеляна А. Р. В районе древней астрономической обсерватории у горы Севсар (Армения) имеется любопытная пиктограмма, где изображена траектория прохождения нейтронной звезды рядом с Солнцем. По мере сближения с нашим светилом объект изменял свою форму, направление движения, цвет и светимость. Если рассматривать траекторию перемещения звезды против часовой стрелки, на что указывает стрелка в нижней части наскального рисунка, то вначале объект выглядел как вращающийся крест. Колесо рядом с крестиками – это символ движения или вращения у древних армян. Далее изображена звезда с ее 11 спутниками. При приближении этого небесного тела к Солнцу произошел выброс вещества нейтронной звезды в направлении нашего светила. Это явление выглядит как протуберанец в виде свернувшегося дракона. Под воздействием тяготения Солнца активизировались процессы выделения энергии на поверхности нейтронной звезды, и ее цвет становится белым. Извилистые линии в левой части пиктограммы – это, возможно, газопылевые облака в Солнечной системе образовавшихся в результате этой ужасной небесной «битвы» Рис. № 25. Солнечная система. Рисунок на полях (прорисовка рис. 23) На некоторых рисунках имеются изображения звезды рядом с Луной. В далеком прошлом уже происходило нечто подобное. Это событие подробно описано древнегреческим поэтом Нонном Панополитанским. Рис. № 26. Луна и быстровращающаяся звезда. Рисунок на полях. В греческой мифологии («Тифония», Нонна), которую он написал основываясь на более древних источниках, имеется сведения о воздействии Тифона на Луну во время его последнего появления в районе земной орбиты. При этом спутник Земли выписывал невероятные эволюции на небосводе: Несколько раз он хвастливой рукою поражал отрешённых Им от ярма у Селены быков, что, шатаясь, мычали, И останавливал этих сходных с собою животных Или же всех запряжённых быков направлял задним ходом, Белые им хомуты – это знак божества – разрывая И разливая губительный свист ядовитой ехидны. Но Титанида нападающему не уступала: Сопротивлялась Гиганту с такими же точно рогами, Бычьих рогов заостряла светящиеся закругления… С грохотом двигаясь, хор неподвижных и непоколебимых Звёзд настигала, напротив блуждающих (планет); эхом гремела По небесам в пустоте, до средины вонзаясь, прямая Ось небосвода; смотря на зверьё, Орион, как охотник, Вынул свой меч из ножен, и, когда им вооружился, Светлые рёбра клинка из Танагры заискрились в небе. Из огнедышащей пасти своей, исторгая сиянье, Звёздной глоткой возжаждавший Пёс волновался ужасно, С пламенным лаем скакал, но рычание его не привычных Зайцев встречало, а пар от зубов Тифоеевых чудищ. Круги на полях. Англия. 20. 06. 2012 г. Земля, звезда с \"хвостом\" (в таком виде ее изображали на некоторых наскальных рисунках\") и Луна. В 1972 году в одном из монастырей в Болонье была найдена рукопись, так называемая «Вечная книга», в которой дается прогноз развития нашей цивилизации до 6323 года включительно. В 1981 и 1984 гг. в Италии была издана книга Б. Башера с текстами рукописи Р. Неро с подробными комментариями. Вот одно из предсказаний монаха: «На небе будет два Солнца и две Луны. Не будет ночи. Земля превратится в пылающий ад. На земле невозможно будет жить. Лишь в воздухе и под землей будет спасение живущим. Будет построено восемь подземных городов. С гор будут спилены вершины. Люди смогут жить лишь на горах. Многие люди ослепнут от света двух Солнц; Поднимутся огромные волны. Они затопят половину земной тверди, а затем откатятся (приливная волна). На севере снега и льды растают. На полюсах появятся обширные цветущие земли; Новая Луна будет меньше размером и ближе к Земле, чем старая Луна. Новая Луна будет так же хорошо видна с Земли, как и старая. Когда люди увидят на небе свет двух Солнц и двух Лун, тогда придет на Землю Антихрист – Сатана на коне с тремя головами. Новое Солнце будет покровительствовать религии Сатаны». Бенджамин Парравикини (1898-1974) – аргентинский художник, автор многочисленных пророчеств о будущем человечества, многие из которых уже исполнилось. Свои предсказания он иллюстрировал рисунками. Предсказания о появлении новой Луны: «Планета пострадает от небесного объекта, который придет из пространства. Это будет на планете Земля. Разрушения от катаклизма будут на юге Северного полушария, где начнется их большая часть. Тогда земной мир встряхнет как на вулкане, когда он вырвет кусок «Южной Америки» и разбросает на высоких вершинах «Сунна». Снова новая темнота, новая (приливная) волна, новый поворот (оси), снова новые моря в провалах и еще одна новая Луна для освещения». И.И. Шапошников из города Сальска Ростовской области, который получает информацию от пришельцев, сообщает: «Мои ночные гости из иных миров, - говорит Шапошников, - настаивают на том, чтобы я сообщал о сути наших бесед всем подряд. Они говорят: «В этом – твоя миссия…». Я должен передать всем людям Земли, что очень скоро произойдёт приход «второй Луны» в земные небеса. И это небесное тело может погубить всё живое на планете, если «вторую Луну» не отразить вовремя. Ведь она потащит за собой и атмосферу, и воду из океанов. У неё будет очень мощная гравитационная тяга, или сила притяжения. «Вторая Луна» не рухнет на Землю. Она пройдёт в опасной близости от нашей планеты. Будет несколько дней сиять в небе подобно новой Луне…, на Земле начнутся величайшие в истории беды – землетрясения, сверхураганы». Сравнительно недавно на полях Италии появился рисунок на полях, где имеется изображение планет внутренней группы: Меркурий, Венера, Земля и Марс, а также созвездие Рак. От созвездия показана траектория приближения некоего объекта приближающегося к Солнечной системе. Имеется любопытное предсказание Нострадамуса о появлении \"косматой\" звезды к нашей планете. В своих центуриях пророк в нескольких катренах предсказывает события, которые должны произойти, во время прохождения нейтронной звезды рядом с нашей планетой. 6 – 6 К северу появится Недалеко от (знака) Рака косматая звезда. Суза, Сиена, Беотия, Эретрия. Умрет великий Рима, ночь исчезла. Рис. № 27 . Италия. Возможно, при появлении второго «солнца» на земном небосводе появится новое ночное светило. На одном из рисунков на полях показана траектория, по которой некий объект приближается или удаляется от Земли. Последний раз Тифон сближался с Землей 1500 лет до нашей эры, но наибольшие катастрофические последствия звезда учинила 12 тысяч лет назад. Во время сближения нейтронной звезды с нашей планетой на Земле начались ужасные бедствия: сильнейшие ураганы, землетрясения, извержения вулканов, пожары, захват гидросферы и атмосферы нашей планеты. Под воздействием тяготения звезды, в морях и океанах образовалась огромная приливная волна, которая прокатилась по земной поверхности, сметая все на своем пути. Это катастрофическое бедствие продолжалось семь дней. Английские антропологи установили, что примерно 12 тысяч лет назад на нашей планете жило около 670 миллионов человек, а затем резко сократилось до 6-7 миллионов, то есть на Земле в результате катаклизмов учиненных нейтронной звездой выжил в только один человек из ста. На одном из рисунков на полях имеется изображение нашей планеты, которая обозначена тремя кругами (третья планета от Солнца). Рядом с Землей находится небесный объект с 11 спутниками. Это еще одно предупреждение о появлении Тифона рядом с нашей планетой. Рис. № 27. Земля и нейтронная звезда с ее 11 спутниками. Рис. № 28 а. Три круга (третья планета от Солнца) , вероятно, символ Земли. Ниже изображен круг с точкой и хвостом. Такие же изображения звезды встречаются на петроглифах и наскальных рисунках многих регионах мира. Возможно, еще одно предупреждение о приближении \"страшной\" звезды к нашей планете. Согласно предсказаниям, сближение нейтронной звезды с Землей произойдёт около 2025 года. В это время начнутся сильнейшие землетрясения, извержения вулканов и потоп от приливной волны - высотой 500-800 метров. Тяготением звезды будет захвачена часть гидросферы и атмосферы планеты, а также сместится ось ее вращения относительно плоскости эклиптики. В сборнике древнерусских повествований (\"Физиологе\") имеется совет, как спастись во время очередного появления Горгоны – «зарыться в землю». На одном из рисунков на полях изображено Солнце и планеты внутренней группы: Меркурий, Венера и Марс. Третья орбита, где должна находиться наше планета, пустая. Возможно, во время очередного сближения звезды Земля будет разрушена ее тяготением и навсегда исчезнет в безднах космического пространства. Рисунок на полях. 26 июня 1995 года. Авторы рисунков на полях, которым по каким-то причинам не разрешено открыто вмешиваться в дела землян, всячески стараются предупредить нас о будущем катаклизме, но мы не понимаем этого. Когда звезда появится рядом с Землей, будет уже поздно. И не говорите, что Вас не предупреждали! Пророчества о появлении звезды рядом с нашей планетой в блоге: http://isi-2025.blogspot.com/ (архив за 2011 г.) Пришельцы ответили на просьбу нарисовать определенные круги на полях: http://isi-2025.blogspot.ru/2013/08/blog-post.html Более подробные сведения о катаклизмах прошлого и будущего, вызванных необычной звездой, можно найти в книгах Симонова. В.А. 1. Апокалипсис наступит завтра. Из-во «Олма Медиа Групп», 2006 г. 2. Пророчества Нострадамуса от прошлого к 2012 г. Из-во \"Эксмо\", 2009 г. 3. Пророки о будущем мира. Из-во \"Эксмо\", 2010 г. 4. Пророки всего мира о России. Из-во \"Эксмо\", 2010 г. 5. Большая энциклопедия Апокалипсиса. Из-во «Эксмо», 2011 г. 6. Нострадамус. Сиксены, альманахи и письма о будущем человечества. Из-во «Центрполиграф, 2011 г. 7. Звезда Апокалипсиса. Из-во \"Центрполиграф\", 2012 г. 8. Пророчества \"Книги Сивилл\". Из-во \"Весь\", 2012 г.",
+        "display_name": "Круги на полях - предупреждение о будущем катаклизме",
+        "favicon_images": {
+            "50x": "https://i.pinimg.com/favicons/50x/b8f9a494610e3710a424b4f226bb6f76bb33f5ba680a51b3479c3de3.png?59a0c7b6e4848ccdabcea0636efda02b",
+            "orig": "https://i.pinimg.com/favicons/b8f9a494610e3710a424b4f226bb6f76bb33f5ba680a51b3479c3de3.ico?59a0c7b6e4848ccdabcea0636efda02b"
+        },
+        "favicon_link": "https://i.pinimg.com/favicons/b8f9a494610e3710a424b4f226bb6f76bb33f5ba680a51b3479c3de3.ico?59a0c7b6e4848ccdabcea0636efda02b",
+        "id": "71843e964ee46b52914b2094c0299389",
+        "products": [],
+        "site_name": "isi-2025.blogspot.com",
+        "type": "richpingriddata",
+        "type_name": "article",
+        "url": "http://isi-2025.blogspot.com/2011/12/blog-post_18.html"
+    },
+    "shopping_flags": [],
+    "sponsorship": null,
+    "story_pin_data": null,
+    "story_pin_data_id": null,
+    "subcategory": "board",
+    "title": "",
+    "tracking_params": "CwABAAAAEDE2OTYwOTE0Mzc2NTY3MTgGAAMAAQsABwAAAApuZ2FwaS9wcm9kAA",
+    "type": "pin",
+    "url": "https://i.pinimg.com/originals/57/b7/72/57b77260d5c0573034e8b0321c836033.jpg",
+    "video_status": null,
+    "video_status_message": null,
+    "videos": null,
+    "view_tags": [],
+    "width": 500
+}
